@@ -1,10 +1,10 @@
 {
-    "class": "Farragut",
-    "type": "Grand Battleship",
-    "points": 215,
-    "tonnage": "H",
-    "base_size": 60,
-    "profile": {
+    "Class": "Farragut",
+    "Type": "Grand Battleship",
+    "Points": 215,
+    "Tonnage": "H",
+    "BaseSize": 60,
+    "Profile": {
         "Thrust": 5,
         "Scan": 8,
         "Sig": 8,
@@ -15,7 +15,7 @@
         "G": "1",
         "Special": []
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "NC-16 Missile Battery Turret Quad",
             "Arc": "F/S/R",
@@ -53,7 +53,7 @@
             ]
         }
     ],
-    "load": [
+    "Load": [
         {
             "Load": "Torpedo",
             "Launch": 3,
@@ -62,13 +62,13 @@
             ]
         }
     ],
-    "rules": [
+    "Rules": [
         {
             "Name": "Engine Refit",
             "Text": "This Ship may take an Engine Refit for +45 points, increasing its Thrust by 2\"."
         }
     ],
-    "upgrades": [
+    "Upgrades": [
         {
             "Name": "Engine Refit",
             "Cost": 45,
@@ -81,11 +81,11 @@
             ]
         }
     ],
-    "known_ships": [
+    "KnownShips": [
         "Endeavour",
         "Tribe Bane (Independents)",
         "Hammer of Reason",
         "Subjugator (Kalium)"
     ],
-    "flavour": "Developed alongside the Barbarossa, the Farragut offers a more straightforward weapons loadout with surplus power capacity. This surplus and the relative simplicity of its armaments gave the Farragut legendary endurance and has made it a favourite of Resistance fleets. Offering the same quad-turret NC-16 battery and NC-12 broadsides as the Barbarossa, the Farragut also mounts six enormous torpedoes in three tubes, allowing for two devastating spreads. Few ships can survive a single salvo from this ancient leviathan."
+    "Flavour": "Developed alongside the Barbarossa, the Farragut offers a more straightforward weapons loadout with surplus power capacity. This surplus and the relative simplicity of its armaments gave the Farragut legendary endurance and has made it a favourite of Resistance fleets. Offering the same quad-turret NC-16 battery and NC-12 broadsides as the Barbarossa, the Farragut also mounts six enormous torpedoes in three tubes, allowing for two devastating spreads. Few ships can survive a single salvo from this ancient leviathan."
 }

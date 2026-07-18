@@ -1,11 +1,11 @@
 {
-    "name": "Cruiser Systems",
-    "groups": [
+    "Name": "Cruiser Systems",
+    "Groups": [
         "Broadside Hardpoint",
         "Structures",
         "Turret Hardpoint"
     ],
-    "systems": {
+    "Systems": {
         "Broadside Hardpoint": [
             {
                 "Pts": 10,

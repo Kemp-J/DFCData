@@ -1,10 +1,10 @@
 {
-    "class": "Diode",
-    "type": "Destroyer",
-    "points": 75,
-    "tonnage": "L",
-    "base_size": 30,
-    "profile": {
+    "Class": "Diode",
+    "Type": "Destroyer",
+    "Points": 75,
+    "Tonnage": "L",
+    "BaseSize": 30,
+    "Profile": {
         "Thrust": 8,
         "Scan": 8,
         "Sig": 2,
@@ -15,7 +15,7 @@
         "G": "1-3",
         "Special": []
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Bisector",
             "Arc": "FN",
@@ -31,7 +31,7 @@
             ]
         }
     ],
-    "load": [],
-    "known_ships": [],
-    "flavour": ""
+    "Load": [],
+    "KnownShips": [],
+    "Flavour": ""
 }

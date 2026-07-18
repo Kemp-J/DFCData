@@ -5,35 +5,35 @@
     "description": "The top-level _index.json file, which acts as the entry point for accessing the exported data.",
     "type": "object",
     "required": [
-        "system",
-        "fleets",
-        "other_ships",
-        "counts_as",
-        "stations"
+        "System",
+        "Fleets",
+        "OtherShips",
+        "CountsAs",
+        "Stations"
     ],
     "additionalProperties": false,
     "properties": {
-        "system": {
+        "System": {
             "description": "Relative path from the exported root to the system index file.",
             "type": "string"
         },
-        "fleets": {
+        "Fleets": {
             "description": "Relative paths from the exported root to each fleet index file.",
             "type": "array",
             "items": { "type": "string" },
             "minItems": 1
         },
-        "other_ships": {
+        "OtherShips": {
             "description": "Relative paths from the exported root to other ship category index files (civilian, misc).",
             "type": "array",
             "items": { "type": "string" },
             "minItems": 1
         },
-        "counts_as": {
+        "CountsAs": {
             "description": "Relative path from the exported root to the 'counts as' index file.",
             "type": "string"
         },
-        "stations": {
+        "Stations": {
             "description": "Relative path from the exported root to the fleet stations index file.",
             "type": "string"
         }

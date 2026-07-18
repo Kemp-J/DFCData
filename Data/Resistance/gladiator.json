@@ -1,10 +1,10 @@
 {
-    "class": "Gladiator",
-    "type": "Grand Cruiser",
-    "points": 148,
-    "tonnage": "M",
-    "base_size": 40,
-    "profile": {
+    "Class": "Gladiator",
+    "Type": "Grand Cruiser",
+    "Points": 148,
+    "Tonnage": "M",
+    "BaseSize": 40,
+    "Profile": {
         "Thrust": 5,
         "Scan": 6,
         "Sig": 6,
@@ -15,7 +15,7 @@
         "G": "1",
         "Special": []
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Heavy Vent Cannon Turret",
             "Arc": "F/S",
@@ -42,13 +42,13 @@
             ]
         }
     ],
-    "load": [],
-    "known_ships": [
+    "Load": [],
+    "KnownShips": [
         "Atomheart",
         "Fusion Queen (Independents)",
         "Incinerator",
         "Hell's Fury",
         "Vengefire (Kalium)"
     ],
-    "flavour": "The Gladiator was a limited production test-bed for Vent Cannon technology, developed from the Centurion class by Equatorial Yards inc. At the time, it was hoped that they could eventually replace all guns that used physical munitions. However, the number of accidents and dangerous internal meltdowns convinced the EAA to shelve the concept of an all-Vent-Cannon ship such as the Gladiator, since it has no other weapons should the core grow unstable.\nThe Resistance has been able to overlook these flaws, given the advantages the class offers. Without physical munitions, it never needs ammunition resupply so can operate offensively more or less indefinitely, providing its cores are maintained. Also, Vent Cannons are especially devastating, if unreliable. Such power is particularly attractive to Kalium – the rogue Colony has produced fully three times the number of this class than were laid-down before the Scourge invasion."
+    "Flavour": "The Gladiator was a limited production test-bed for Vent Cannon technology, developed from the Centurion class by Equatorial Yards inc. At the time, it was hoped that they could eventually replace all guns that used physical munitions. However, the number of accidents and dangerous internal meltdowns convinced the EAA to shelve the concept of an all-Vent-Cannon ship such as the Gladiator, since it has no other weapons should the core grow unstable.\nThe Resistance has been able to overlook these flaws, given the advantages the class offers. Without physical munitions, it never needs ammunition resupply so can operate offensively more or less indefinitely, providing its cores are maintained. Also, Vent Cannons are especially devastating, if unreliable. Such power is particularly attractive to Kalium – the rogue Colony has produced fully three times the number of this class than were laid-down before the Scourge invasion."
 }

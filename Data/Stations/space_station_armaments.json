@@ -1,10 +1,10 @@
 {
-    "name": "Space Station Armaments",
-    "groups": [
+    "Name": "Space Station Armaments",
+    "Groups": [
         "Weapon Systems",
         "Structures"
     ],
-    "systems": {
+    "Systems": {
         "Weapon Systems": [
             {
                 "Pts": 15,

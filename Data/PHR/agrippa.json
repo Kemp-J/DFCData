@@ -1,10 +1,10 @@
 {
-    "class": "Agrippa",
-    "type": "Battlecruiser",
-    "points": 160,
-    "tonnage": "H",
-    "base_size": 50,
-    "profile": {
+    "Class": "Agrippa",
+    "Type": "Battlecruiser",
+    "Points": 160,
+    "Tonnage": "H",
+    "BaseSize": 50,
+    "Profile": {
         "Thrust": 10,
         "Scan": 8,
         "Sig": 6,
@@ -17,7 +17,7 @@
             "Vanguard-4\""
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Holographic Drones",
             "Arc": "S",
@@ -32,13 +32,13 @@
             ]
         }
     ],
-    "load": [],
-    "rules": [
+    "Load": [],
+    "Rules": [
         {
             "Name": "Holo Interference Field",
             "Text": "At the end of this ship's activation, you may place a Holo Interference Field within 3\" of this ship. These Holo Interference Fields are removed during the Cleanup step of the End Phase and are circular with a 4\" diameter (a D6 or custom template are perfect tokens to represent these). Enemy Ships ignore the target's Spikes and Signature when attacking through a Holo Interference Field. Enemy Fighters & Bombers underneath the Holo Interference Field when it is placed, or that move/are placed into the Holo Interference Field are removed on a 4+."
         }
     ],
-    "known_ships": [],
-    "flavour": ""
+    "KnownShips": [],
+    "Flavour": ""
 }

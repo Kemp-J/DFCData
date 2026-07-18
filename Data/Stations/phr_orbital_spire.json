@@ -1,10 +1,10 @@
 {
-    "fleet": "PHR",
-    "name": "Orbital Spire",
-    "size": "Large",
-    "points": 145,
-    "base_size": 50,
-    "profile": {
+    "Fleet": "PHR",
+    "Name": "Orbital Spire",
+    "Size": "Large",
+    "Points": 145,
+    "BaseSize": 50,
+    "Profile": {
         "Scan": 8,
         "Sig": 6,
         "Hull": 26,
@@ -14,7 +14,7 @@
         "G": "1",
         "Special": []
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Neutron Missiles",
             "Arc": "F/S/R",
@@ -40,5 +40,5 @@
             "Rule": "When you attack with this weapon, roll once and apply the roll to all enemy Groups within range."
         }
     ],
-    "load": []
+    "Load": []
 }

@@ -1,10 +1,10 @@
 {
-    "class": "Natrolite",
-    "type": "Supercruiser",
-    "points": 184,
-    "tonnage": "M",
-    "base_size": 50,
-    "profile": {
+    "Class": "Natrolite",
+    "Type": "Supercruiser",
+    "Points": 184,
+    "Tonnage": "M",
+    "BaseSize": 50,
+    "Profile": {
         "Thrust": 10,
         "Scan": 12,
         "Sig": 6,
@@ -17,7 +17,7 @@
             "Shield-4+"
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Disintegrator Battery Pair",
             "Arc": "F/S",
@@ -31,18 +31,18 @@
             ]
         }
     ],
-    "load": [],
-    "rules": [
+    "Load": [],
+    "Rules": [
         {
             "Name": "Feature Carrier",
             "Text": "At the start of the game, before players deploy, choose two Deployable Features from the Shaltari Deployable Features List (duplicates are allowed). This Ship starts the game carrying those Deployable Features."
         }
     ],
-    "known_ships": [
+    "KnownShips": [
         "Barque Solar",
         "Doombringer",
         "Ark Majestic",
         "Blue Scarab"
     ],
-    "flavour": "Another recent addition to the 27th century battlespace is the Natrolite supercruiser. Much like its cousin, the Mesolite, this warship packs a battlecruiser-grade linked pair of disintegrator batteries for devastating firepower during flexible manoeuvres.\nWhile it offers little else in weaponry, it makes up for this with a docking mount for two stacked self-deploying surface instillations. These have already proven deeply problematic to deal with and represent an increased willingness from the aliens to commit to medium, and even long-term, surface commitments in contested territory. Some suggest this may be in response to increased Bioficer incursions, possibly an attempt to sway the war to their exacting, unknowable ends before the new foe arrives in force."
+    "Flavour": "Another recent addition to the 27th century battlespace is the Natrolite supercruiser. Much like its cousin, the Mesolite, this warship packs a battlecruiser-grade linked pair of disintegrator batteries for devastating firepower during flexible manoeuvres.\nWhile it offers little else in weaponry, it makes up for this with a docking mount for two stacked self-deploying surface instillations. These have already proven deeply problematic to deal with and represent an increased willingness from the aliens to commit to medium, and even long-term, surface commitments in contested territory. Some suggest this may be in response to increased Bioficer incursions, possibly an attempt to sway the war to their exacting, unknowable ends before the new foe arrives in force."
 }

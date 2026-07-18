@@ -1,10 +1,10 @@
 {
-    "class": "Cerium",
-    "type": "Super Battleship",
-    "points": 230,
-    "tonnage": "H",
-    "base_size": 50,
-    "profile": {
+    "Class": "Cerium",
+    "Type": "Super Battleship",
+    "Points": 230,
+    "Tonnage": "H",
+    "BaseSize": 50,
+    "Profile": {
         "Thrust": 8,
         "Scan": 12,
         "Sig": 8,
@@ -17,7 +17,7 @@
             "Shield-4+"
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Mega Thermal Lance Cannon",
             "Arc": "FN",
@@ -44,7 +44,7 @@
             ]
         }
     ],
-    "load": [
+    "Load": [
         {
             "Load": "Torpedo",
             "Launch": 2,
@@ -53,10 +53,10 @@
             ]
         }
     ],
-    "known_ships": [
+    "KnownShips": [
         "Starbringer",
         "She Immolates",
         "Nova Sublime"
     ],
-    "flavour": "Shaltari torpedoes are extremely rare, and many would assume that such gargantuan, physical munitions are primitive for such an advanced race. However, when these technological marvels near their target, they detonate as a tiny supernova, channelling that colossal energy into a beam of incandescent power, liquifying the target. The Cerium carries four in two tubes, a cruiser-sized Mega Thermal Lance Cannon, and microwave broadsides."
+    "Flavour": "Shaltari torpedoes are extremely rare, and many would assume that such gargantuan, physical munitions are primitive for such an advanced race. However, when these technological marvels near their target, they detonate as a tiny supernova, channelling that colossal energy into a beam of incandescent power, liquifying the target. The Cerium carries four in two tubes, a cruiser-sized Mega Thermal Lance Cannon, and microwave broadsides."
 }

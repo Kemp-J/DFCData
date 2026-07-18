@@ -1,10 +1,10 @@
 {
-    "class": "Nickar",
-    "type": "Hunter-Killer",
-    "points": 20,
-    "tonnage": "L",
-    "base_size": 30,
-    "profile": {
+    "Class": "Nickar",
+    "Type": "Hunter-Killer",
+    "Points": 20,
+    "Tonnage": "L",
+    "BaseSize": 30,
+    "Profile": {
         "Thrust": 16,
         "Scan": 6,
         "Sig": 2,
@@ -17,7 +17,7 @@
             "Descent"
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Plasma Squall",
             "Arc": "F/S/R",
@@ -32,12 +32,12 @@
             ]
         }
     ],
-    "load": [],
-    "known_ships": [
+    "Load": [],
+    "KnownShips": [
         "Eden's Bane",
         "Wardog",
         "Halsey's Folly",
         "Jack the Ripper"
     ],
-    "flavour": "The Nickar class hunter-killer is a small, atmospheric-capable vessel of sub-frigate tonnage. These nimble, fast ships are rightly feared by any enemy vessel that operates in atmosphere - this ship's favourite hunting ground. Armed with specialist plasma munitions, these deadly predators can easily destroy vessels larger than themselves such as strike carriers.\nIn the opening days of the Reconquest, this class was responsible for more Armoured Corps losses than ground actions. Thousands of men and vehicles were lost to hunterkiller incursions aboard their strike carriers before they even made it to the surface. Since these vessels operate in the relative safety of atmosphere, the best measure against them is corvettes - a lesson learned the hard way by the Admiralty who no longer discount such small ships in their battle plans."
+    "Flavour": "The Nickar class hunter-killer is a small, atmospheric-capable vessel of sub-frigate tonnage. These nimble, fast ships are rightly feared by any enemy vessel that operates in atmosphere - this ship's favourite hunting ground. Armed with specialist plasma munitions, these deadly predators can easily destroy vessels larger than themselves such as strike carriers.\nIn the opening days of the Reconquest, this class was responsible for more Armoured Corps losses than ground actions. Thousands of men and vehicles were lost to hunterkiller incursions aboard their strike carriers before they even made it to the surface. Since these vessels operate in the relative safety of atmosphere, the best measure against them is corvettes - a lesson learned the hard way by the Admiralty who no longer discount such small ships in their battle plans."
 }

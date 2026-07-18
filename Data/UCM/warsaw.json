@@ -1,10 +1,10 @@
 {
-    "class": "Warsaw",
-    "type": "Heavy Cruiser",
-    "points": 110,
-    "tonnage": "M",
-    "base_size": 40,
-    "profile": {
+    "Class": "Warsaw",
+    "Type": "Heavy Cruiser",
+    "Points": 110,
+    "Tonnage": "M",
+    "BaseSize": 40,
+    "Profile": {
         "Thrust": 7,
         "Scan": 6,
         "Sig": 6,
@@ -15,7 +15,7 @@
         "G": "1",
         "Special": []
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Cobra Heavy Laser Pair",
             "Arc": "FN",
@@ -41,7 +41,7 @@
             ]
         }
     ],
-    "load": [],
-    "known_ships": [],
-    "flavour": ""
+    "Load": [],
+    "KnownShips": [],
+    "Flavour": ""
 }

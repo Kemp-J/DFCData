@@ -1,10 +1,10 @@
 {
-    "class": "Ganymede",
-    "type": "Assault Troopship",
-    "points": 165,
-    "tonnage": "M",
-    "base_size": 40,
-    "profile": {
+    "Class": "Ganymede",
+    "Type": "Assault Troopship",
+    "Points": 165,
+    "Tonnage": "M",
+    "BaseSize": 40,
+    "Profile": {
         "Thrust": 7,
         "Scan": 8,
         "Sig": 6,
@@ -15,7 +15,7 @@
         "G": "1",
         "Special": []
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Bombardment Battery",
             "Arc": "F/S/R",
@@ -49,18 +49,18 @@
             "Special": []
         }
     ],
-    "load": [
+    "Load": [
         {
             "Load": "Bulk Landers",
             "Launch": 4,
             "Special": []
         }
     ],
-    "known_ships": [
+    "KnownShips": [
         "Argo",
         "Great Library",
         "Copernicus",
         "Judgement of Zeus"
     ],
-    "flavour": "The Ganymede is a sister class to the Orpheus, and shares its general design doctrine and basic hull although its armament and mission profile differs. Primarily, the Ganymede is configured to attack through orbital bombardment, preparing the surface battlefield for its infantry payload and supporting them on the surface. It achieves this by sacrificing some ship-ship firepower in favour of heavy bombard cannons.\nThis essentially makes the Ganymede two ships in one, affording a PHR admiral options even when outnumbered or under-resourced. However, this makes the class somewhat specialised, as these qualities are wasted if deployed in an area with no legitimate ground targets. However, it still has access to a respectable number of ship-ship medium mass drivers for protection against orbital assets, superior in firepower to its contemporaries in other races."
+    "Flavour": "The Ganymede is a sister class to the Orpheus, and shares its general design doctrine and basic hull although its armament and mission profile differs. Primarily, the Ganymede is configured to attack through orbital bombardment, preparing the surface battlefield for its infantry payload and supporting them on the surface. It achieves this by sacrificing some ship-ship firepower in favour of heavy bombard cannons.\nThis essentially makes the Ganymede two ships in one, affording a PHR admiral options even when outnumbered or under-resourced. However, this makes the class somewhat specialised, as these qualities are wasted if deployed in an area with no legitimate ground targets. However, it still has access to a respectable number of ship-ship medium mass drivers for protection against orbital assets, superior in firepower to its contemporaries in other races."
 }

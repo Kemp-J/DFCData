@@ -1,10 +1,10 @@
 {
-    "class": "Vilnius",
-    "type": "Heavy Cruiser",
-    "points": 115,
-    "tonnage": "M",
-    "base_size": 40,
-    "profile": {
+    "Class": "Vilnius",
+    "Type": "Heavy Cruiser",
+    "Points": 115,
+    "Tonnage": "M",
+    "BaseSize": 40,
+    "Profile": {
         "Thrust": 7,
         "Scan": 6,
         "Sig": 6,
@@ -15,7 +15,7 @@
         "G": "1",
         "Special": []
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "UF-6400 Mass Driver Turrets",
             "Arc": "F/S",
@@ -50,7 +50,7 @@
             ]
         }
     ],
-    "load": [],
-    "known_ships": [],
-    "flavour": ""
+    "Load": [],
+    "KnownShips": [],
+    "Flavour": ""
 }

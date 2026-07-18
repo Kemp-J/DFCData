@@ -1,10 +1,10 @@
 {
-    "class": "Lander Cell",
-    "type": "Cell",
-    "points": 15,
-    "tonnage": "L",
-    "base_size": 30,
-    "profile": {
+    "Class": "Lander Cell",
+    "Type": "Cell",
+    "Points": 15,
+    "Tonnage": "L",
+    "BaseSize": 30,
+    "Profile": {
         "Thrust": 2,
         "Scan": 8,
         "Sig": 1,
@@ -18,14 +18,14 @@
             "Vectored"
         ]
     },
-    "weapons": [],
-    "load": [
+    "Weapons": [],
+    "Load": [
         {
             "Load": "Bulk Landers",
             "Launch": 2,
             "Special": []
         }
     ],
-    "known_ships": [],
-    "flavour": ""
+    "KnownShips": [],
+    "Flavour": ""
 }

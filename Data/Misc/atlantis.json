@@ -1,12 +1,12 @@
 {
-    "fleet": "UCM",
-    "class": "Atlantis",
-    "type": "Battlecruiser",
-    "rule_name": "Counts As",
-    "rule_text": "This ship counts as a Johannesburg Battlecruiser",
-    "known_ships": [],
-    "flavour": "",
-    "counts_as_class": "Johannesburg",
-    "counts_as_type": "Battlecruiser",
-    "availability": "EXCLUSIVE"
+    "Fleet": "UCM",
+    "Class": "Atlantis",
+    "Type": "Battlecruiser",
+    "RuleName": "Counts As",
+    "RuleText": "This ship counts as a Johannesburg Battlecruiser",
+    "KnownShips": [],
+    "Flavour": "",
+    "CountsAsClass": "Johannesburg",
+    "CountsAsType": "Battlecruiser",
+    "Availability": "EXCLUSIVE"
 }

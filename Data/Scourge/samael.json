@@ -1,10 +1,10 @@
 {
-    "class": "Samael",
-    "type": "Super Battleship",
-    "points": 285,
-    "tonnage": "H",
-    "base_size": 50,
-    "profile": {
+    "Class": "Samael",
+    "Type": "Super Battleship",
+    "Points": 285,
+    "Tonnage": "H",
+    "BaseSize": 50,
+    "Profile": {
         "Thrust": 6,
         "Scan": 8,
         "Sig": 10,
@@ -15,7 +15,7 @@
         "G": "1",
         "Special": []
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Mega Plasma Lance Battery",
             "Arc": "F/S",
@@ -66,7 +66,7 @@
             ]
         }
     ],
-    "load": [
+    "Load": [
         {
             "Load": "Torpedo",
             "Launch": 2,
@@ -75,17 +75,17 @@
             ]
         }
     ],
-    "rules": [
+    "Rules": [
         {
             "Name": "Keel Options",
             "Text": "This Ship must take either a Cloaking Keel, gaining Stealth and Cloak-2, or an Engine Upgrade for +10 points, increasing Thrust by 3\"."
         }
     ],
-    "upgrades": [
+    "Upgrades": [
         {
-            "min": 1,
-            "max": 1,
-            "options": [
+            "Min": 1,
+            "Max": 1,
+            "Options": [
                 {
                     "Name": "Cloaking Keel",
                     "Cost": 0,
@@ -116,11 +116,11 @@
             ]
         }
     ],
-    "known_ships": [
+    "KnownShips": [
         "Our Plague",
         "Primeval Serpent",
         "Severity",
         "Destroying Angel"
     ],
-    "flavour": "Likely a close relation to its cousin, the Bael class, the Samael also mounts a mega plasma lance battery, multiple oculus weapons systems, and torpedoes. It forgoes the Bael's launch capacity though, in favour of even more direct anti-shipping firepower in the form of a pair of furnace fangs. This wide suite of weapons allows this super battleship to destroy multiple foes simultaneously or pummel one victim with extreme prejudice."
+    "Flavour": "Likely a close relation to its cousin, the Bael class, the Samael also mounts a mega plasma lance battery, multiple oculus weapons systems, and torpedoes. It forgoes the Bael's launch capacity though, in favour of even more direct anti-shipping firepower in the form of a pair of furnace fangs. This wide suite of weapons allows this super battleship to destroy multiple foes simultaneously or pummel one victim with extreme prejudice."
 }

@@ -1,10 +1,10 @@
 {
-    "class": "Ruby",
-    "type": "Battlecruiser",
-    "points": 160,
-    "tonnage": "H",
-    "base_size": 50,
-    "profile": {
+    "Class": "Ruby",
+    "Type": "Battlecruiser",
+    "Points": 160,
+    "Tonnage": "H",
+    "BaseSize": 50,
+    "Profile": {
         "Thrust": 10,
         "Scan": 12,
         "Sig": 6,
@@ -18,7 +18,7 @@
             "Vanguard-6\""
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Disintegrator Battery Pair",
             "Arc": "F/S",
@@ -43,11 +43,11 @@
             ]
         }
     ],
-    "load": [],
-    "known_ships": [
+    "Load": [],
+    "KnownShips": [
         "Perpetual",
         "Bringer of Final Death",
         "Ages Scarlet"
     ],
-    "flavour": "The Adamant and Ruby class battlecruisers are potent vessels designed for maximum firepower in a fast, sleek package. Both classes are excellent interdiction vessels, superlative in the arts of flanking sweeps and the annihilation of enemy supply convoys behind the lines. They feature battleship-level firepower in a fast package which can keep up with cruisers, making them popular command ships for missions that require speed above toughness. However, they lack a battleship's ability to take punishment, requiring dexterity, restraint and opportunistic aggression in equal measure from their captains.\nOf the two classes, the Ruby is more common, but both share the same armament and capability. Firstly, a pair of disruptor banks gives them the base firepower of an Amber class cruiser. Added to this is a pair of lethal particle lances – weapons which can slice through any armour ranged against them. Unlike cruisers, these battlecruisers can generate enough energy to fire the pair simultaneously during manoeuvres, making this ship more deadly than even heavy cruisers in extreme combat."
+    "Flavour": "The Adamant and Ruby class battlecruisers are potent vessels designed for maximum firepower in a fast, sleek package. Both classes are excellent interdiction vessels, superlative in the arts of flanking sweeps and the annihilation of enemy supply convoys behind the lines. They feature battleship-level firepower in a fast package which can keep up with cruisers, making them popular command ships for missions that require speed above toughness. However, they lack a battleship's ability to take punishment, requiring dexterity, restraint and opportunistic aggression in equal measure from their captains.\nOf the two classes, the Ruby is more common, but both share the same armament and capability. Firstly, a pair of disruptor banks gives them the base firepower of an Amber class cruiser. Added to this is a pair of lethal particle lances – weapons which can slice through any armour ranged against them. Unlike cruisers, these battlecruisers can generate enough energy to fire the pair simultaneously during manoeuvres, making this ship more deadly than even heavy cruisers in extreme combat."
 }

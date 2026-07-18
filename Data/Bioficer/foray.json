@@ -1,10 +1,10 @@
 {
-    "class": "Foray",
-    "type": "Frigate",
-    "points": 25,
-    "tonnage": "L",
-    "base_size": 30,
-    "profile": {
+    "Class": "Foray",
+    "Type": "Frigate",
+    "Points": 25,
+    "Tonnage": "L",
+    "BaseSize": 30,
+    "Profile": {
         "Thrust": 14,
         "Scan": 8,
         "Sig": 1,
@@ -17,7 +17,7 @@
             "Porter S-1"
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Decon Burst",
             "Arc": "F/S/R",
@@ -28,7 +28,7 @@
             "Special": []
         }
     ],
-    "load": [],
-    "known_ships": [],
-    "flavour": ""
+    "Load": [],
+    "KnownShips": [],
+    "Flavour": ""
 }

@@ -3,24 +3,24 @@
     "$id": "https://dfc/schemas/stations/fleet_station.json",
     "title": "DFC Fleet Space Station",
     "type": "object",
-    "required": ["name", "fleet", "size", "points", "base_size", "profile", "weapons", "load"],
+    "required": ["Name", "Fleet", "Size", "Points", "BaseSize", "Profile", "Weapons", "Load"],
     "additionalProperties": false,
     "properties": {
-        "fleet":     { "type": "string" },
-        "name":      { "type": "string" },
-        "size":      { "type": "string", "enum": ["Small", "Medium", "Large"] },
-        "points":    { "type": "integer" },
-        "base_size": { "type": "integer" },
-        "profile":   { "$ref": "https://dfc/schemas/stations/defs.json#/$defs/StationProfile" },
-        "weapons": {
+        "Fleet":     { "type": "string" },
+        "Name":      { "type": "string" },
+        "Size":      { "type": "string", "enum": ["Small", "Medium", "Large"] },
+        "Points":    { "type": "integer" },
+        "BaseSize":  { "type": "integer" },
+        "Profile":   { "$ref": "https://dfc/schemas/stations/defs.json#/$defs/StationProfile" },
+        "Weapons": {
             "type": "array",
             "items": { "$ref": "https://dfc/schemas/defs.json#/$defs/Weapon" }
         },
-        "load": {
+        "Load": {
             "type": "array",
             "items": { "$ref": "https://dfc/schemas/defs.json#/$defs/LoadEntry" }
         },
-        "rules": {
+        "Rules": {
             "type": "array",
             "items": { "$ref": "https://dfc/schemas/defs.json#/$defs/Rule" }
         }

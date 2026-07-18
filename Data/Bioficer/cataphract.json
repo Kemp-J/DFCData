@@ -1,10 +1,10 @@
 {
-    "class": "Cataphract",
-    "type": "Heavy Cruiser",
-    "points": 108,
-    "tonnage": "M",
-    "base_size": 40,
-    "profile": {
+    "Class": "Cataphract",
+    "Type": "Heavy Cruiser",
+    "Points": 108,
+    "Tonnage": "M",
+    "BaseSize": 40,
+    "Profile": {
         "Thrust": 7,
         "Scan": 8,
         "Sig": 4,
@@ -17,7 +17,7 @@
             "Porter S-1"
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Ghost Orb",
             "Arc": "F/S",
@@ -43,7 +43,7 @@
             ]
         }
     ],
-    "load": [],
-    "known_ships": [],
-    "flavour": ""
+    "Load": [],
+    "KnownShips": [],
+    "Flavour": ""
 }

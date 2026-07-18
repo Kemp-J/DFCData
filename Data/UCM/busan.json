@@ -1,10 +1,10 @@
 {
-    "class": "Busan",
-    "type": "Supercruiser",
-    "points": 166,
-    "tonnage": "M",
-    "base_size": 50,
-    "profile": {
+    "Class": "Busan",
+    "Type": "Supercruiser",
+    "Points": 166,
+    "Tonnage": "M",
+    "BaseSize": 50,
+    "Profile": {
         "Thrust": 7,
         "Scan": 8,
         "Sig": 6,
@@ -15,7 +15,7 @@
         "G": "1",
         "Special": []
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Elapid Laser Turret",
             "Arc": "F/S",
@@ -62,13 +62,13 @@
             ]
         }
     ],
-    "load": [],
-    "rules": [
+    "Load": [],
+    "Rules": [
         {
             "Name": "Feature Carrier",
             "Text": "At the start of the game, before players deploy, choose one Deployable Feature from the UCM Deployable Features List. This Ship starts the game carrying that Deployable Feature."
         }
     ],
-    "known_ships": [],
-    "flavour": ""
+    "KnownShips": [],
+    "Flavour": ""
 }

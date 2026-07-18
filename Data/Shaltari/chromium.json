@@ -1,10 +1,10 @@
 {
-    "class": "Chromium",
-    "type": "Destroyer",
-    "points": 60,
-    "tonnage": "L",
-    "base_size": 30,
-    "profile": {
+    "Class": "Chromium",
+    "Type": "Destroyer",
+    "Points": 60,
+    "Tonnage": "L",
+    "BaseSize": 30,
+    "Profile": {
         "Thrust": 12,
         "Scan": 12,
         "Sig": 6,
@@ -17,7 +17,7 @@
             "Shield-5+"
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Disruption Beamers",
             "Arc": "F",
@@ -42,11 +42,11 @@
             ]
         }
     ],
-    "load": [],
-    "known_ships": [
+    "Load": [],
+    "KnownShips": [
         "Novaqueen",
         "Black Pulse",
         "Long Certainty"
     ],
-    "flavour": "The Chromium class destroyer is unusual in that it features a thermal lance cannon, a weapon very similar to the Burnthrough weapons of more primitive races. Compared to some of the more eldritch armaments employed by the Shaltari, the simple expedient of focusing a sustained high energy laser at a target seems primitive. However, no UCMF admiral would deny the effectiveness of such weapons, often from personal experience!\nShaltari equivalents are of course more advanced, featuring shorter burn times and higher armour penetration potential. The fact that such a weapon can be mounted on a destroyer type hull in addition to other weapons is a testament to their advanced technology. However, the fact that these ships see more service with the smaller and less well equipped tribes suggests that such technology is simple for the Shaltari to construct ahead of more outlandish weaponry."
+    "Flavour": "The Chromium class destroyer is unusual in that it features a thermal lance cannon, a weapon very similar to the Burnthrough weapons of more primitive races. Compared to some of the more eldritch armaments employed by the Shaltari, the simple expedient of focusing a sustained high energy laser at a target seems primitive. However, no UCMF admiral would deny the effectiveness of such weapons, often from personal experience!\nShaltari equivalents are of course more advanced, featuring shorter burn times and higher armour penetration potential. The fact that such a weapon can be mounted on a destroyer type hull in addition to other weapons is a testament to their advanced technology. However, the fact that these ships see more service with the smaller and less well equipped tribes suggests that such technology is simple for the Shaltari to construct ahead of more outlandish weaponry."
 }

@@ -1,10 +1,10 @@
 {
-    "class": "Caesar",
-    "type": "Super Battleship",
-    "points": 270,
-    "tonnage": "H",
-    "base_size": 50,
-    "profile": {
+    "Class": "Caesar",
+    "Type": "Super Battleship",
+    "Points": 270,
+    "Tonnage": "H",
+    "BaseSize": 50,
+    "Profile": {
         "Thrust": 6,
         "Scan": 10,
         "Sig": 10,
@@ -15,7 +15,7 @@
         "G": "1",
         "Special": []
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Meganova Laser",
             "Arc": "FN",
@@ -57,11 +57,11 @@
             ]
         }
     ],
-    "load": [],
-    "known_ships": [
+    "Load": [],
+    "KnownShips": [
         "Julius Ceasar",
         "Dictator",
         "Supreme"
     ],
-    "flavour": "The Ceasar class super battleship strains this new superstructure's cutting-edge power matrix to the maximum. Featuring a terrifying array of forward-facing energy mega-weapons, this leviathan is designed to focus on one victim. Often, this target is obliterated in a single combined volley."
+    "Flavour": "The Ceasar class super battleship strains this new superstructure's cutting-edge power matrix to the maximum. Featuring a terrifying array of forward-facing energy mega-weapons, this leviathan is designed to focus on one victim. Often, this target is obliterated in a single combined volley."
 }

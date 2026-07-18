@@ -1,10 +1,10 @@
 {
-    "class": "Fugue",
-    "type": "Frigate",
-    "points": 35,
-    "tonnage": "L",
-    "base_size": 30,
-    "profile": {
+    "Class": "Fugue",
+    "Type": "Frigate",
+    "Points": 35,
+    "Tonnage": "L",
+    "BaseSize": 30,
+    "Profile": {
         "Thrust": 14,
         "Scan": 8,
         "Sig": 1,
@@ -15,7 +15,7 @@
         "G": "2-6",
         "Special": []
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Lightvice",
             "Arc": "F/S",
@@ -29,7 +29,7 @@
             ]
         }
     ],
-    "load": [],
-    "known_ships": [],
-    "flavour": ""
+    "Load": [],
+    "KnownShips": [],
+    "Flavour": ""
 }

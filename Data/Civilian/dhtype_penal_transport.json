@@ -1,10 +1,10 @@
 {
-    "class": "DH-Type Penal Transport",
-    "type": "Penal Legion Transport",
-    "points": 123,
-    "tonnage": "M",
-    "base_size": 40,
-    "profile": {
+    "Class": "DH-Type Penal Transport",
+    "Type": "Penal Legion Transport",
+    "Points": 123,
+    "Tonnage": "M",
+    "BaseSize": 40,
+    "Profile": {
         "Thrust": 6,
         "Scan": 4,
         "Sig": 6,
@@ -20,7 +20,7 @@
             "Unique"
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Deterrence Missiles",
             "Arc": "F/S",
@@ -45,7 +45,7 @@
             ]
         }
     ],
-    "load": [
+    "Load": [
         {
             "Load": "Drop Pods",
             "Launch": 2,
@@ -61,7 +61,7 @@
             ]
         }
     ],
-    "rules": [
+    "Rules": [
         {
             "Name": "Mercenary",
             "Text": "This Ship may be used in any Fleet regardless of faction. When taken as part of your fleet, this Ship loses its Boardable and Civilian Transport rules."
@@ -71,7 +71,7 @@
             "Text": "When taken as part of your fleet, this Ship starts the game with 2 friendly Battalions on it. When any number of enemy Battalions are removed due to Boarding Actions or Battalion Combat on a Space Station within 6\" of this Ship, place a single friendly Battalion on this Ship. This Ship's Boarding Pods and Drop Pods can only be used while it has friendly Battalions on it and each Boarding Pod or Drop Pod launched causes one friendly Battalion on this Ship to be removed."
         }
     ],
-    "usable_in": [
+    "UsableIn": [
         {
             "Fleet": "*",
             "Modifiers": [
@@ -88,7 +88,7 @@
             ]
         }
     ],
-    "known_ships": [
+    "KnownShips": [
         "Dreadhold",
         "No Mercy",
         "Last Chance (UCM)",
@@ -97,5 +97,5 @@
         "Tooth and Claw (Independent)",
         "DH2745 (Kalium)"
     ],
-    "flavour": "The DH-Type represents one of the Colonial Fleet's largest run of dedicated long-range prison ships, built around a standardized architecture of reinforced armour, multi-tier detention decks and automated security. Originally intended strictly for high-risk inmate transport and remote incarceration, wartime pressures pushed the class into broader operational roles.\nThough designed with consistent core systems, such as compartmentalized containment blocks, automated defensive suites, ECM shielding, and a C.A.G.E emitter field. The ships grew increasingly variable due to differing missions, retrofits, and partial deactivations. Although uncommon, Individual DH-Type vessels gained their own notoriety, such as Iron Veil, Remnant Forge, Dreadhold and Bright Spire. The DH-Type ships illustrated the evolution through conversions into troop transports, logistics carriers, medical ships, and frontier support platforms, often retaining traces of their original penal infrastructure.\nIn modern service, L1-class hulls endure as adaptable, if austere, multi-role assets. Their durable construction, intimidating infrastructure, and legacy security systems continue to define their operational character, reflecting both the robustness of the original design and the fleet's ongoing need to repurpose coercive architecture for broader demands."
+    "Flavour": "The DH-Type represents one of the Colonial Fleet's largest run of dedicated long-range prison ships, built around a standardized architecture of reinforced armour, multi-tier detention decks and automated security. Originally intended strictly for high-risk inmate transport and remote incarceration, wartime pressures pushed the class into broader operational roles.\nThough designed with consistent core systems, such as compartmentalized containment blocks, automated defensive suites, ECM shielding, and a C.A.G.E emitter field. The ships grew increasingly variable due to differing missions, retrofits, and partial deactivations. Although uncommon, Individual DH-Type vessels gained their own notoriety, such as Iron Veil, Remnant Forge, Dreadhold and Bright Spire. The DH-Type ships illustrated the evolution through conversions into troop transports, logistics carriers, medical ships, and frontier support platforms, often retaining traces of their original penal infrastructure.\nIn modern service, L1-class hulls endure as adaptable, if austere, multi-role assets. Their durable construction, intimidating infrastructure, and legacy security systems continue to define their operational character, reflecting both the robustness of the original design and the fleet's ongoing need to repurpose coercive architecture for broader demands."
 }

@@ -1,10 +1,10 @@
 {
-    "class": "Azurite",
-    "type": "Light Cruiser",
-    "points": 76,
-    "tonnage": "M",
-    "base_size": 40,
-    "profile": {
+    "Class": "Azurite",
+    "Type": "Light Cruiser",
+    "Points": 76,
+    "Tonnage": "M",
+    "BaseSize": 40,
+    "Profile": {
         "Thrust": 12,
         "Scan": 12,
         "Sig": 6,
@@ -19,7 +19,7 @@
             "Vectored"
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Disruptor Pair",
             "Arc": "FN",
@@ -41,12 +41,12 @@
             ]
         }
     ],
-    "load": [],
-    "known_ships": [
+    "Load": [],
+    "KnownShips": [
         "Revenant",
         "Azure Phantom",
         "Twisted Fate",
         "Twilit Eternity"
     ],
-    "flavour": "The Azurite is the most common type of light cruiser encountered during the Reconquest. Much like those of other races, this vessel is somewhat more susceptible to damage than full cruisers, although it gains an advantage in combat speed due to its lighter hull. The Azurite also has the rare advantage of beyond normal vectoring capabilities, allowing it to turn and fire with dizzying speed above what even most frigates are capable of. The makes it a highly dangerous and unpredictable opponent, especially when behind the lines where its lightning turning ability is at its most deadly.\nIt is armed primarily with a pair of disruptors. While far from harmless, these weapons have a constricted fire arc compared to the more destructive disintegrator weapons that fulfil the role of standard guns among Shaltari ships. However, their narrow arc is compensated for by the Azurite's superlative turning circle. It seems that these weapons were chosen for their lower power consumption, since the extreme manoeuvres the Azurite performs must surely consume vast amounts of energy."
+    "Flavour": "The Azurite is the most common type of light cruiser encountered during the Reconquest. Much like those of other races, this vessel is somewhat more susceptible to damage than full cruisers, although it gains an advantage in combat speed due to its lighter hull. The Azurite also has the rare advantage of beyond normal vectoring capabilities, allowing it to turn and fire with dizzying speed above what even most frigates are capable of. The makes it a highly dangerous and unpredictable opponent, especially when behind the lines where its lightning turning ability is at its most deadly.\nIt is armed primarily with a pair of disruptors. While far from harmless, these weapons have a constricted fire arc compared to the more destructive disintegrator weapons that fulfil the role of standard guns among Shaltari ships. However, their narrow arc is compensated for by the Azurite's superlative turning circle. It seems that these weapons were chosen for their lower power consumption, since the extreme manoeuvres the Azurite performs must surely consume vast amounts of energy."
 }

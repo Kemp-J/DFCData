@@ -1,10 +1,10 @@
 {
-    "class": "Gallium",
-    "type": "Bio-Hazard Cutter",
-    "points": 60,
-    "tonnage": "L",
-    "base_size": 30,
-    "profile": {
+    "Class": "Gallium",
+    "Type": "Bio-Hazard Cutter",
+    "Points": 60,
+    "Tonnage": "L",
+    "BaseSize": 30,
+    "Profile": {
         "Thrust": 20,
         "Scan": 8,
         "Sig": 6,
@@ -19,7 +19,7 @@
             "Vectored"
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Bio Atomiser Array",
             "Arc": "F",
@@ -32,12 +32,12 @@
             ]
         }
     ],
-    "load": [],
-    "known_ships": [
+    "Load": [],
+    "KnownShips": [
         "Bringer of Decay",
         "Cleansing Flame",
         "Inevitability",
         "Fate's Instrument"
     ],
-    "flavour": "The Gallium is one of the most aggressive and insidious vessels the Shaltari possess. Based on a light, fast cutter hull, the Gallium's only weapon defines it: the Bio Atomiser Array, one of the most feared things to receive a hit from in the known universe, as far as the crew are concerned. On land, smaller versions of the technology vaporise living tissue though stone walls. Through thick starship armour over a massive area, the effect is more creeping. A hit will indiscriminately rupture living cells and build up static charge in fine micro systems. Over the course of a battle, the effect is a spectrum from vomiting blood to heart attacks, brain haemorrhage, short-circuits and catastrophic malfunctions.\nThe Gallium's typical mode of attack is to close rapidly with the target and fire early, maximising the effectiveness of the growing disruption over the battle. Such tactics are not for the cautious, so Galliums are typically crewed by a larger percentage of battle-hungry Firstborns than most Shaltari vessels."
+    "Flavour": "The Gallium is one of the most aggressive and insidious vessels the Shaltari possess. Based on a light, fast cutter hull, the Gallium's only weapon defines it: the Bio Atomiser Array, one of the most feared things to receive a hit from in the known universe, as far as the crew are concerned. On land, smaller versions of the technology vaporise living tissue though stone walls. Through thick starship armour over a massive area, the effect is more creeping. A hit will indiscriminately rupture living cells and build up static charge in fine micro systems. Over the course of a battle, the effect is a spectrum from vomiting blood to heart attacks, brain haemorrhage, short-circuits and catastrophic malfunctions.\nThe Gallium's typical mode of attack is to close rapidly with the target and fire early, maximising the effectiveness of the growing disruption over the battle. Such tactics are not for the cautious, so Galliums are typically crewed by a larger percentage of battle-hungry Firstborns than most Shaltari vessels."
 }

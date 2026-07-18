@@ -22,11 +22,11 @@
         "Hardpoints": {
             "description": "Required selection counts for a generic station.",
             "type": "object",
-            "required": ["armaments", "features"],
+            "required": ["Armaments", "Features"],
             "additionalProperties": false,
             "properties": {
-                "armaments": { "type": "integer", "minimum": 0 },
-                "features":  { "type": "integer", "minimum": 0 }
+                "Armaments": { "type": "integer", "minimum": 0 },
+                "Features":  { "type": "integer", "minimum": 0 }
             }
         }
     }

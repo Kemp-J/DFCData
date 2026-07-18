@@ -1,10 +1,10 @@
 {
-    "class": "Frigate",
-    "type": "Frigate",
-    "points": 22,
-    "tonnage": "L",
-    "base_size": 30,
-    "profile": {
+    "Class": "Frigate",
+    "Type": "Frigate",
+    "Points": 22,
+    "Tonnage": "L",
+    "BaseSize": 30,
+    "Profile": {
         "Thrust": 11,
         "Scan": 4,
         "Sig": 2,
@@ -15,20 +15,20 @@
         "G": "2-6",
         "Special": []
     },
-    "weapons": [],
-    "load": [],
-    "rules": [
+    "Weapons": [],
+    "Load": [],
+    "Rules": [
         {
             "Name": "Hardpoints",
             "Text": "This ship must take one option from the Frigate Systems list."
         }
     ],
-    "systems": {
+    "Systems": {
         "Name": "Frigate Systems",
         "Min": 1,
         "Max": 1
     },
-    "known_ships": [
+    "KnownShips": [
         "Little Marvel",
         "Perseverance",
         "Listener (Independents)",
@@ -36,5 +36,5 @@
         "Noble Conscript",
         "Guardsman (Kalium)"
     ],
-    "flavour": "As with cruisers, the sheer variety of frigate designs in service with the Resistance is staggering. Similarly, it's best to discuss them in terms of capability and armament. Many of these ships were originally civilian-grade, but have since had weapons added in response to dire need.\nAll Resistance frigates are faster than cruisers, offering a first strike/ flanking option. They are often used to seek and destroy key enemy vessels early in an engagement, to protect the larger ships in the fleet. Their weapons basically define their role and mode of attack, be that aggressive close-action or standoff fire. In this context, the term \"frigate\" also encompasses Strike Carriers and unarmed Electronic Warfare Ships.\nA common pre-war practice was the production of Heavy Frigates, heavily armoured often with two main weapon systems. These have fallen out of favour with the UCMF due to high cost and the drain of dual weapons systems on engine power."
+    "Flavour": "As with cruisers, the sheer variety of frigate designs in service with the Resistance is staggering. Similarly, it's best to discuss them in terms of capability and armament. Many of these ships were originally civilian-grade, but have since had weapons added in response to dire need.\nAll Resistance frigates are faster than cruisers, offering a first strike/ flanking option. They are often used to seek and destroy key enemy vessels early in an engagement, to protect the larger ships in the fleet. Their weapons basically define their role and mode of attack, be that aggressive close-action or standoff fire. In this context, the term \"frigate\" also encompasses Strike Carriers and unarmed Electronic Warfare Ships.\nA common pre-war practice was the production of Heavy Frigates, heavily armoured often with two main weapon systems. These have fallen out of favour with the UCMF due to high cost and the drain of dual weapons systems on engine power."
 }

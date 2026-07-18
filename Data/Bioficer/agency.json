@@ -1,14 +1,14 @@
 {
-    "admiral": "Agency",
-    "admiral_level": 3,
-    "class": "Bastion",
-    "type": "Battleship",
-    "admiral_points": 65,
-    "ship_points": 245,
-    "points": 310,
-    "tonnage": "H",
-    "base_size": 50,
-    "profile": {
+    "Admiral": "Agency",
+    "AdmiralLevel": 3,
+    "Class": "Bastion",
+    "Type": "Battleship",
+    "AdmiralPoints": 65,
+    "ShipPoints": 245,
+    "Points": 310,
+    "Tonnage": "H",
+    "BaseSize": 50,
+    "Profile": {
         "Thrust": 8,
         "Scan": 12,
         "Sig": 6,
@@ -21,7 +21,7 @@
             "Porter L-1"
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Gravitic Hyperspear",
             "Arc": "FN",
@@ -47,7 +47,7 @@
             ]
         }
     ],
-    "load": [
+    "Load": [
         {
             "Load": "Torpedo",
             "Launch": 2,
@@ -56,13 +56,13 @@
             ]
         }
     ],
-    "fleet_admiral_abilities": 1,
-    "admiral_abilities": [
+    "FleetAdmiralAbilities": 1,
+    "AdmiralAbilities": [
         {
             "Cost": "2AP",
             "Name": "Sinthetic Grav Waves",
             "Effect": "When you inflict damage to an enemy Ship with a weapon with the Arrest-X special rule, each Ship in the damaged Group is affected by the Arrest rule and increases its X value by 2 for that attack."
         }
     ],
-    "flavour": ""
+    "Flavour": ""
 }

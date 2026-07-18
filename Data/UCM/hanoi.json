@@ -1,10 +1,10 @@
 {
-    "class": "Hanoi",
-    "type": "Battleship",
-    "points": 200,
-    "tonnage": "H",
-    "base_size": 50,
-    "profile": {
+    "Class": "Hanoi",
+    "Type": "Battleship",
+    "Points": 200,
+    "Tonnage": "H",
+    "BaseSize": 50,
+    "Profile": {
         "Thrust": 6,
         "Scan": 10,
         "Sig": 10,
@@ -15,7 +15,7 @@
         "G": "1",
         "Special": []
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "UF-12000 Twin Mass Driver",
             "Arc": "FN",
@@ -68,8 +68,8 @@
             ]
         }
     ],
-    "load": [],
-    "rules": [
+    "Load": [],
+    "Rules": [
         {
             "Name": "Drive Refit",
             "Text": "This Ship may take a Drive Refit for +45 points, increasing its Thrust by 3\"."
@@ -79,7 +79,7 @@
             "Text": "This Ship may take a Laser Refit for +5 points, replacing both of its UF-4200 Mass Driver Turrets with a single Cobra Heavy Laser Pair."
         }
     ],
-    "upgrades": [
+    "Upgrades": [
         {
             "Name": "Drive Refit",
             "Cost": 45,
@@ -92,6 +92,6 @@
             ]
         }
     ],
-    "known_ships": [],
-    "flavour": ""
+    "KnownShips": [],
+    "Flavour": ""
 }

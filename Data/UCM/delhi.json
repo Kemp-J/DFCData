@@ -1,10 +1,10 @@
 {
-    "class": "Delhi",
-    "type": "Battleship",
-    "points": 230,
-    "tonnage": "H",
-    "base_size": 50,
-    "profile": {
+    "Class": "Delhi",
+    "Type": "Battleship",
+    "Points": 230,
+    "Tonnage": "H",
+    "BaseSize": 50,
+    "Profile": {
         "Thrust": 6,
         "Scan": 10,
         "Sig": 10,
@@ -17,7 +17,7 @@
             "Marines-2"
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "UF-6400 Mass Driver Turrets",
             "Arc": "F/S",
@@ -70,7 +70,7 @@
             ]
         }
     ],
-    "load": [
+    "Load": [
         {
             "Load": "Bulk Landers",
             "Launch": 8,
@@ -91,7 +91,7 @@
             ]
         }
     ],
-    "rules": [
+    "Rules": [
         {
             "Name": "Drive Refit",
             "Text": "This Ship may take a Drive Refit for +45 points, increasing its Thrust by 3\"."
@@ -101,7 +101,7 @@
             "Text": "This Ship may take a Laser Refit for +5 points, replacing both of its UF-4200 Mass Driver Turrets with a single Cobra Heavy Laser Pair."
         }
     ],
-    "upgrades": [
+    "Upgrades": [
         {
             "Name": "Drive Refit",
             "Cost": 45,
@@ -114,6 +114,6 @@
             ]
         }
     ],
-    "known_ships": [],
-    "flavour": ""
+    "KnownShips": [],
+    "Flavour": ""
 }

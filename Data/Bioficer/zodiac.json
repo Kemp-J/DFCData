@@ -1,10 +1,10 @@
 {
-    "class": "Zodiac",
-    "type": "Dreadnought",
-    "points": 435,
-    "tonnage": "C",
-    "base_size": 60,
-    "profile": {
+    "Class": "Zodiac",
+    "Type": "Dreadnought",
+    "Points": 435,
+    "Tonnage": "C",
+    "BaseSize": 60,
+    "Profile": {
         "Thrust": 6,
         "Scan": 14,
         "Sig": 10,
@@ -18,7 +18,7 @@
             "Reinforced Armour"
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Decon Devastator Pair",
             "Arc": "FN",
@@ -32,7 +32,7 @@
             ]
         }
     ],
-    "load": [
+    "Load": [
         {
             "Load": "Fighters & Bombers",
             "Launch": 5,
@@ -44,7 +44,7 @@
             "Special": []
         }
     ],
-    "rules": [
+    "Rules": [
         {
             "Name": "Hardpoints",
             "Text": "This Ship must take a total of one option from the Dreadnought Systems Secondary Hardpoint category. This Ship must take a total of two options from the Dreadnought Systems Tertiary Hardpoint category. This Ship may take one option from the Dreadnought Systems Launch Hardpoint category."
@@ -54,7 +54,7 @@
             "Text": "This Ship's Boarding Pods may be used against targets up to 6\" away."
         }
     ],
-    "systems": {
+    "Systems": {
         "Name": "Dreadnought Systems",
         "Min": 3,
         "Max": 4,
@@ -72,6 +72,6 @@
             }
         }
     },
-    "known_ships": [],
-    "flavour": "The Zodiac is the most frequently encountered Bioficer dreadnoughts, although all sightings are thankfully rare, so far. These hellish leviathans pack an array of ship-killing weapons, starting with a pair of Decon Annihilators. Moving downwards, a secondary hardpoint will accept any battleship primary armament as a secondary aboard this monster. Towards the stern is typically a quad battery of Scythes. Lastly, a spinal flight deck is open to the void, ready to unleash waves of lethal bombers or nimble fighters. Nothing less than another dreadnought can hope to survive an encounter with this monster."
+    "KnownShips": [],
+    "Flavour": "The Zodiac is the most frequently encountered Bioficer dreadnoughts, although all sightings are thankfully rare, so far. These hellish leviathans pack an array of ship-killing weapons, starting with a pair of Decon Annihilators. Moving downwards, a secondary hardpoint will accept any battleship primary armament as a secondary aboard this monster. Towards the stern is typically a quad battery of Scythes. Lastly, a spinal flight deck is open to the void, ready to unleash waves of lethal bombers or nimble fighters. Nothing less than another dreadnought can hope to survive an encounter with this monster."
 }

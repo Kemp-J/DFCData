@@ -1,6 +1,6 @@
 {
-    "system": "System/_system.json",
-    "fleets": [
+    "System": "System/_system.json",
+    "Fleets": [
         "Bioficer/_fleet.json",
         "PHR/_fleet.json",
         "Resistance/_fleet.json",
@@ -8,10 +8,10 @@
         "Shaltari/_fleet.json",
         "UCM/_fleet.json"
     ],
-    "other_ships": [
+    "OtherShips": [
         "Civilian/_ships.json",
         "Misc/_ships.json"
     ],
-    "stations": "Stations/_stations.json",
-    "counts_as": "Misc/_counts_as.json"
+    "Stations": "Stations/_stations.json",
+    "CountsAs": "Misc/_counts_as.json"
 }

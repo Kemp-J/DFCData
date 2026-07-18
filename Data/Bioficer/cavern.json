@@ -1,10 +1,10 @@
 {
-    "class": "Cavern",
-    "type": "Fleet Carrier",
-    "points": 125,
-    "tonnage": "M",
-    "base_size": 40,
-    "profile": {
+    "Class": "Cavern",
+    "Type": "Fleet Carrier",
+    "Points": 125,
+    "Tonnage": "M",
+    "BaseSize": 40,
+    "Profile": {
         "Thrust": 8,
         "Scan": 8,
         "Sig": 3,
@@ -17,7 +17,7 @@
             "Porter S-1"
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Scythes",
             "Arc": "FN",
@@ -32,7 +32,7 @@
             ]
         }
     ],
-    "load": [
+    "Load": [
         {
             "Load": "Fighters & Bombers",
             "Launch": 2,
@@ -48,12 +48,12 @@
             ]
         }
     ],
-    "rules": [
+    "Rules": [
         {
             "Name": "Minelayer",
             "Text": "This ship may replace its Fighters & Bombers with Mines for +10 pts."
         }
     ],
-    "known_ships": [],
-    "flavour": ""
+    "KnownShips": [],
+    "Flavour": ""
 }

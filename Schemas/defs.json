@@ -109,12 +109,12 @@
         "ChoiceGroup": {
             "description": "A group of mutually-exclusive upgrade options; the ship must take between min and max of them.",
             "type": "object",
-            "required": ["min", "max", "options"],
+            "required": ["Min", "Max", "Options"],
             "additionalProperties": false,
             "properties": {
-                "min": { "type": "integer", "minimum": 0 },
-                "max": { "type": "integer", "minimum": 0 },
-                "options": {
+                "Min": { "type": "integer", "minimum": 0 },
+                "Max": { "type": "integer", "minimum": 0 },
+                "Options": {
                     "type": "array",
                     "items": { "$ref": "#/$defs/PlainUpgrade" },
                     "minItems": 1

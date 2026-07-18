@@ -5,57 +5,57 @@
     "description": "The _fleet.json index file for a fleet.",
     "type": "object",
     "required": [
-        "source_version",
-        "abilities",
-        "fleet_admirals",
-        "launch_assets",
-        "systems",
-        "deployable_features",
-        "famous_admirals",
-        "heroes",
-        "ships"
+        "SourceVersion",
+        "Abilities",
+        "FleetAdmirals",
+        "LaunchAssets",
+        "Systems",
+        "DeployableFeatures",
+        "FamousAdmirals",
+        "Heroes",
+        "Ships"
     ],
     "additionalProperties": false,
     "properties": {
-        "source_version": {
+        "SourceVersion": {
             "description": "Release version of the source PDF (YYMMDD).",
             "type": "string",
             "pattern": "^\\d{6}$"
         },
-        "abilities": {
+        "Abilities": {
             "description": "Abilities available to Fleet and Famous Admirals.",
             "type": "array",
             "items": { "$ref": "https://dfc/schemas/defs.json#/$defs/Ability" }
         },
-        "fleet_admirals": {
+        "FleetAdmirals": {
             "type": "array",
             "items": { "$ref": "#/$defs/FleetAdmiral" }
         },
-        "launch_assets": {
+        "LaunchAssets": {
             "type": "array",
             "items": { "$ref": "#/$defs/LaunchAsset" }
         },
-        "systems": {
+        "Systems": {
             "description": "Filenames of systems list data files.",
             "type": "array",
             "items": { "type": "string" }
         },
-        "deployable_features": {
+        "DeployableFeatures": {
             "description": "Filenames of Deployable Feature data files.",
             "type": "array",
             "items": { "type": "string" }
         },
-        "famous_admirals": {
+        "FamousAdmirals": {
             "description": "Filenames of Famous Admiral data files.",
             "type": "array",
             "items": { "type": "string" }
         },
-        "heroes": {
+        "Heroes": {
             "description": "Filenames of Hero ship data files.",
             "type": "array",
             "items": { "type": "string" }
         },
-        "ships": {
+        "Ships": {
             "description": "Filenames of ship data files.",
             "type": "array",
             "items": { "type": "string" }

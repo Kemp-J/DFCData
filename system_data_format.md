@@ -8,23 +8,23 @@ The system data is exported to a folder named "System".
 
 Within the System folder is a file `_system.json` which provides an entry point into the system data. This is a json format file containing the following:
 
-- "source_version": The version of the core rules PDF (taken from the PDF filename).
-- "game_sizes": The filename of the data file containing game size specifications.
-- "admirals": The filename of the data file containing generic Admirals and Admiral abilities.
-- "secondary_objectives": The filename of the data file containing secondary objectives.
-- "ship_rules": The filename of the data file containing ship special rules.
-- "weapon_rules": The filename of the data file containing weapon special rules.
+- "SourceVersion": The version of the core rules PDF (taken from the PDF filename).
+- "GameSizes": The filename of the data file containing game size specifications.
+- "Admirals": The filename of the data file containing generic Admirals and Admiral abilities.
+- "SecondaryObjectives": The filename of the data file containing secondary objectives.
+- "ShipRules": The filename of the data file containing ship special rules.
+- "WeaponRules": The filename of the data file containing weapon special rules.
 
 Example:
 
 ```json
 {
-    "source_version": "2.3.1",
-    "game_sizes": "game_sizes.json",
-    "admirals": "admirals.json",
-    "secondary_objectives": "secondary_objectives.json",
-    "ship_rules": "ship_rules.json",
-    "weapon_rules": "weapon_rules.json"
+    "SourceVersion": "2.3.1",
+    "GameSizes": "game_sizes.json",
+    "Admirals": "admirals.json",
+    "SecondaryObjectives": "secondary_objectives.json",
+    "ShipRules": "ship_rules.json",
+    "WeaponRules": "weapon_rules.json"
 }
 ```
 
@@ -48,17 +48,17 @@ Details of the generic Admirals and Admiral abilities are contained in a data fi
 
 The file contains a dictionary with keys:
 
-- "admirals": A list of dictionaries containing generic Admiral details. Each dictionary contains "Level" (integer), "Cost" (integer), and "UnavailableIn" (list of strings giving game sizes that Admiral cannot be used in).
-- "abilities": A list of generic Admiral abilities that may be used by Admirals in any fleet. Each entry consists of a dictionary containing "Cost" (string — see 'Ability cost format'), "Name" (string), and "Effect" (string).
+- "Admirals": A list of dictionaries containing generic Admiral details. Each dictionary contains "Level" (integer), "Cost" (integer), and "UnavailableIn" (list of strings giving game sizes that Admiral cannot be used in).
+- "Abilities": A list of generic Admiral abilities that may be used by Admirals in any fleet. Each entry consists of a dictionary containing "Cost" (string — see 'Ability cost format'), "Name" (string), and "Effect" (string).
 
 Example:
 
 ```json
 {
-    "admirals": [
+    "Admirals": [
         {"Level": 3, "Cost": 40, "UnavailableIn": ["Skirmish"]}
     ],
-    "abilities": [
+    "Abilities": [
         {"Cost": "2AP", "Name": "Contain Reactor", "Effect": "When a player would roll for Explosion, instead of rolling, make the result of an Explosion roll (for you or your opponent) a 2."}
     ]
 }
@@ -84,7 +84,7 @@ Example:
 
 ```json
 [
-    {"Name": "Key Site", "Text": "Nominate one Dropsite at least 24\" from your Deployment Zone before the game. If you Control it at the end of the game, gain 2 VP. If this Dropsite is within 6\" or inside your opponent’s Deployment Zone, gain 3VP instead"},
+    {"Name": "Key Site", "Text": "Nominate one Dropsite at least 24\" from your Deployment Zone before the game. If you Control it at the end of the game, gain 2 VP. If this Dropsite is within 6\" or inside your opponent's Deployment Zone, gain 3VP instead"},
     {"Name": "Annihilate", "Text": "You are awarded 1VP at the end of the game for every 500 points of Ships and Admirals you have destroyed. A maximum of 3VP may be scored using this Secondary Objective."}
 ]
 ```

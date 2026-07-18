@@ -1,10 +1,10 @@
 {
-    "class": "London",
-    "type": "Dreadnought",
-    "points": 435,
-    "tonnage": "C",
-    "base_size": 60,
-    "profile": {
+    "Class": "London",
+    "Type": "Dreadnought",
+    "Points": 435,
+    "Tonnage": "C",
+    "BaseSize": 60,
+    "Profile": {
         "Thrust": 6,
         "Scan": 12,
         "Sig": 14,
@@ -19,7 +19,7 @@
             "Reinforced Armour"
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "UF-9000 Mass Driver Turret",
             "Arc": "F/S",
@@ -102,13 +102,13 @@
             ]
         }
     ],
-    "load": [],
-    "known_ships": [
+    "Load": [],
+    "KnownShips": [
         "London",
         "Robert A Bernard",
         "Destiny",
         "Sceptered Empress",
         "Triumph"
     ],
-    "flavour": "Triple the displacement of a Battleship, the London is one of the most powerful warships ever produced by mankind, armed with fifty mass drivers in various gauges. One may annihilate an entire fleet, unassisted.\nIt takes an entire orbital yard sector three years to lay down the hull of one of these ships. The sheer resources to outfit crew and maintain the ship reserves its use for the direst circumstances, commanded by the UCMF's most decorated Admirals. Each is a legend in its own right."
+    "Flavour": "Triple the displacement of a Battleship, the London is one of the most powerful warships ever produced by mankind, armed with fifty mass drivers in various gauges. One may annihilate an entire fleet, unassisted.\nIt takes an entire orbital yard sector three years to lay down the hull of one of these ships. The sheer resources to outfit crew and maintain the ship reserves its use for the direst circumstances, commanded by the UCMF's most decorated Admirals. Each is a legend in its own right."
 }

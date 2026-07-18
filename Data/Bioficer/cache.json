@@ -1,10 +1,10 @@
 {
-    "class": "Cache",
-    "type": "Light Cruiser",
-    "points": 65,
-    "tonnage": "M",
-    "base_size": 40,
-    "profile": {
+    "Class": "Cache",
+    "Type": "Light Cruiser",
+    "Points": 65,
+    "Tonnage": "M",
+    "BaseSize": 40,
+    "Profile": {
         "Thrust": 10,
         "Scan": 8,
         "Sig": 2,
@@ -17,7 +17,7 @@
             "Porter S-1"
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Heavy Lightvice",
             "Arc": "F",
@@ -31,7 +31,7 @@
             ]
         }
     ],
-    "load": [],
-    "known_ships": [],
-    "flavour": ""
+    "Load": [],
+    "KnownShips": [],
+    "Flavour": ""
 }

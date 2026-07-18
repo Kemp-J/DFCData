@@ -1,10 +1,10 @@
 {
-    "class": "Byzantium",
-    "type": "Super Battleship",
-    "points": 325,
-    "tonnage": "H",
-    "base_size": 50,
-    "profile": {
+    "Class": "Byzantium",
+    "Type": "Super Battleship",
+    "Points": 325,
+    "Tonnage": "H",
+    "BaseSize": 50,
+    "Profile": {
         "Thrust": 6,
         "Scan": 10,
         "Sig": 10,
@@ -15,7 +15,7 @@
         "G": "1",
         "Special": []
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Python Super Heavy Laser",
             "Arc": "FN",
@@ -83,7 +83,7 @@
             ]
         }
     ],
-    "load": [
+    "Load": [
         {
             "Load": "Fighters & Bombers",
             "Launch": 4,
@@ -106,17 +106,17 @@
             ]
         }
     ],
-    "rules": [
+    "Rules": [
         {
             "Name": "Laser Refit",
             "Text": "This Ship may take a Laser Refit for +5 points, replacing both of its UF-4200 Mass Driver Turrets with a single Cobra Heavy Laser Pair."
         }
     ],
-    "known_ships": [
+    "KnownShips": [
         "Byzantium",
         "Constantine",
         "Saladin",
         "Basilic"
     ],
-    "flavour": "The Byzantium super battleship was designed to spearhead anti-surface operations. The class has substantial bombardment capabilities coupled with enough firepower to annihilate any foe it might encounter, including torpedoes and a Python super-heavy laser. Once at its firing station, it can use its substantial fleet carrier capabilities to send waves of fighters and bombers further afield to secure the battlespace."
+    "Flavour": "The Byzantium super battleship was designed to spearhead anti-surface operations. The class has substantial bombardment capabilities coupled with enough firepower to annihilate any foe it might encounter, including torpedoes and a Python super-heavy laser. Once at its firing station, it can use its substantial fleet carrier capabilities to send waves of fighters and bombers further afield to secure the battlespace."
 }

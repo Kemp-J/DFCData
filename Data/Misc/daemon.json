@@ -1,12 +1,12 @@
 {
-    "fleet": "Scourge",
-    "class": "Daemon",
-    "type": "Battleship",
-    "rule_name": "Counts As",
-    "rule_text": "This ship counts as a Daemon Battleship.",
-    "known_ships": [],
-    "flavour": "",
-    "counts_as_class": "Daemon",
-    "counts_as_type": "Battleship",
-    "availability": "RESIN"
+    "Fleet": "Scourge",
+    "Class": "Daemon",
+    "Type": "Battleship",
+    "RuleName": "Counts As",
+    "RuleText": "This ship counts as a Daemon Battleship.",
+    "KnownShips": [],
+    "Flavour": "",
+    "CountsAsClass": "Daemon",
+    "CountsAsType": "Battleship",
+    "Availability": "RESIN"
 }

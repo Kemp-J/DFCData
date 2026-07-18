@@ -1,10 +1,10 @@
 {
-    "class": "Augustus",
-    "type": "Super Battleship",
-    "points": 245,
-    "tonnage": "H",
-    "base_size": 50,
-    "profile": {
+    "Class": "Augustus",
+    "Type": "Super Battleship",
+    "Points": 245,
+    "Tonnage": "H",
+    "BaseSize": 50,
+    "Profile": {
         "Thrust": 6,
         "Scan": 10,
         "Sig": 10,
@@ -17,7 +17,7 @@
             "Regenerate-2"
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Energy Glaives",
             "Arc": "B",
@@ -68,7 +68,7 @@
             ]
         }
     ],
-    "load": [
+    "Load": [
         {
             "Load": "Torpedo",
             "Launch": 2,
@@ -77,10 +77,10 @@
             ]
         }
     ],
-    "known_ships": [
+    "KnownShips": [
         "Might of Pearlescent",
         "Imperator",
         "Victorius"
     ],
-    "flavour": "The Augustus class was the first of the Republic's new super battleships. A design centred on aggressive firepower, captains of this devastating vessel may drive it into enemy formations like a thrust to the heart. While its bulk and armour shrugs off defensive fire, its Black Nano Drones and Neutron Missiles annihilate close victims already pummelled by its torpedoes, all while its Energy Glaive broadsides destroy oblique targets."
+    "Flavour": "The Augustus class was the first of the Republic's new super battleships. A design centred on aggressive firepower, captains of this devastating vessel may drive it into enemy formations like a thrust to the heart. While its bulk and armour shrugs off defensive fire, its Black Nano Drones and Neutron Missiles annihilate close victims already pummelled by its torpedoes, all while its Energy Glaive broadsides destroy oblique targets."
 }

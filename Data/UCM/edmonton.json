@@ -1,10 +1,10 @@
 {
-    "class": "Edmonton",
-    "type": "Heavy Carrier",
-    "points": 135,
-    "tonnage": "M",
-    "base_size": 40,
-    "profile": {
+    "Class": "Edmonton",
+    "Type": "Heavy Carrier",
+    "Points": 135,
+    "Tonnage": "M",
+    "BaseSize": 40,
+    "Profile": {
         "Thrust": 7,
         "Scan": 6,
         "Sig": 6,
@@ -15,7 +15,7 @@
         "G": "1",
         "Special": []
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Cobra Heavy Laser",
             "Arc": "FN",
@@ -41,13 +41,13 @@
             ]
         }
     ],
-    "load": [
+    "Load": [
         {
             "Load": "Fighters & Bombers",
             "Launch": 2,
             "Special": []
         }
     ],
-    "known_ships": [],
-    "flavour": ""
+    "KnownShips": [],
+    "Flavour": ""
 }

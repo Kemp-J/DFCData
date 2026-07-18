@@ -1,10 +1,10 @@
 {
-    "class": "Plutonium",
-    "type": "Dreadnought",
-    "points": 435,
-    "tonnage": "C",
-    "base_size": 60,
-    "profile": {
+    "Class": "Plutonium",
+    "Type": "Dreadnought",
+    "Points": 435,
+    "Tonnage": "C",
+    "BaseSize": 60,
+    "Profile": {
         "Thrust": 8,
         "Scan": 14,
         "Sig": 12,
@@ -18,7 +18,7 @@
             "Shield-3+"
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Distortion Cannons",
             "Arc": "F",
@@ -78,19 +78,19 @@
             ]
         }
     ],
-    "load": [
+    "Load": [
         {
             "Load": "Dropships",
             "Launch": 4,
             "Special": []
         }
     ],
-    "known_ships": [
+    "KnownShips": [
         "Aztec King",
         "Mongol Heart",
         "Cheyenne Supreme",
         "Blade of Infinity",
         "Deathstone"
     ],
-    "flavour": "The Plutonium is the largest vessel employed by the enigmatic Shaltari. Incredibly rare, opponents are seldom left alive to pass on intel. Sleeker than crude equivalents, their energy shields and scanners are peerless, and their vast array of weapons lethal.\nOnly the grandest individuals command such mighty ships: supreme tribal leaders often utilise a Dreadnought as their mobile court. Given their capacity for surface troops, a Starchief may wage an entire campaign personally with almost no support, should they will it."
+    "Flavour": "The Plutonium is the largest vessel employed by the enigmatic Shaltari. Incredibly rare, opponents are seldom left alive to pass on intel. Sleeker than crude equivalents, their energy shields and scanners are peerless, and their vast array of weapons lethal.\nOnly the grandest individuals command such mighty ships: supreme tribal leaders often utilise a Dreadnought as their mobile court. Given their capacity for surface troops, a Starchief may wage an entire campaign personally with almost no support, should they will it."
 }

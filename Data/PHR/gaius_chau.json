@@ -1,14 +1,14 @@
 {
-    "admiral": "Gaius Chau",
-    "admiral_level": 5,
-    "class": "Romulus",
-    "type": "Dreadnought",
-    "admiral_points": 105,
-    "ship_points": 450,
-    "points": 555,
-    "tonnage": "C",
-    "base_size": 60,
-    "profile": {
+    "Admiral": "Gaius Chau",
+    "AdmiralLevel": 5,
+    "Class": "Romulus",
+    "Type": "Dreadnought",
+    "AdmiralPoints": 105,
+    "ShipPoints": 450,
+    "Points": 555,
+    "Tonnage": "C",
+    "BaseSize": 60,
+    "Profile": {
         "Thrust": 6,
         "Scan": 12,
         "Sig": 14,
@@ -21,7 +21,7 @@
             "Reinforced Armour"
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Hypernova Laser",
             "Arc": "FN",
@@ -71,20 +71,20 @@
             ]
         }
     ],
-    "load": [],
-    "rules": [
+    "Load": [],
+    "Rules": [
         {
             "Name": "Cutting Power",
             "Text": "If you attack with and do not Overcharge any of this Flagship's Energy Glaive Batteries, they gain Reave-2 for their attacks this activation."
         }
     ],
-    "fleet_admiral_abilities": 2,
-    "admiral_abilities": [
+    "FleetAdmiralAbilities": 2,
+    "AdmiralAbilities": [
         {
             "Cost": "2AP",
             "Name": "Backup Systems Engaged",
             "Effect": "When a friendly ship would roll for Crippling Damage, roll a dice. On a 4+ that Ship does not roll on the Crippling Damage table but is still Crippled."
         }
     ],
-    "flavour": ""
+    "Flavour": ""
 }

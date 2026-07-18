@@ -3,16 +3,16 @@
     "$id": "https://dfc/schemas/stations/generic_station.json",
     "title": "DFC Generic Space Station",
     "type": "object",
-    "required": ["name", "type", "points", "base_size", "profile", "hardpoints", "max_upgrades", "upgrade_options"],
+    "required": ["Name", "Type", "Points", "BaseSize", "Profile", "Hardpoints", "MaxUpgrades", "UpgradeOptions"],
     "additionalProperties": false,
     "properties": {
-        "name":            { "type": "string" },
-        "type":            { "type": "string" },
-        "points":          { "type": "integer" },
-        "base_size":       { "type": "integer" },
-        "profile":         { "$ref": "https://dfc/schemas/stations/defs.json#/$defs/StationProfile" },
-        "hardpoints":      { "$ref": "https://dfc/schemas/stations/defs.json#/$defs/Hardpoints" },
-        "max_upgrades":    { "type": "integer", "minimum": 0 },
-        "upgrade_options": { "type": "array", "items": { "type": "string" } }
+        "Name":           { "type": "string" },
+        "Type":           { "type": "string" },
+        "Points":         { "type": "integer" },
+        "BaseSize":       { "type": "integer" },
+        "Profile":        { "$ref": "https://dfc/schemas/stations/defs.json#/$defs/StationProfile" },
+        "Hardpoints":     { "$ref": "https://dfc/schemas/stations/defs.json#/$defs/Hardpoints" },
+        "MaxUpgrades":    { "type": "integer", "minimum": 0 },
+        "UpgradeOptions": { "type": "array", "items": { "type": "string" } }
     }
 }

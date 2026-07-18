@@ -1,10 +1,10 @@
 {
-    "class": "Ulaanbaatar",
-    "type": "Cruiser",
-    "points": 90,
-    "tonnage": "M",
-    "base_size": 40,
-    "profile": {
+    "Class": "Ulaanbaatar",
+    "Type": "Cruiser",
+    "Points": 90,
+    "Tonnage": "M",
+    "BaseSize": 40,
+    "Profile": {
         "Thrust": 8,
         "Scan": 6,
         "Sig": 6,
@@ -17,7 +17,7 @@
             "Rare"
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Arowana Missile Turrets",
             "Arc": "F/S/R",
@@ -42,7 +42,7 @@
             ]
         }
     ],
-    "load": [
+    "Load": [
         {
             "Load": "Medium Torpedo",
             "Launch": 1,
@@ -51,6 +51,6 @@
             ]
         }
     ],
-    "known_ships": [],
-    "flavour": ""
+    "KnownShips": [],
+    "Flavour": ""
 }

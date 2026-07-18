@@ -1,6 +1,6 @@
 {
-    "source_version": "260529",
-    "abilities": [
+    "SourceVersion": "260529",
+    "Abilities": [
         {
             "Cost": "2AP",
             "Name": "Colonial Legions",
@@ -32,7 +32,7 @@
             "Effect": "At the end of the Planning Phase, target one friendly Group. That Group may re-roll failed Energy Saves until the end of the round."
         }
     ],
-    "fleet_admirals": [
+    "FleetAdmirals": [
         {
             "Name": "UCM Captain",
             "Level": 1,
@@ -65,7 +65,7 @@
             ]
         }
     ],
-    "launch_assets": [
+    "LaunchAssets": [
         {
             "Load": "Light Torpedo",
             "Thrust": 6,
@@ -135,22 +135,22 @@
             "Rerolls": 1
         }
     ],
-    "systems": [],
-    "deployable_features": [
+    "Systems": [],
+    "DeployableFeatures": [
         "aegis_platform.json",
         "comms_platform.json",
         "torpedo_platform.json"
     ],
-    "famous_admirals": [
+    "FamousAdmirals": [
         "tayne.json",
         "weaver.json",
         "havelock.json",
         "granite_halsey.json"
     ],
-    "heroes": [
+    "Heroes": [
         "rhiannon_major.json"
     ],
-    "ships": [
+    "Ships": [
         "santiago.json",
         "lysander.json",
         "toulon.json",

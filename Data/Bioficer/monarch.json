@@ -1,10 +1,10 @@
 {
-    "class": "Monarch",
-    "type": "Monitor",
-    "points": 85,
-    "tonnage": "L",
-    "base_size": 30,
-    "profile": {
+    "Class": "Monarch",
+    "Type": "Monitor",
+    "Points": 85,
+    "Tonnage": "L",
+    "BaseSize": 30,
+    "Profile": {
         "Thrust": 6,
         "Scan": 12,
         "Sig": 3,
@@ -17,7 +17,7 @@
             "Monitor"
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Decon Blast",
             "Arc": "F/S/R",
@@ -28,13 +28,13 @@
             "Special": []
         }
     ],
-    "load": [
+    "Load": [
         {
             "Load": "Fighters & Bombers",
             "Launch": 3,
             "Special": []
         }
     ],
-    "known_ships": [],
-    "flavour": ""
+    "KnownShips": [],
+    "Flavour": ""
 }

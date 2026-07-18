@@ -1,10 +1,10 @@
 {
-    "class": "Babylon",
-    "type": "Super Battleship",
-    "points": 325,
-    "tonnage": "H",
-    "base_size": 50,
-    "profile": {
+    "Class": "Babylon",
+    "Type": "Super Battleship",
+    "Points": 325,
+    "Tonnage": "H",
+    "BaseSize": 50,
+    "Profile": {
         "Thrust": 6,
         "Scan": 10,
         "Sig": 10,
@@ -15,7 +15,7 @@
         "G": "1",
         "Special": []
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Python Super Heavy Laser",
             "Arc": "FN",
@@ -82,7 +82,7 @@
             ]
         }
     ],
-    "load": [
+    "Load": [
         {
             "Load": "Fighters & Bombers",
             "Launch": 4,
@@ -105,17 +105,17 @@
             ]
         }
     ],
-    "rules": [
+    "Rules": [
         {
             "Name": "Laser Refit",
             "Text": "This Ship may take a Laser Refit for +5 points, replacing both of its UF-4200 Mass Driver Turrets with a single Cobra Heavy Laser Pair."
         }
     ],
-    "known_ships": [
+    "KnownShips": [
         "Babylon",
         "Alexander the Great",
         "Gaugamela",
         "Nebuchadnezzar"
     ],
-    "flavour": "The Babylon shares the substantial armaments and fleet carrier capacity as its sister class, the Byzantium super battleship, but the Babylon elevates its anti-shipping capabilities by replacing the bombardment turrets with UF-6400 mass driver turrets. This was only possible due to the UCM's latest battleship superstructure and its enhanced power generators. Together, its extensive weapons suite is enough to obliterate any foe."
+    "Flavour": "The Babylon shares the substantial armaments and fleet carrier capacity as its sister class, the Byzantium super battleship, but the Babylon elevates its anti-shipping capabilities by replacing the bombardment turrets with UF-6400 mass driver turrets. This was only possible due to the UCM's latest battleship superstructure and its enhanced power generators. Together, its extensive weapons suite is enough to obliterate any foe."
 }

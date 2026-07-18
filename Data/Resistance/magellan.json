@@ -1,14 +1,14 @@
 {
-    "admiral": "Magellan",
-    "admiral_level": 3,
-    "class": "Coloniser",
-    "type": "Interstellar Dreadnought",
-    "admiral_points": 45,
-    "ship_points": 525,
-    "points": 570,
-    "tonnage": "C",
-    "base_size": 60,
-    "profile": {
+    "Admiral": "Magellan",
+    "AdmiralLevel": 3,
+    "Class": "Coloniser",
+    "Type": "Interstellar Dreadnought",
+    "AdmiralPoints": 45,
+    "ShipPoints": 525,
+    "Points": 570,
+    "Tonnage": "C",
+    "BaseSize": 60,
+    "Profile": {
         "Thrust": 8,
         "Scan": 10,
         "Sig": 16,
@@ -21,7 +21,7 @@
             "Command Ship-2"
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "10K Mass Driver Turret",
             "Arc": "F/S",
@@ -88,7 +88,7 @@
             ]
         }
     ],
-    "load": [
+    "Load": [
         {
             "Load": "Fighters & Bombers",
             "Launch": 4,
@@ -100,19 +100,19 @@
             "Special": []
         }
     ],
-    "rules": [
+    "Rules": [
         {
             "Name": "Assault Carrier",
             "Text": "This ship must take two 10k Mass Drivers, two Heavy Vent Cannons, a Drive Refit (that's been heavily jury-rigged and does not take up a hardpoint or points), and the following Launch Assets:"
         }
     ],
-    "fleet_admiral_abilities": 1,
-    "admiral_abilities": [
+    "FleetAdmiralAbilities": 1,
+    "AdmiralAbilities": [
         {
             "Cost": "2AP",
             "Name": "Magellan Expedition",
             "Effect": "When you launch Bulk Landers from this Ship or a Ship within 6\" of it, you may have that Ship launch an additional 2 or 4 Bulk Landers. Any Ship that does takes that much damage (causing Crippling Effects and Explosions where applicable)."
         }
     ],
-    "flavour": ""
+    "Flavour": ""
 }

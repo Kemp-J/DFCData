@@ -1,10 +1,10 @@
 {
-    "class": "Copper",
-    "type": "Battleship",
-    "points": 200,
-    "tonnage": "H",
-    "base_size": 50,
-    "profile": {
+    "Class": "Copper",
+    "Type": "Battleship",
+    "Points": 200,
+    "Tonnage": "H",
+    "BaseSize": 50,
+    "Profile": {
         "Thrust": 8,
         "Scan": 12,
         "Sig": 8,
@@ -17,7 +17,7 @@
             "Shield-4+"
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Mega Thermal Lance Cannon",
             "Arc": "FN",
@@ -44,14 +44,14 @@
             ]
         }
     ],
-    "load": [],
-    "rules": [
+    "Load": [],
+    "Rules": [
         {
             "Name": "Drive Augmentation",
             "Text": "This Ship may take a Drive Augmentation for +35 points, increasing its Thrust by 3\"."
         }
     ],
-    "upgrades": [
+    "Upgrades": [
         {
             "Name": "Drive Augmentation",
             "Cost": 35,
@@ -64,6 +64,6 @@
             ]
         }
     ],
-    "known_ships": [],
-    "flavour": ""
+    "KnownShips": [],
+    "Flavour": ""
 }

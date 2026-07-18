@@ -1,10 +1,10 @@
 {
-    "class": "Orpheus",
-    "type": "Assault Troopship",
-    "points": 170,
-    "tonnage": "M",
-    "base_size": 40,
-    "profile": {
+    "Class": "Orpheus",
+    "Type": "Assault Troopship",
+    "Points": 170,
+    "Tonnage": "M",
+    "BaseSize": 40,
+    "Profile": {
         "Thrust": 7,
         "Scan": 8,
         "Sig": 6,
@@ -15,7 +15,7 @@
         "G": "1",
         "Special": []
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Light Calibre Broadside",
             "Arc": "B",
@@ -56,18 +56,18 @@
             ]
         }
     ],
-    "load": [
+    "Load": [
         {
             "Load": "Bulk Landers",
             "Launch": 4,
             "Special": []
         }
     ],
-    "known_ships": [
+    "KnownShips": [
         "A Thousand Fathoms",
         "Marie Curie",
         "Actium",
         "Newton's Apple"
     ],
-    "flavour": "The Assault Troopship is a type of vessel currently unique to the Republic's Grand Fleet, although UCM naval architects are paying close attention. The Orpheus class is both a troopship and fully capable warship. It includes a capacious hangar for bulk landers, allowing it to drop thousands of ground troops and heavy surface assets direct from low orbit.\nIt also sports the firepower of a cruiser, allowing it to defend itself and attack enemy ships if required. It is believed that this strategy resulted from low numbers and thus the necessity to preserve lives at the expense of high cost. Indeed, an Orpheus is more akin to a heavy cruiser in tonnage than the lighter, more efficient troopship designs of other races. Its armament of a prow mounted supernova laser and massed light calibre broadside makes it equivalent to an Ajax class cruiser in firepower while being able to take more punishment in return. This secures the planetfall of the Republic's precious ground forces even while under full orbital counter-assault."
+    "Flavour": "The Assault Troopship is a type of vessel currently unique to the Republic's Grand Fleet, although UCM naval architects are paying close attention. The Orpheus class is both a troopship and fully capable warship. It includes a capacious hangar for bulk landers, allowing it to drop thousands of ground troops and heavy surface assets direct from low orbit.\nIt also sports the firepower of a cruiser, allowing it to defend itself and attack enemy ships if required. It is believed that this strategy resulted from low numbers and thus the necessity to preserve lives at the expense of high cost. Indeed, an Orpheus is more akin to a heavy cruiser in tonnage than the lighter, more efficient troopship designs of other races. Its armament of a prow mounted supernova laser and massed light calibre broadside makes it equivalent to an Ajax class cruiser in firepower while being able to take more punishment in return. This secures the planetfall of the Republic's precious ground forces even while under full orbital counter-assault."
 }

@@ -1,10 +1,10 @@
 {
-    "fleet": "UCM",
-    "name": "Munitions Platform",
-    "size": "Small",
-    "points": 60,
-    "base_size": 30,
-    "profile": {
+    "Fleet": "UCM",
+    "Name": "Munitions Platform",
+    "Size": "Small",
+    "Points": 60,
+    "BaseSize": 30,
+    "Profile": {
         "Scan": 6,
         "Sig": 4,
         "Hull": 8,
@@ -14,8 +14,8 @@
         "G": "1",
         "Special": []
     },
-    "weapons": [],
-    "load": [
+    "Weapons": [],
+    "Load": [
         {
             "Load": "Medium Torpedo",
             "Launch": 2,

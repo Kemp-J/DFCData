@@ -1,12 +1,12 @@
 {
-    "fleet": "Scourge",
-    "class": "Lucifer",
-    "type": "Battleship",
-    "rule_name": "Counts As",
-    "rule_text": "This ship counts as a Lucifer Battleship.",
-    "known_ships": [],
-    "flavour": "",
-    "counts_as_class": "Lucifer",
-    "counts_as_type": "Battleship",
-    "availability": "RESIN"
+    "Fleet": "Scourge",
+    "Class": "Lucifer",
+    "Type": "Battleship",
+    "RuleName": "Counts As",
+    "RuleText": "This ship counts as a Lucifer Battleship.",
+    "KnownShips": [],
+    "Flavour": "",
+    "CountsAsClass": "Lucifer",
+    "CountsAsType": "Battleship",
+    "Availability": "RESIN"
 }

@@ -1,12 +1,12 @@
 {
-    "fleet": "PHR",
-    "class": "Scipio",
-    "type": "Battlecruiser",
-    "rule_name": "Counts As",
-    "rule_text": "This ship counts as a Priam Battlecruiser.",
-    "known_ships": [],
-    "flavour": "",
-    "counts_as_class": "Priam",
-    "counts_as_type": "Battlecruiser",
-    "availability": "EXCLUSIVE"
+    "Fleet": "PHR",
+    "Class": "Scipio",
+    "Type": "Battlecruiser",
+    "RuleName": "Counts As",
+    "RuleText": "This ship counts as a Priam Battlecruiser.",
+    "KnownShips": [],
+    "Flavour": "",
+    "CountsAsClass": "Priam",
+    "CountsAsType": "Battlecruiser",
+    "Availability": "EXCLUSIVE"
 }

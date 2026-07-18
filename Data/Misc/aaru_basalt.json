@@ -1,12 +1,12 @@
 {
-    "fleet": "Shaltari",
-    "class": "Aaru Basalt",
-    "type": "Fleet Carrier",
-    "rule_name": "Counts As",
-    "rule_text": "This ship counts as a Basalt Fleet Carrier.",
-    "known_ships": [],
-    "flavour": "",
-    "counts_as_class": "Basalt",
-    "counts_as_type": "Fleet Carrier",
-    "availability": "RESIN"
+    "Fleet": "Shaltari",
+    "Class": "Aaru Basalt",
+    "Type": "Fleet Carrier",
+    "RuleName": "Counts As",
+    "RuleText": "This ship counts as a Basalt Fleet Carrier.",
+    "KnownShips": [],
+    "Flavour": "",
+    "CountsAsClass": "Basalt",
+    "CountsAsType": "Fleet Carrier",
+    "Availability": "RESIN"
 }

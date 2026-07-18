@@ -1,10 +1,10 @@
 {
-    "class": "Brutal",
-    "type": "Battleship",
-    "points": 215,
-    "tonnage": "H",
-    "base_size": 50,
-    "profile": {
+    "Class": "Brutal",
+    "Type": "Battleship",
+    "Points": 215,
+    "Tonnage": "H",
+    "BaseSize": 50,
+    "Profile": {
         "Thrust": 8,
         "Scan": 12,
         "Sig": 6,
@@ -17,7 +17,7 @@
             "Porter L-1"
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Giga Winnower",
             "Arc": "F/S",
@@ -58,7 +58,7 @@
             ]
         }
     ],
-    "load": [
+    "Load": [
         {
             "Load": "Torpedo",
             "Launch": 2,
@@ -68,12 +68,12 @@
             "Cost": 20
         }
     ],
-    "rules": [
+    "Rules": [
         {
             "Name": "Torpedo Upgrade",
             "Text": "This Ship may take a Torpedo Upgrade for +20 points, gaining the following Launch Asset:"
         }
     ],
-    "known_ships": [],
-    "flavour": "The Brutal class battleship is built around the terrifying Giga-Winnower, a weapon of awesome, indiscriminate lethality. When unleashed at full force, it projects coruscating tsunamis of molecular deconstructive power, reducing multiple targets to random chunks. Like all Winnowers, its weakness is its short range, making extreme aggression an enjoyed necessity for the intelligences that direct this massive ship"
+    "KnownShips": [],
+    "Flavour": "The Brutal class battleship is built around the terrifying Giga-Winnower, a weapon of awesome, indiscriminate lethality. When unleashed at full force, it projects coruscating tsunamis of molecular deconstructive power, reducing multiple targets to random chunks. Like all Winnowers, its weakness is its short range, making extreme aggression an enjoyed necessity for the intelligences that direct this massive ship"
 }

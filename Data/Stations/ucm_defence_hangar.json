@@ -1,10 +1,10 @@
 {
-    "fleet": "UCM",
-    "name": "Defence Hangar",
-    "size": "Small",
-    "points": 50,
-    "base_size": 30,
-    "profile": {
+    "Fleet": "UCM",
+    "Name": "Defence Hangar",
+    "Size": "Small",
+    "Points": 50,
+    "BaseSize": 30,
+    "Profile": {
         "Scan": 6,
         "Sig": 4,
         "Hull": 8,
@@ -14,8 +14,8 @@
         "G": "1",
         "Special": []
     },
-    "weapons": [],
-    "load": [
+    "Weapons": [],
+    "Load": [
         {
             "Load": "Fighters & Bombers",
             "Launch": 2,

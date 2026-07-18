@@ -1,10 +1,10 @@
 {
-    "class": "Charger",
-    "type": "Light Cruiser",
-    "points": 75,
-    "tonnage": "M",
-    "base_size": 40,
-    "profile": {
+    "Class": "Charger",
+    "Type": "Light Cruiser",
+    "Points": 75,
+    "Tonnage": "M",
+    "BaseSize": 40,
+    "Profile": {
         "Thrust": 10,
         "Scan": 11,
         "Sig": 2,
@@ -17,7 +17,7 @@
             "Porter S-1"
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Barb Launcher",
             "Arc": "FN",
@@ -30,7 +30,7 @@
             ]
         }
     ],
-    "load": [],
-    "known_ships": [],
-    "flavour": ""
+    "Load": [],
+    "KnownShips": [],
+    "Flavour": ""
 }

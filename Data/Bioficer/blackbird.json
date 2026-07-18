@@ -1,10 +1,10 @@
 {
-    "class": "Blackbird",
-    "type": "Super Battleship",
-    "points": 265,
-    "tonnage": "H",
-    "base_size": 50,
-    "profile": {
+    "Class": "Blackbird",
+    "Type": "Super Battleship",
+    "Points": 265,
+    "Tonnage": "H",
+    "BaseSize": 50,
+    "Profile": {
         "Thrust": 6,
         "Scan": 12,
         "Sig": 6,
@@ -18,7 +18,7 @@
             "Porter L-1"
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Grand Bisector",
             "Arc": "FN",
@@ -60,7 +60,7 @@
             ]
         }
     ],
-    "load": [
+    "Load": [
         {
             "Load": "Boarding Pods",
             "Launch": 1,
@@ -75,12 +75,12 @@
             "Cost": 20
         }
     ],
-    "rules": [
+    "Rules": [
         {
             "Name": "Torpedo Upgrade",
             "Text": "This Ship may take a Torpedo Upgrade for +20 points, gaining the following Launch Asset:"
         }
     ],
-    "known_ships": [],
-    "flavour": "The Blackbird is one of the new enemy's most awesome, maxed-out vessels. The extreme and frankly insulting effects of the Grand Bisector are already, regrettably, well known, but once augmented with multiple other weapons this vessel becomes a top-tier threat. Its Scythes, Thermator, and boarding pods are bad enough, plus it can be further upgraded with Genitor Torpedoes."
+    "KnownShips": [],
+    "Flavour": "The Blackbird is one of the new enemy's most awesome, maxed-out vessels. The extreme and frankly insulting effects of the Grand Bisector are already, regrettably, well known, but once augmented with multiple other weapons this vessel becomes a top-tier threat. Its Scythes, Thermator, and boarding pods are bad enough, plus it can be further upgraded with Genitor Torpedoes."
 }

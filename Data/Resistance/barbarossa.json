@@ -1,10 +1,10 @@
 {
-    "class": "Barbarossa",
-    "type": "Grand Battleship",
-    "points": 240,
-    "tonnage": "H",
-    "base_size": 60,
-    "profile": {
+    "Class": "Barbarossa",
+    "Type": "Grand Battleship",
+    "Points": 240,
+    "Tonnage": "H",
+    "BaseSize": 60,
+    "Profile": {
         "Thrust": 5,
         "Scan": 10,
         "Sig": 8,
@@ -17,7 +17,7 @@
             "Detector"
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Heavy Vent Cannons",
             "Arc": "F",
@@ -68,8 +68,8 @@
             ]
         }
     ],
-    "load": [],
-    "rules": [
+    "Load": [],
+    "Rules": [
         {
             "Name": "Engine Refit",
             "Text": "This Ship may take an Engine Refit for +45 points, increasing its Thrust by 2\"."
@@ -79,7 +79,7 @@
             "Text": "When this Ship uses its Detector special rule, you may place an additional two Spikes on a different enemy Group in line of sight."
         }
     ],
-    "upgrades": [
+    "Upgrades": [
         {
             "Name": "Engine Refit",
             "Cost": 45,
@@ -92,11 +92,11 @@
             ]
         }
     ],
-    "known_ships": [
+    "KnownShips": [
         "High Eagle",
         "Eye of God (Independents)",
         "Our Gaze",
         "Illuminator (Kalium)"
     ],
-    "flavour": "A specialist variant of the Nelson, the Barbarossa replaces the power-hungry, early mass driver turrets with NC-16 missiles. In addition to offering increased lethality at close range, this frees up power for an enormous scanner array. Unlike most vessels with a detector role, the Barbarossa typically fights at the forefront of any engagement, caring little for the increased visibility that comes with running active scanners due to its already vast signature. To fully utilise the remaining power, the class's lethality was further bolstered by a pair of chin-mounted vent canons."
+    "Flavour": "A specialist variant of the Nelson, the Barbarossa replaces the power-hungry, early mass driver turrets with NC-16 missiles. In addition to offering increased lethality at close range, this frees up power for an enormous scanner array. Unlike most vessels with a detector role, the Barbarossa typically fights at the forefront of any engagement, caring little for the increased visibility that comes with running active scanners due to its already vast signature. To fully utilise the remaining power, the class's lethality was further bolstered by a pair of chin-mounted vent canons."
 }

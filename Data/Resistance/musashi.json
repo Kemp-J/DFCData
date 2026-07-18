@@ -1,10 +1,10 @@
 {
-    "class": "Musashi",
-    "type": "Old Battleship",
-    "points": 175,
-    "tonnage": "H",
-    "base_size": 50,
-    "profile": {
+    "Class": "Musashi",
+    "Type": "Old Battleship",
+    "Points": 175,
+    "Tonnage": "H",
+    "BaseSize": 50,
+    "Profile": {
         "Thrust": 7,
         "Scan": 6,
         "Sig": 8,
@@ -15,7 +15,7 @@
         "G": "1",
         "Special": []
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "N-12 Artillery Cannon Half Battery",
             "Arc": "B",
@@ -54,12 +54,12 @@
             ]
         }
     ],
-    "load": [],
-    "known_ships": [
+    "Load": [],
+    "KnownShips": [
         "Musashi",
         "Endurance II (Independents)",
         "Loki",
         "Proud Empress (Kalium)"
     ],
-    "flavour": "Once among the mightiest ships ever built by mankind, the Musashi is now a relic, even among resistance fleets. Introduced in the mid-24th century, around the time of first contact with the Shaltari, the youngest of these veterans is over 300 years old. However, they were overbuilt for the rigours of exploration and have proven supremely reliable. Its broadsides of chemically fired N-12 cannons are undemanding workhorses with a low power draw, so most Musashi's spinal turrets have been refitted with 9K mass drivers over the centuries."
+    "Flavour": "Once among the mightiest ships ever built by mankind, the Musashi is now a relic, even among resistance fleets. Introduced in the mid-24th century, around the time of first contact with the Shaltari, the youngest of these veterans is over 300 years old. However, they were overbuilt for the rigours of exploration and have proven supremely reliable. Its broadsides of chemically fired N-12 cannons are undemanding workhorses with a low power draw, so most Musashi's spinal turrets have been refitted with 9K mass drivers over the centuries."
 }

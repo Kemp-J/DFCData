@@ -5,17 +5,17 @@
     "description": "The _counts_as.json index file for the 'counts as' ship entries extracted from the Misc PDF.",
     "type": "object",
     "required": [
-        "source_version",
-        "ships"
+        "SourceVersion",
+        "Ships"
     ],
     "additionalProperties": false,
     "properties": {
-        "source_version": {
+        "SourceVersion": {
             "description": "Release date of the source PDF (YYMMDD).",
             "type": "string",
             "pattern": "^\\d{6}$"
         },
-        "ships": {
+        "Ships": {
             "description": "Filenames of 'counts as' entry data files.",
             "type": "array",
             "items": { "type": "string" }

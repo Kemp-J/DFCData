@@ -1,6 +1,6 @@
 {
-    "source_version": "260327",
-    "abilities": [
+    "SourceVersion": "260327",
+    "Abilities": [
         {
             "Cost": "1AP",
             "Name": "Impel Mines",
@@ -32,7 +32,7 @@
             "Effect": "At the start of each round, pick one Ability from any other Admiral on the table. This Ability becomes a copy of that Ability until the end of the round."
         }
     ],
-    "fleet_admirals": [
+    "FleetAdmirals": [
         {
             "Name": "Shaltari Skychief",
             "Level": 1,
@@ -65,7 +65,7 @@
             ]
         }
     ],
-    "launch_assets": [
+    "LaunchAssets": [
         {
             "Load": "Torpedo",
             "Thrust": 6,
@@ -122,20 +122,20 @@
             "Rerolls": 1
         }
     ],
-    "systems": [],
-    "deployable_features": [
+    "Systems": [],
+    "DeployableFeatures": [
         "stellargate.json",
         "electrosurge_torus.json",
         "worldstrider.json"
     ],
-    "famous_admirals": [
+    "FamousAdmirals": [
         "twins_of_aaru.json",
         "seth.json",
         "mergen_the_learned.json",
         "quetzalcoatl.json"
     ],
-    "heroes": [],
-    "ships": [
+    "Heroes": [],
+    "Ships": [
         "voidgate.json",
         "glass.json",
         "helium.json",

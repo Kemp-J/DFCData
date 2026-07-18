@@ -1,10 +1,10 @@
 {
-    "class": "Bishop",
-    "type": "Super Battleship",
-    "points": 265,
-    "tonnage": "H",
-    "base_size": 50,
-    "profile": {
+    "Class": "Bishop",
+    "Type": "Super Battleship",
+    "Points": 265,
+    "Tonnage": "H",
+    "BaseSize": 50,
+    "Profile": {
         "Thrust": 6,
         "Scan": 12,
         "Sig": 6,
@@ -18,7 +18,7 @@
             "Porter L-1"
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Giga Winnower",
             "Arc": "F/S",
@@ -58,7 +58,7 @@
             ]
         }
     ],
-    "load": [
+    "Load": [
         {
             "Load": "Boarding Pods",
             "Launch": 1,
@@ -73,12 +73,12 @@
             "Cost": 20
         }
     ],
-    "rules": [
+    "Rules": [
         {
             "Name": "Torpedo Upgrade",
             "Text": "This Ship may take a Torpedo Upgrade for +20 points, gaining the following Launch Asset:"
         }
     ],
-    "known_ships": [],
-    "flavour": "Much like the Blackbird is an up-gunned version of the Binary, the Bishop super battleship shares the primary armaments of the Brutal class. It sacrifices some thrust to add a Thermitor and boarding pods while retaining the option to add Genitor Torpedoes and a Supercell. Fully equipped and upgraded, this is a terrifying opponent at close quarters."
+    "KnownShips": [],
+    "Flavour": "Much like the Blackbird is an up-gunned version of the Binary, the Bishop super battleship shares the primary armaments of the Brutal class. It sacrifices some thrust to add a Thermitor and boarding pods while retaining the option to add Genitor Torpedoes and a Supercell. Fully equipped and upgraded, this is a terrifying opponent at close quarters."
 }

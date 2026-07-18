@@ -1,10 +1,10 @@
 {
-    "class": "Cthulhu",
-    "type": "Dreadnought",
-    "points": 505,
-    "tonnage": "C",
-    "base_size": 60,
-    "profile": {
+    "Class": "Cthulhu",
+    "Type": "Dreadnought",
+    "Points": 505,
+    "Tonnage": "C",
+    "BaseSize": 60,
+    "Profile": {
         "Thrust": 8,
         "Scan": 10,
         "Sig": 14,
@@ -18,7 +18,7 @@
             "Stealth"
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Furnace Triad",
             "Arc": "FN",
@@ -69,19 +69,19 @@
             ]
         }
     ],
-    "load": [
+    "Load": [
         {
             "Load": "Fighters & Bombers",
             "Launch": 6,
             "Special": []
         }
     ],
-    "known_ships": [
+    "KnownShips": [
         "Mort",
         "Scythe of the Enemy",
         "Admiral Kimiko's Doom",
         "Voidflare",
         "Scourge Incarnate"
     ],
-    "flavour": "The Cthulhu is a supreme predator of the void, featuring a colossal, triple furnace cannon array fully capable of bisecting a battlecruiser in a single, awe inspiring discharge. Being fixed into the hull, skill is necessary to attain an optimum firing position.\nFew captains have survived to pass on their experience of encountering one, sapping the morale of all but the bravest sailors. Even in the bowels of the mightiest vessel, instant incineration is always possible."
+    "Flavour": "The Cthulhu is a supreme predator of the void, featuring a colossal, triple furnace cannon array fully capable of bisecting a battlecruiser in a single, awe inspiring discharge. Being fixed into the hull, skill is necessary to attain an optimum firing position.\nFew captains have survived to pass on their experience of encountering one, sapping the morale of all but the bravest sailors. Even in the bowels of the mightiest vessel, instant incineration is always possible."
 }

@@ -1,12 +1,12 @@
 {
-    "fleet": "Shaltari",
-    "class": "Silver",
-    "type": "Battleship",
-    "rule_name": "Counts As",
-    "rule_text": "This ship counts as a Silver Battleship.",
-    "known_ships": [],
-    "flavour": "",
-    "counts_as_class": "Silver",
-    "counts_as_type": "Battleship",
-    "availability": "RESIN"
+    "Fleet": "Shaltari",
+    "Class": "Silver",
+    "Type": "Battleship",
+    "RuleName": "Counts As",
+    "RuleText": "This ship counts as a Silver Battleship.",
+    "KnownShips": [],
+    "Flavour": "",
+    "CountsAsClass": "Silver",
+    "CountsAsType": "Battleship",
+    "Availability": "RESIN"
 }

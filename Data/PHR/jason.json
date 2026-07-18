@@ -1,10 +1,10 @@
 {
-    "class": "Jason",
-    "type": "Blockade Runner",
-    "points": 55,
-    "tonnage": "L",
-    "base_size": 30,
-    "profile": {
+    "Class": "Jason",
+    "Type": "Blockade Runner",
+    "Points": 55,
+    "Tonnage": "L",
+    "BaseSize": 30,
+    "Profile": {
         "Thrust": 12,
         "Scan": 8,
         "Sig": 2,
@@ -17,7 +17,7 @@
             "Rare"
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Twin Heavy Calibres",
             "Arc": "F",
@@ -43,11 +43,11 @@
             ]
         }
     ],
-    "load": [],
-    "known_ships": [
+    "Load": [],
+    "KnownShips": [
         "Ghost Warrior",
         "Longship",
         "Carl Sagan"
     ],
-    "flavour": "The blockade runner is a type of ship almost unique to the PHR and a staple feature in their shadowy and mysterious operations. Although based on a destroyer type hull, blockade runners feature reduced armament in favour of expansive and powerful drives. This makes them abnormally fast - so much so that they leave almost anything else in space in their wake. This contrasts starkly with most PHR ships and proves that the Republic is perfectly capable of building ships that can outrun almost anything, but simply choose to focus on firepower predominantly. Blockade runners also dispense with the heavy armour common on PHR ships in favour of a subcutaneous layer of spectrum dampers, reducing its signature to that of a much smaller ship.\nThe Jason class is not poorly armed however, featuring as it does a pair of heavy mass drivers and especially advanced anti-atmospheric close action weaponry. Coupled with its incredible speed, this makes it an ideal infiltration and early strike vessel, capable of slipping past vastly superior forces to get to its target. So impressive has been the Jason's performance that the Admiralty has tasked its naval architects to deliver an equivalent to the UCMF."
+    "Flavour": "The blockade runner is a type of ship almost unique to the PHR and a staple feature in their shadowy and mysterious operations. Although based on a destroyer type hull, blockade runners feature reduced armament in favour of expansive and powerful drives. This makes them abnormally fast - so much so that they leave almost anything else in space in their wake. This contrasts starkly with most PHR ships and proves that the Republic is perfectly capable of building ships that can outrun almost anything, but simply choose to focus on firepower predominantly. Blockade runners also dispense with the heavy armour common on PHR ships in favour of a subcutaneous layer of spectrum dampers, reducing its signature to that of a much smaller ship.\nThe Jason class is not poorly armed however, featuring as it does a pair of heavy mass drivers and especially advanced anti-atmospheric close action weaponry. Coupled with its incredible speed, this makes it an ideal infiltration and early strike vessel, capable of slipping past vastly superior forces to get to its target. So impressive has been the Jason's performance that the Admiralty has tasked its naval architects to deliver an equivalent to the UCMF."
 }

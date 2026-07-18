@@ -1,10 +1,10 @@
 {
-    "class": "New Mombasa",
-    "type": "Vanguard Carrier",
-    "points": 120,
-    "tonnage": "M",
-    "base_size": 40,
-    "profile": {
+    "Class": "New Mombasa",
+    "Type": "Vanguard Carrier",
+    "Points": 120,
+    "Tonnage": "M",
+    "BaseSize": 40,
+    "Profile": {
         "Thrust": 8,
         "Scan": 6,
         "Sig": 6,
@@ -17,7 +17,7 @@
             "Vanguard-4\""
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Piranha Missile Turrets",
             "Arc": "F/S",
@@ -30,7 +30,7 @@
             ]
         }
     ],
-    "load": [
+    "Load": [
         {
             "Load": "Fighters & Bombers",
             "Launch": 2,
@@ -44,6 +44,6 @@
             ]
         }
     ],
-    "known_ships": [],
-    "flavour": ""
+    "KnownShips": [],
+    "Flavour": ""
 }

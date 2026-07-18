@@ -1,10 +1,10 @@
 {
-    "class": "Shedu",
-    "type": "Monitor",
-    "points": 48,
-    "tonnage": "L",
-    "base_size": 30,
-    "profile": {
+    "Class": "Shedu",
+    "Type": "Monitor",
+    "Points": 48,
+    "Tonnage": "L",
+    "BaseSize": 30,
+    "Profile": {
         "Thrust": 6,
         "Scan": 8,
         "Sig": 5,
@@ -18,7 +18,7 @@
             "Monitor"
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Oculus Beam Crest",
             "Arc": "F",
@@ -31,11 +31,11 @@
             ]
         }
     ],
-    "load": [],
-    "known_ships": [
+    "Load": [],
+    "KnownShips": [
         "Silent Guardian",
         "Xi's Sentinel",
         "Dark Watcher"
     ],
-    "flavour": "Defence monitors are unusual ships for the Scourge, as they don't conform to their aggressive tactics. As such, they have surprisingly few of them, leading some analysts to suggest that the Scourge were never expecting mankind to rally and strike back so spectacularly. However, the limited number the enemy did have always remained concentrated in the Solar system, obviously the primary theatre to defend.\nThe Shedu class is actually a fairly typical monitor, offering the usual characteristics – low speed, high armour, high firepower. It lacks the ability to engage surface targets though, armed with a rare variant of Oculus weapon technology, designed for engaging targets in higher orbital layers. It also fulfils the useful secondary role of long-range scanning, lighting up targets for other ships."
+    "Flavour": "Defence monitors are unusual ships for the Scourge, as they don't conform to their aggressive tactics. As such, they have surprisingly few of them, leading some analysts to suggest that the Scourge were never expecting mankind to rally and strike back so spectacularly. However, the limited number the enemy did have always remained concentrated in the Solar system, obviously the primary theatre to defend.\nThe Shedu class is actually a fairly typical monitor, offering the usual characteristics – low speed, high armour, high firepower. It lacks the ability to engage surface targets though, armed with a rare variant of Oculus weapon technology, designed for engaging targets in higher orbital layers. It also fulfils the useful secondary role of long-range scanning, lighting up targets for other ships."
 }

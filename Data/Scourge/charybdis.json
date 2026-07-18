@@ -1,10 +1,10 @@
 {
-    "class": "Charybdis",
-    "type": "Frigate",
-    "points": 34,
-    "tonnage": "L",
-    "base_size": 30,
-    "profile": {
+    "Class": "Charybdis",
+    "Type": "Frigate",
+    "Points": 34,
+    "Tonnage": "L",
+    "BaseSize": 30,
+    "Profile": {
         "Thrust": 12,
         "Scan": 6,
         "Sig": 3,
@@ -17,7 +17,7 @@
             "Descent"
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Oculus Rays",
             "Arc": "F",
@@ -42,12 +42,12 @@
             ]
         }
     ],
-    "load": [],
-    "known_ships": [
+    "Load": [],
+    "KnownShips": [
         "Shadow of Death",
         "Cruel Judgement",
         "Andreas",
         "Iconoclast"
     ],
-    "flavour": "The Charybdis class is an unusual ship as it is of frigate tonnage yet is the Scourge's primary orbital bombardment platform. This differs greatly from other races which usually employ much larger ships for this task due to their ability to stay on station while soaking up enemy fire. Although the Charybdis cannot match its contemporaries in that regard, it can outpace them, allowing the Scourge to open bombardment very early in any engagement or to reach areas inaccessible in a short timeframe to more ponderous ships. It also gains a small measure of protection from its minimal signature, forcing the enemy to close the distance to obtain a firing solution, bringing them into the preferred killing range of other Scourge ships.\nWhat it lacks in size it makes up for in firepower, thanks to its potent plasma bombards, weapons rightly dreaded by all ground forces. These ensure that not even enemies in reinforced bunkers are safe as a single shot can reduce a city block to molten glass or shatter concrete bastions to powder."
+    "Flavour": "The Charybdis class is an unusual ship as it is of frigate tonnage yet is the Scourge's primary orbital bombardment platform. This differs greatly from other races which usually employ much larger ships for this task due to their ability to stay on station while soaking up enemy fire. Although the Charybdis cannot match its contemporaries in that regard, it can outpace them, allowing the Scourge to open bombardment very early in any engagement or to reach areas inaccessible in a short timeframe to more ponderous ships. It also gains a small measure of protection from its minimal signature, forcing the enemy to close the distance to obtain a firing solution, bringing them into the preferred killing range of other Scourge ships.\nWhat it lacks in size it makes up for in firepower, thanks to its potent plasma bombards, weapons rightly dreaded by all ground forces. These ensure that not even enemies in reinforced bunkers are safe as a single shot can reduce a city block to molten glass or shatter concrete bastions to powder."
 }

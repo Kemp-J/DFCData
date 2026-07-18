@@ -1,10 +1,10 @@
 {
-    "class": "Supercell",
-    "type": "Cell",
-    "points": 55,
-    "tonnage": "L",
-    "base_size": 30,
-    "profile": {
+    "Class": "Supercell",
+    "Type": "Cell",
+    "Points": 55,
+    "Tonnage": "L",
+    "BaseSize": 30,
+    "Profile": {
         "Thrust": 2,
         "Scan": 8,
         "Sig": 3,
@@ -19,7 +19,7 @@
             "Vectored"
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Concussion Prism",
             "Arc": "F/S/R",
@@ -30,13 +30,13 @@
             "Special": []
         }
     ],
-    "load": [],
-    "rules": [
+    "Load": [],
+    "Rules": [
         {
             "Name": "Limited Aegis Bandwidth",
             "Text": "Friendly Ships with this rule may combine their Aegis values as if they were the same Group. When these Ships combine their Aegis value, only those within 6\" of the Group using the benefits of Aegis are counted. A Ship with this rule cannot gain the benefit of Aegis from another Ship with this rule."
         }
     ],
-    "known_ships": [],
-    "flavour": ""
+    "KnownShips": [],
+    "Flavour": ""
 }

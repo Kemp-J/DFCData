@@ -1,10 +1,10 @@
 {
-    "class": "Perseus",
-    "type": "Cruiser",
-    "points": 108,
-    "tonnage": "M",
-    "base_size": 40,
-    "profile": {
+    "Class": "Perseus",
+    "Type": "Cruiser",
+    "Points": 108,
+    "Tonnage": "M",
+    "BaseSize": 40,
+    "Profile": {
         "Thrust": 8,
         "Scan": 8,
         "Sig": 6,
@@ -15,7 +15,7 @@
         "G": "1-2",
         "Special": []
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Light Calibre Broadside",
             "Arc": "B",
@@ -52,12 +52,12 @@
             "Special": []
         }
     ],
-    "load": [],
-    "known_ships": [
+    "Load": [],
+    "KnownShips": [
         "Knowing Virtue",
         "Nikola Tesla",
         "Hoplite's Helm",
         "Trident of Neptune"
     ],
-    "flavour": "The Perseus class cruiser is perhaps one of the most flexible ships in the entire PHR fleet. Its diverse weapon loadout includes light, medium and heavy calibre mass drivers, ensuring that the vessel almost always has a weapon tailor made to engage any adversary, from frigates to battleships. While this approach makes the class highly adaptable, it does cost it in lethality potential against a single target, as inevitably some weapons will be poorly suited. Instead, the Perseus is best employed in the centre of the PHR fleet where it can unleash its weapons against multiple and varied foes, maximising its effectiveness, especially when outnumbered. To fully devastate larger targets, the Perseus typically combines fire with other ships, making it a good choice for supplementing the weapons of more focused vessels such as the Ajax and the Achilles.\nWhile less common than the more conventional Orion, the Perseus is nevertheless a frequent thorn in the side of the UCM, particularly in disruptive operations. In this style of attack, a single Perseus can damage up to five targets simultaneously, causing costly delays and repairs across a whole battlegroup and slowing the pace of a campaign where the PHR wishes to.silence, a regrettably frequent response from their allies in recent months."
+    "Flavour": "The Perseus class cruiser is perhaps one of the most flexible ships in the entire PHR fleet. Its diverse weapon loadout includes light, medium and heavy calibre mass drivers, ensuring that the vessel almost always has a weapon tailor made to engage any adversary, from frigates to battleships. While this approach makes the class highly adaptable, it does cost it in lethality potential against a single target, as inevitably some weapons will be poorly suited. Instead, the Perseus is best employed in the centre of the PHR fleet where it can unleash its weapons against multiple and varied foes, maximising its effectiveness, especially when outnumbered. To fully devastate larger targets, the Perseus typically combines fire with other ships, making it a good choice for supplementing the weapons of more focused vessels such as the Ajax and the Achilles.\nWhile less common than the more conventional Orion, the Perseus is nevertheless a frequent thorn in the side of the UCM, particularly in disruptive operations. In this style of attack, a single Perseus can damage up to five targets simultaneously, causing costly delays and repairs across a whole battlegroup and slowing the pace of a campaign where the PHR wishes to.silence, a regrettably frequent response from their allies in recent months."
 }

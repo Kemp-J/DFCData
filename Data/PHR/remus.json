@@ -1,10 +1,10 @@
 {
-    "class": "Remus",
-    "type": "Dreadnought",
-    "points": 455,
-    "tonnage": "C",
-    "base_size": 60,
-    "profile": {
+    "Class": "Remus",
+    "Type": "Dreadnought",
+    "Points": 455,
+    "Tonnage": "C",
+    "BaseSize": 60,
+    "Profile": {
         "Thrust": 6,
         "Scan": 12,
         "Sig": 14,
@@ -17,7 +17,7 @@
             "Reinforced Armour"
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Apocalypse Cannon",
             "Arc": "FN",
@@ -66,7 +66,7 @@
             ]
         }
     ],
-    "load": [
+    "Load": [
         {
             "Load": "Torpedo",
             "Launch": 4,
@@ -75,12 +75,12 @@
             ]
         }
     ],
-    "known_ships": [
+    "KnownShips": [
         "Purity of Power",
         "Deliverance",
         "Heaven's Judgement",
         "Queen of Ends",
         "Apocalypse"
     ],
-    "flavour": "The Remus's Apocalypse Cannon is one of the most potent bombardment weapons in existence. Unlike nukes, there is no stopping this behemoth from reducing whole cities to glass. Using its power management system, the entire Dreadnought's output can be unleashed through the barrels of this cruiser-sized weapon, guaranteeing the removal of anything from the map."
+    "Flavour": "The Remus's Apocalypse Cannon is one of the most potent bombardment weapons in existence. Unlike nukes, there is no stopping this behemoth from reducing whole cities to glass. Using its power management system, the entire Dreadnought's output can be unleashed through the barrels of this cruiser-sized weapon, guaranteeing the removal of anything from the map."
 }

@@ -1,10 +1,10 @@
 {
-    "class": "Tokyo",
-    "type": "Battleship",
-    "points": 225,
-    "tonnage": "H",
-    "base_size": 50,
-    "profile": {
+    "Class": "Tokyo",
+    "Type": "Battleship",
+    "Points": 225,
+    "Tonnage": "H",
+    "BaseSize": 50,
+    "Profile": {
         "Thrust": 6,
         "Scan": 10,
         "Sig": 10,
@@ -15,7 +15,7 @@
         "G": "1",
         "Special": []
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Python Super Heavy Laser",
             "Arc": "FN",
@@ -83,8 +83,8 @@
             ]
         }
     ],
-    "load": [],
-    "rules": [
+    "Load": [],
+    "Rules": [
         {
             "Name": "Drive Refit",
             "Text": "This Ship may take a Drive Refit for +45 points, increasing its Thrust by 3\"."
@@ -94,7 +94,7 @@
             "Text": "This Ship may take a Laser Refit for +5 points, replacing both of its UF-4200 Mass Driver Turrets with a single Cobra Heavy Laser Pair."
         }
     ],
-    "upgrades": [
+    "Upgrades": [
         {
             "Name": "Drive Refit",
             "Cost": 45,
@@ -107,6 +107,6 @@
             ]
         }
     ],
-    "known_ships": [],
-    "flavour": ""
+    "KnownShips": [],
+    "Flavour": ""
 }

@@ -1,10 +1,10 @@
 {
-    "class": "San Francisco",
-    "type": "Troopship",
-    "points": 100,
-    "tonnage": "M",
-    "base_size": 40,
-    "profile": {
+    "Class": "San Francisco",
+    "Type": "Troopship",
+    "Points": 100,
+    "Tonnage": "M",
+    "BaseSize": 40,
+    "Profile": {
         "Thrust": 8,
         "Scan": 6,
         "Sig": 6,
@@ -15,7 +15,7 @@
         "G": "1",
         "Special": []
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "UF-4200 Mass Driver Turrets",
             "Arc": "F/S",
@@ -28,18 +28,18 @@
             ]
         }
     ],
-    "load": [
+    "Load": [
         {
             "Load": "Bulk Landers",
             "Launch": 4,
             "Special": []
         }
     ],
-    "known_ships": [
+    "KnownShips": [
         "Warbringer",
         "Ark of Ferrum",
         "Sanctuary",
         "Conqueror"
     ],
-    "flavour": "The San Francisco is the UCM's primary means of getting massive troop concentrations planetside. While strike carriers such as the New Orleans utilise dropships in tactical assaults against hardened targets, they cannot deliver the sheer numbers of troops needed in planetary conquest. Troopships instead utilise bulk landers to drop thousands of men direct from orbit. While more efficient than strike carriers, troopships are best utilised away from enemy ships since they cannot operate in the relative safety of atmosphere.\nVessels of the class can accommodate around 25,000 troops and support staff for protracted operations or briefly up to 60,000 in cramped conditions, such as during the opening day/s of full planetary invasions. A San Francisco's bulk landers can also deliver payloads too large for dropships, such as ground batteries, making them essential for fortifying captured or unoccupied ground."
+    "Flavour": "The San Francisco is the UCM's primary means of getting massive troop concentrations planetside. While strike carriers such as the New Orleans utilise dropships in tactical assaults against hardened targets, they cannot deliver the sheer numbers of troops needed in planetary conquest. Troopships instead utilise bulk landers to drop thousands of men direct from orbit. While more efficient than strike carriers, troopships are best utilised away from enemy ships since they cannot operate in the relative safety of atmosphere.\nVessels of the class can accommodate around 25,000 troops and support staff for protracted operations or briefly up to 60,000 in cramped conditions, such as during the opening day/s of full planetary invasions. A San Francisco's bulk landers can also deliver payloads too large for dropships, such as ground batteries, making them essential for fortifying captured or unoccupied ground."
 }

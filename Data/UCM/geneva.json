@@ -1,10 +1,10 @@
 {
-    "class": "Geneva",
-    "type": "Command Cruiser",
-    "points": 100,
-    "tonnage": "M",
-    "base_size": 40,
-    "profile": {
+    "Class": "Geneva",
+    "Type": "Command Cruiser",
+    "Points": 100,
+    "Tonnage": "M",
+    "BaseSize": 40,
+    "Profile": {
         "Thrust": 8,
         "Scan": 10,
         "Sig": 6,
@@ -19,7 +19,7 @@
             "Unique"
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "UF-4200 Mass Driver Turrets",
             "Arc": "F/S",
@@ -32,7 +32,7 @@
             ]
         }
     ],
-    "load": [],
-    "known_ships": [],
-    "flavour": ""
+    "Load": [],
+    "KnownShips": [],
+    "Flavour": ""
 }

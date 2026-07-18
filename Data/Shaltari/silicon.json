@@ -1,10 +1,10 @@
 {
-    "class": "Silicon",
-    "type": "Monitor",
-    "points": 55,
-    "tonnage": "L",
-    "base_size": 30,
-    "profile": {
+    "Class": "Silicon",
+    "Type": "Monitor",
+    "Points": 55,
+    "Tonnage": "L",
+    "BaseSize": 30,
+    "Profile": {
         "Thrust": 6,
         "Scan": 12,
         "Sig": 6,
@@ -18,7 +18,7 @@
             "Shield-4+"
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Quad Ion Cannon",
             "Arc": "F",
@@ -31,11 +31,11 @@
             ]
         }
     ],
-    "load": [],
-    "known_ships": [
+    "Load": [],
+    "KnownShips": [
         "Euthaniser",
         "Benevolent Mercy",
         "Rio's Silencer"
     ],
-    "flavour": "Much as with the Scourge, monitors are an unusual fit in Shaltari fleets, due to their low speed and consequent lack of finesse. In addition, the Shaltari rarely fight defensive actions, making an ordinary monitor-type configuration superfluous. Instead, Shaltari types fulfil a rearguard role.\nThe most frequently seen is the Silicon class, armed with a quad-bank of tilt-able ion cannons, giant versions of those commonly found on Kukri grav-tanks. While these effectively damage ships in higher orbital layers, their true value is in disrupting the power systems of larger ships. This makes the Silicon especially favoured by the type to Starchief who likes taking prizes, or enjoys boarding actions against helpless foes, drifting helplessly in the void."
+    "Flavour": "Much as with the Scourge, monitors are an unusual fit in Shaltari fleets, due to their low speed and consequent lack of finesse. In addition, the Shaltari rarely fight defensive actions, making an ordinary monitor-type configuration superfluous. Instead, Shaltari types fulfil a rearguard role.\nThe most frequently seen is the Silicon class, armed with a quad-bank of tilt-able ion cannons, giant versions of those commonly found on Kukri grav-tanks. While these effectively damage ships in higher orbital layers, their true value is in disrupting the power systems of larger ships. This makes the Silicon especially favoured by the type to Starchief who likes taking prizes, or enjoys boarding actions against helpless foes, drifting helplessly in the void."
 }

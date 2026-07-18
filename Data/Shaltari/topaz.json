@@ -1,10 +1,10 @@
 {
-    "class": "Topaz",
-    "type": "Frigate",
-    "points": 43,
-    "tonnage": "L",
-    "base_size": 30,
-    "profile": {
+    "Class": "Topaz",
+    "Type": "Frigate",
+    "Points": 43,
+    "Tonnage": "L",
+    "BaseSize": 30,
+    "Profile": {
         "Thrust": 12,
         "Scan": 10,
         "Sig": 4,
@@ -18,7 +18,7 @@
             "Vanguard-4\""
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Disintegrator Bank",
             "Arc": "F",
@@ -31,12 +31,12 @@
             ]
         }
     ],
-    "load": [],
-    "known_ships": [
+    "Load": [],
+    "KnownShips": [
         "Sunrise",
         "Cacophony",
         "Green Depths",
         "First of Bastet"
     ],
-    "flavour": "The Topaz is the most common Shaltari frigate design encountered by the UCM and has been seen in use with every known Shaltari tribal fleet. It fulfils a role and mode of attack similar to the standard 'gun' armed frigates in other races, such as the Toulon, Harpy and Europa. Like most Shaltari ships, the Topaz features an advanced shield system which can be raised for protection or lowered to take advantage of its very small signature. These shields are crucial if the enemy is able to get close enough to engage, as Shaltari frigates are poorly armoured without them. The Topaz is also the bane of supply convoys, where it wreaks havoc on lightly defended adversaries before melting away on silent running.\nIts primary armament is a prow mounted Disintegrator bank – a powerful weapon for a ship of its size although restricted to the front quarter in engagement zone. As such, effective positioning is crucial to get the best out of these nimble ships. Their energy weapons do however allow for some variance in facing, making the Topaz more flexible and general purpose than its cousin, the Jade."
+    "Flavour": "The Topaz is the most common Shaltari frigate design encountered by the UCM and has been seen in use with every known Shaltari tribal fleet. It fulfils a role and mode of attack similar to the standard 'gun' armed frigates in other races, such as the Toulon, Harpy and Europa. Like most Shaltari ships, the Topaz features an advanced shield system which can be raised for protection or lowered to take advantage of its very small signature. These shields are crucial if the enemy is able to get close enough to engage, as Shaltari frigates are poorly armoured without them. The Topaz is also the bane of supply convoys, where it wreaks havoc on lightly defended adversaries before melting away on silent running.\nIts primary armament is a prow mounted Disintegrator bank – a powerful weapon for a ship of its size although restricted to the front quarter in engagement zone. As such, effective positioning is crucial to get the best out of these nimble ships. Their energy weapons do however allow for some variance in facing, making the Topaz more flexible and general purpose than its cousin, the Jade."
 }

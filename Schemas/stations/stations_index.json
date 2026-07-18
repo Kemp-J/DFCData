@@ -3,24 +3,24 @@
     "$id": "https://dfc/schemas/stations/stations_index.json",
     "title": "DFC Stations Index",
     "type": "object",
-    "required": ["source_version", "features", "generic_stations", "armaments", "station_upgrades", "fleet_stations"],
+    "required": ["SourceVersion", "Features", "GenericStations", "Armaments", "StationUpgrades", "FleetStations"],
     "additionalProperties": false,
     "properties": {
-        "source_version":   { "type": "string" },
-        "features": {
+        "SourceVersion":   { "type": "string" },
+        "Features": {
             "type": "array",
             "items": { "$ref": "https://dfc/schemas/defs.json#/$defs/Rule" }
         },
-        "generic_stations": {
+        "GenericStations": {
             "type": "array",
             "items": { "type": "string" }
         },
-        "armaments":        { "type": "string" },
-        "station_upgrades": {
+        "Armaments":        { "type": "string" },
+        "StationUpgrades": {
             "type": "array",
             "items": { "type": "string" }
         },
-        "fleet_stations": {
+        "FleetStations": {
             "type": "array",
             "items": { "type": "string" }
         }

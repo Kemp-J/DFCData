@@ -1,10 +1,10 @@
 {
-    "class": "Europa",
-    "type": "Frigate",
-    "points": 38,
-    "tonnage": "L",
-    "base_size": 30,
-    "profile": {
+    "Class": "Europa",
+    "Type": "Frigate",
+    "Points": 38,
+    "Tonnage": "L",
+    "BaseSize": 30,
+    "Profile": {
         "Thrust": 10,
         "Scan": 8,
         "Sig": 3,
@@ -15,7 +15,7 @@
         "G": "2-4",
         "Special": []
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Medium Calibre Bank",
             "Arc": "SL",
@@ -35,12 +35,12 @@
             "Special": []
         }
     ],
-    "load": [],
-    "known_ships": [
+    "Load": [],
+    "KnownShips": [
         "Steadfast",
         "Countenance of Janus",
         "Open Future",
         "Cold Warrior"
     ],
-    "flavour": "The Europa class is the standard gun-armed frigate in the Republic's Grand Fleet. Indeed, it is perhaps the most common of all full-sized PHR fighting vessels yet encountered in the Reconquest. It offers a powerful combination of enhanced toughness, defences and increased firepower when compared to its contemporaries fielded by other races, at the expense of speed and some tactical flexibility.\nIt is armed with two banks of four medium-calibre mass drivers, making it one of the few known vessels of frigate tonnage with a broadside armament. The limited traverse mountings of the guns allows for efficient use of space and increased firepower in much the same manner as larger PHR ships. As a result, skilful manoeuvre allows a captain to unleash both broadsides on two targets, effectively putting out twice the firepower of its UCM equivalent, the Toulon. The downside of this arrangement is that the Europa has no long ranged weapons covering its forward quarter, making positioning and advance planning crucial for ensuring maximum lethality."
+    "Flavour": "The Europa class is the standard gun-armed frigate in the Republic's Grand Fleet. Indeed, it is perhaps the most common of all full-sized PHR fighting vessels yet encountered in the Reconquest. It offers a powerful combination of enhanced toughness, defences and increased firepower when compared to its contemporaries fielded by other races, at the expense of speed and some tactical flexibility.\nIt is armed with two banks of four medium-calibre mass drivers, making it one of the few known vessels of frigate tonnage with a broadside armament. The limited traverse mountings of the guns allows for efficient use of space and increased firepower in much the same manner as larger PHR ships. As a result, skilful manoeuvre allows a captain to unleash both broadsides on two targets, effectively putting out twice the firepower of its UCM equivalent, the Toulon. The downside of this arrangement is that the Europa has no long ranged weapons covering its forward quarter, making positioning and advance planning crucial for ensuring maximum lethality."
 }

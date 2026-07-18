@@ -1,14 +1,14 @@
 {
-    "admiral": "Atom",
-    "admiral_level": 2,
-    "class": "Scion",
-    "type": "Battlecruiser",
-    "admiral_points": 45,
-    "ship_points": 150,
-    "points": 195,
-    "tonnage": "H",
-    "base_size": 50,
-    "profile": {
+    "Admiral": "Atom",
+    "AdmiralLevel": 2,
+    "Class": "Scion",
+    "Type": "Battlecruiser",
+    "AdmiralPoints": 45,
+    "ShipPoints": 150,
+    "Points": 195,
+    "Tonnage": "H",
+    "BaseSize": 50,
+    "Profile": {
         "Thrust": 8,
         "Scan": 10,
         "Sig": 4,
@@ -21,7 +21,7 @@
             "Vanguard-6\""
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Godray Lightvice",
             "Profiles": [
@@ -60,14 +60,14 @@
             "Rule": "This weapon's Bombardment profile may target Dropsites within scan range as if it did not have the Close Action special rule.\nIf either of this weapon's profiles target a Dropsite containing a friendly Bioficer Deployable Feature, friendly Battalions assigned to that Feature ignore Collateral Damage due to this weapon."
         }
     ],
-    "load": [],
-    "fleet_admiral_abilities": 1,
-    "admiral_abilities": [
+    "Load": [],
+    "FleetAdmiralAbilities": 1,
+    "AdmiralAbilities": [
         {
             "Cost": "1AP",
             "Name": "Vice Lightly",
             "Effect": "When you assign targets to a weapon with \"Lightvice\" in its name, that weapon ignores its Focused rule for that attack."
         }
     ],
-    "flavour": ""
+    "Flavour": ""
 }

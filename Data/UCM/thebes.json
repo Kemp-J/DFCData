@@ -1,10 +1,10 @@
 {
-    "class": "Thebes",
-    "type": "Super Battleship",
-    "points": 310,
-    "tonnage": "H",
-    "base_size": 50,
-    "profile": {
+    "Class": "Thebes",
+    "Type": "Super Battleship",
+    "Points": 310,
+    "Tonnage": "H",
+    "BaseSize": 50,
+    "Profile": {
         "Thrust": 6,
         "Scan": 10,
         "Sig": 10,
@@ -17,7 +17,7 @@
             "Marines-2"
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "UF-12000 Twin Mass Driver",
             "Arc": "FN",
@@ -81,7 +81,7 @@
             ]
         }
     ],
-    "load": [
+    "Load": [
         {
             "Load": "Bulk Landers",
             "Launch": 8,
@@ -102,17 +102,17 @@
             ]
         }
     ],
-    "rules": [
+    "Rules": [
         {
             "Name": "Laser Refit",
             "Text": "This Ship may take a Laser Refit for +5 points, replacing both of its UF-4200 Mass Driver Turrets with a single Cobra Heavy Laser Pair."
         }
     ],
-    "known_ships": [
+    "KnownShips": [
         "Thebes",
         "Cadmus",
         "Cassander",
         "Ark Majesty"
     ],
-    "flavour": "The Thebes is the latest super battleship class to enter service with the UCMF. The Naval Design Bureau began with the Carthage's superstructure and weapons payload but reconfigured its cavernous launch bay forecastle for surface deployments in addition to mounting a pair of UF-6400 turrets. From here the Thebes can launch bulk landers, drop pods, and boarding torpedoes. Already, the class has earned a reputation as a golden deployment for landing troops since they're unlikely to perish aboard ship before making planetfall."
+    "Flavour": "The Thebes is the latest super battleship class to enter service with the UCMF. The Naval Design Bureau began with the Carthage's superstructure and weapons payload but reconfigured its cavernous launch bay forecastle for surface deployments in addition to mounting a pair of UF-6400 turrets. From here the Thebes can launch bulk landers, drop pods, and boarding torpedoes. Already, the class has earned a reputation as a golden deployment for landing troops since they're unlikely to perish aboard ship before making planetfall."
 }

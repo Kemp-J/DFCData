@@ -1,10 +1,10 @@
 {
-    "class": "Citrine",
-    "type": "Mothership",
-    "points": 130,
-    "tonnage": "M",
-    "base_size": 40,
-    "profile": {
+    "Class": "Citrine",
+    "Type": "Mothership",
+    "Points": 130,
+    "Tonnage": "M",
+    "BaseSize": 40,
+    "Profile": {
         "Thrust": 10,
         "Scan": 12,
         "Sig": 6,
@@ -18,7 +18,7 @@
             "Shield-5+"
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Disintegrator Battery",
             "Arc": "F/S",
@@ -42,13 +42,13 @@
             ]
         }
     ],
-    "load": [
+    "Load": [
         {
             "Load": "Dropships",
             "Launch": 4,
             "Special": []
         }
     ],
-    "known_ships": [],
-    "flavour": ""
+    "KnownShips": [],
+    "Flavour": ""
 }

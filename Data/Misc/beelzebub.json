@@ -1,12 +1,12 @@
 {
-    "fleet": "Scourge",
-    "class": "Beelzebub",
-    "type": "Battleship",
-    "rule_name": "Counts As",
-    "rule_text": "This ship counts as a Beelzebub Battleship.",
-    "known_ships": [],
-    "flavour": "",
-    "counts_as_class": "Beelzebub",
-    "counts_as_type": "Battleship",
-    "availability": "RESIN"
+    "Fleet": "Scourge",
+    "Class": "Beelzebub",
+    "Type": "Battleship",
+    "RuleName": "Counts As",
+    "RuleText": "This ship counts as a Beelzebub Battleship.",
+    "KnownShips": [],
+    "Flavour": "",
+    "CountsAsClass": "Beelzebub",
+    "CountsAsType": "Battleship",
+    "Availability": "RESIN"
 }

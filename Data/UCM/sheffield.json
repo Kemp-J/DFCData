@@ -1,10 +1,10 @@
 {
-    "class": "Sheffield",
-    "type": "Heavy Frigate",
-    "points": 45,
-    "tonnage": "L",
-    "base_size": 30,
-    "profile": {
+    "Class": "Sheffield",
+    "Type": "Heavy Frigate",
+    "Points": 45,
+    "Tonnage": "L",
+    "BaseSize": 30,
+    "Profile": {
         "Thrust": 8,
         "Scan": 6,
         "Sig": 3,
@@ -15,7 +15,7 @@
         "G": "1-2",
         "Special": []
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "UF-2200 Mass Driver Turret",
             "Arc": "F/S",
@@ -37,7 +37,7 @@
             ]
         }
     ],
-    "load": [],
-    "known_ships": [],
-    "flavour": ""
+    "Load": [],
+    "KnownShips": [],
+    "Flavour": ""
 }

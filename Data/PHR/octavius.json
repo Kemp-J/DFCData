@@ -1,10 +1,10 @@
 {
-    "class": "Octavius",
-    "type": "Super Battleship",
-    "points": 300,
-    "tonnage": "H",
-    "base_size": 50,
-    "profile": {
+    "Class": "Octavius",
+    "Type": "Super Battleship",
+    "Points": 300,
+    "Tonnage": "H",
+    "BaseSize": 50,
+    "Profile": {
         "Thrust": 6,
         "Scan": 10,
         "Sig": 10,
@@ -15,7 +15,7 @@
         "G": "1",
         "Special": []
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Heavy Calibre Triple Broadside",
             "Arc": "B",
@@ -56,7 +56,7 @@
             ]
         }
     ],
-    "load": [
+    "Load": [
         {
             "Load": "Torpedo",
             "Launch": 2,
@@ -65,10 +65,10 @@
             ]
         }
     ],
-    "known_ships": [
+    "KnownShips": [
         "Actium",
         "Cleopatra's Bane",
         "Long Reign"
     ],
-    "flavour": "The Octavius class super battleship features a broad array of gunnery designed to devastate large targets. A heavy calibre broadside, torpedoes, Neutron Missiles, and the dreaded Dark Matter Cannon all combine to make this one of the most fearsome non-dreadnought vessels in the cosmos."
+    "Flavour": "The Octavius class super battleship features a broad array of gunnery designed to devastate large targets. A heavy calibre broadside, torpedoes, Neutron Missiles, and the dreaded Dark Matter Cannon all combine to make this one of the most fearsome non-dreadnought vessels in the cosmos."
 }

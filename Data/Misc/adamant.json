@@ -1,12 +1,12 @@
 {
-    "fleet": "Shaltari",
-    "class": "Adamant",
-    "type": "Battlecruiser",
-    "rule_name": "Counts As",
-    "rule_text": "This ship counts as a Ruby Battlecruiser.",
-    "known_ships": [],
-    "flavour": "",
-    "counts_as_class": "Ruby",
-    "counts_as_type": "Battlecruiser",
-    "availability": "EXCLUSIVE"
+    "Fleet": "Shaltari",
+    "Class": "Adamant",
+    "Type": "Battlecruiser",
+    "RuleName": "Counts As",
+    "RuleText": "This ship counts as a Ruby Battlecruiser.",
+    "KnownShips": [],
+    "Flavour": "",
+    "CountsAsClass": "Ruby",
+    "CountsAsType": "Battlecruiser",
+    "Availability": "EXCLUSIVE"
 }

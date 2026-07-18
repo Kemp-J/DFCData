@@ -4,13 +4,13 @@
     "title": "DFC Deployable Feature Data",
     "description": "Data file for a Deployable Feature.",
     "type": "object",
-    "required": ["profile", "weapons", "load", "rules"],
+    "required": ["Profile", "Weapons", "Load", "Rules"],
     "additionalProperties": false,
     "properties": {
-        "profile": { "$ref": "#/$defs/DeployProfile" },
-        "weapons": { "type": "array", "items": { "$ref": "#/$defs/DeployWeapon" } },
-        "load":    { "type": "array", "items": { "$ref": "https://dfc/schemas/defs.json#/$defs/LoadEntry" } },
-        "rules":   { "type": "string" }
+        "Profile": { "$ref": "#/$defs/DeployProfile" },
+        "Weapons": { "type": "array", "items": { "$ref": "#/$defs/DeployWeapon" } },
+        "Load":    { "type": "array", "items": { "$ref": "https://dfc/schemas/defs.json#/$defs/LoadEntry" } },
+        "Rules":   { "type": "string" }
     },
     "$defs": {
         "DeployProfile": {

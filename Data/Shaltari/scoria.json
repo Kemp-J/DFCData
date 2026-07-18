@@ -1,10 +1,10 @@
 {
-    "class": "Scoria",
-    "type": "Heavy Cruiser",
-    "points": 175,
-    "tonnage": "M",
-    "base_size": 40,
-    "profile": {
+    "Class": "Scoria",
+    "Type": "Heavy Cruiser",
+    "Points": 175,
+    "Tonnage": "M",
+    "BaseSize": 40,
+    "Profile": {
         "Thrust": 8,
         "Scan": 12,
         "Sig": 6,
@@ -17,7 +17,7 @@
             "Shield-4+"
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Particle Lance",
             "Arc": "FN",
@@ -52,13 +52,13 @@
             ]
         }
     ],
-    "load": [
+    "Load": [
         {
             "Load": "Fighters & Bombers",
             "Launch": 2,
             "Special": []
         }
     ],
-    "known_ships": [],
-    "flavour": ""
+    "KnownShips": [],
+    "Flavour": ""
 }

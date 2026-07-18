@@ -3,17 +3,17 @@
     "$id": "https://dfc/schemas/stations/station_upgrade.json",
     "title": "DFC Station Upgrade",
     "type": "object",
-    "required": ["name", "type", "cost", "weapons", "rules"],
+    "required": ["Name", "Type", "Cost", "Weapons", "Rules"],
     "additionalProperties": false,
     "properties": {
-        "name":    { "type": "string" },
-        "type":    { "type": "string" },
-        "cost":    { "type": "integer" },
-        "weapons": {
+        "Name":    { "type": "string" },
+        "Type":    { "type": "string" },
+        "Cost":    { "type": "integer" },
+        "Weapons": {
             "type": "array",
             "items": { "$ref": "https://dfc/schemas/defs.json#/$defs/Weapon" }
         },
-        "rules": {
+        "Rules": {
             "type": "array",
             "items": { "$ref": "https://dfc/schemas/defs.json#/$defs/Rule" }
         }

@@ -1,10 +1,10 @@
 {
-    "class": "Mercury",
-    "type": "Destroyer",
-    "points": 60,
-    "tonnage": "L",
-    "base_size": 30,
-    "profile": {
+    "Class": "Mercury",
+    "Type": "Destroyer",
+    "Points": 60,
+    "Tonnage": "L",
+    "BaseSize": 30,
+    "Profile": {
         "Thrust": 12,
         "Scan": 12,
         "Sig": 6,
@@ -17,7 +17,7 @@
             "Shield-5+"
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Disruption Beamers",
             "Arc": "F",
@@ -44,11 +44,11 @@
             ]
         }
     ],
-    "load": [],
-    "known_ships": [
+    "Load": [],
+    "KnownShips": [
         "Cyan Seas",
         "One Knowledge",
         "Dread Soldier"
     ],
-    "flavour": "The Mercury class destroyer features an extremely rare weapon type known as the Pulse Ioniser. These weapons establish an energetic link with the target at close ranges, creating an ionised trail through which energy pulses can be passed, creating ever increasing devastation as long as the link is maintained. An unusual quirk of the weapon is that the potential power of the weapon increases in relation to the density of the target's armour, ensuring that nothing is safe from its onslaught.\nThis ability makes the Mercury class a superlative hunter of the heaviest armoured ships in an opponent's fleet, vessels often many times its size. As such, the class typically hunts in packs, using careful tactics and downed shields to close to lethal firing range with the foe. Such tactics make it a favourite with the youngest and brashest of Shaltari captains, individuals who have often only lived out a few lifespans and still have much to prove."
+    "Flavour": "The Mercury class destroyer features an extremely rare weapon type known as the Pulse Ioniser. These weapons establish an energetic link with the target at close ranges, creating an ionised trail through which energy pulses can be passed, creating ever increasing devastation as long as the link is maintained. An unusual quirk of the weapon is that the potential power of the weapon increases in relation to the density of the target's armour, ensuring that nothing is safe from its onslaught.\nThis ability makes the Mercury class a superlative hunter of the heaviest armoured ships in an opponent's fleet, vessels often many times its size. As such, the class typically hunts in packs, using careful tactics and downed shields to close to lethal firing range with the foe. Such tactics make it a favourite with the youngest and brashest of Shaltari captains, individuals who have often only lived out a few lifespans and still have much to prove."
 }

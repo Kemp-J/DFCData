@@ -1,12 +1,12 @@
 {
-    "fleet": "UCM",
-    "class": "Hanoi",
-    "type": "Battleship",
-    "rule_name": "Counts As",
-    "rule_text": "This ship counts as a Hanoi Battleship.",
-    "known_ships": [],
-    "flavour": "",
-    "counts_as_class": "Hanoi",
-    "counts_as_type": "Battleship",
-    "availability": "RESIN"
+    "Fleet": "UCM",
+    "Class": "Hanoi",
+    "Type": "Battleship",
+    "RuleName": "Counts As",
+    "RuleText": "This ship counts as a Hanoi Battleship.",
+    "KnownShips": [],
+    "Flavour": "",
+    "CountsAsClass": "Hanoi",
+    "CountsAsType": "Battleship",
+    "Availability": "RESIN"
 }

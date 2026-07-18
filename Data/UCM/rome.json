@@ -1,10 +1,10 @@
 {
-    "class": "Rome",
-    "type": "Battlecruiser",
-    "points": 185,
-    "tonnage": "H",
-    "base_size": 50,
-    "profile": {
+    "Class": "Rome",
+    "Type": "Battlecruiser",
+    "Points": 185,
+    "Tonnage": "H",
+    "BaseSize": 50,
+    "Profile": {
         "Thrust": 8,
         "Scan": 8,
         "Sig": 6,
@@ -18,7 +18,7 @@
             "Vanguard-4\""
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "UF-4200 Mass Driver Turrets",
             "Arc": "F/S",
@@ -31,7 +31,7 @@
             ]
         }
     ],
-    "load": [
+    "Load": [
         {
             "Load": "Heavy Torpedo",
             "Launch": 2,
@@ -40,6 +40,6 @@
             ]
         }
     ],
-    "known_ships": [],
-    "flavour": ""
+    "KnownShips": [],
+    "Flavour": ""
 }

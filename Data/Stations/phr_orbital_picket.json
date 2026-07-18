@@ -1,10 +1,10 @@
 {
-    "fleet": "PHR",
-    "name": "Orbital Picket",
-    "size": "Small",
-    "points": 75,
-    "base_size": 30,
-    "profile": {
+    "Fleet": "PHR",
+    "Name": "Orbital Picket",
+    "Size": "Small",
+    "Points": 75,
+    "BaseSize": 30,
+    "Profile": {
         "Scan": 6,
         "Sig": 4,
         "Hull": 9,
@@ -14,7 +14,7 @@
         "G": "1",
         "Special": []
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Neutron Missiles",
             "Arc": "F/S/R",
@@ -40,5 +40,5 @@
             "Rule": "When you attack with this weapon, roll once and apply the roll to all enemy Groups within range."
         }
     ],
-    "load": []
+    "Load": []
 }

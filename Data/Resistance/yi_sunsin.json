@@ -1,10 +1,10 @@
 {
-    "class": "Yi Sun-sin",
-    "type": "Grand Battleship",
-    "points": 340,
-    "tonnage": "H",
-    "base_size": 60,
-    "profile": {
+    "Class": "Yi Sun-sin",
+    "Type": "Grand Battleship",
+    "Points": 340,
+    "Tonnage": "H",
+    "BaseSize": 60,
+    "Profile": {
         "Thrust": 5,
         "Scan": 8,
         "Sig": 8,
@@ -15,7 +15,7 @@
         "G": "1",
         "Special": []
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "9K Mass Driver Turrets",
             "Arc": "F/S",
@@ -71,7 +71,7 @@
             ]
         }
     ],
-    "load": [
+    "Load": [
         {
             "Load": "Torpedo",
             "Launch": 1,
@@ -80,13 +80,13 @@
             ]
         }
     ],
-    "rules": [
+    "Rules": [
         {
             "Name": "Engine Refit",
             "Text": "This Ship may take an Engine Refit for +45 points, increasing its Thrust by 2\"."
         }
     ],
-    "upgrades": [
+    "Upgrades": [
         {
             "Name": "Engine Refit",
             "Cost": 45,
@@ -99,11 +99,11 @@
             ]
         }
     ],
-    "known_ships": [
+    "KnownShips": [
         "My Masterpiece",
         "Invention Number Four (Independents)",
         "Killforge",
         "Our Grace (Kalium)"
     ],
-    "flavour": "Yi Sun-Sin is a UCMF class designation for a Nelson class Grand Battleship that has since had its broadsides refitted with vent canons. Such a class did not exist in the days before the Scourge invasion—it's entirely the product of kill-hungry resistance admirals who don't mind the odd fatality due to chronic overheats from weapons discharge. Disturbingly, Kalium seems to have similarly converted several of the Nelsons it inherited when it seceded from the nascent UCM. The Kabal's readiness to trade losses for victory perfectly matches the unstable savagery of this colossus."
+    "Flavour": "Yi Sun-Sin is a UCMF class designation for a Nelson class Grand Battleship that has since had its broadsides refitted with vent canons. Such a class did not exist in the days before the Scourge invasion—it's entirely the product of kill-hungry resistance admirals who don't mind the odd fatality due to chronic overheats from weapons discharge. Disturbingly, Kalium seems to have similarly converted several of the Nelsons it inherited when it seceded from the nascent UCM. The Kabal's readiness to trade losses for victory perfectly matches the unstable savagery of this colossus."
 }

@@ -1,12 +1,12 @@
 {
-    "name": "Dreadnought Systems",
-    "groups": [
+    "Name": "Dreadnought Systems",
+    "Groups": [
         "Broadside Hardpoint",
         "Turret Hardpoint",
         "Launch Hardpoint",
         "Structures"
     ],
-    "systems": {
+    "Systems": {
         "Broadside Hardpoint": [
             {
                 "Pts": 20,

@@ -1,10 +1,10 @@
 {
-    "class": "Choral",
-    "type": "Cruiser",
-    "points": 80,
-    "tonnage": "M",
-    "base_size": 40,
-    "profile": {
+    "Class": "Choral",
+    "Type": "Cruiser",
+    "Points": 80,
+    "Tonnage": "M",
+    "BaseSize": 40,
+    "Profile": {
         "Thrust": 8,
         "Scan": 11,
         "Sig": 3,
@@ -18,7 +18,7 @@
             "Porter S-1"
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Barb Launcher",
             "Arc": "FN",
@@ -31,7 +31,7 @@
             ]
         }
     ],
-    "load": [],
-    "known_ships": [],
-    "flavour": ""
+    "Load": [],
+    "KnownShips": [],
+    "Flavour": ""
 }

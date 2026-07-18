@@ -1,10 +1,10 @@
 {
-    "class": "Pollux",
-    "type": "Escort Frigate",
-    "points": 65,
-    "tonnage": "L",
-    "base_size": 30,
-    "profile": {
+    "Class": "Pollux",
+    "Type": "Escort Frigate",
+    "Points": 65,
+    "Tonnage": "L",
+    "BaseSize": 30,
+    "Profile": {
         "Thrust": 8,
         "Scan": 8,
         "Sig": 4,
@@ -18,7 +18,7 @@
             "Escort"
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Wasp Drones",
             "Arc": "F/S/R",
@@ -44,11 +44,11 @@
             ]
         }
     ],
-    "load": [],
-    "known_ships": [
+    "Load": [],
+    "KnownShips": [
         "Conferred Divinity",
         "Halo Nine",
         "Aegis"
     ],
-    "flavour": "Although based on the Castor class monitor's superstructure, thie Pollux is officially classified as an escort frigate, due to its mission profile. This class was designed exclusively for close-protection missions around bulky, high value targets, where its low speed would still be sufficient to keep up. Typically they protect battleships, though occasionally heavy cruisers or assault ships, if they can afford to let off some speed.\nThe Pollux excels at this mission through extensive point-defence arrays – enough to make it extremely difficult for any strike craft or close action attacks to get through. These differ from standard, sub-cutaneous PHR types in that they are physically visible, illustrating their increased potency. Due to the large power consumption of the arrays, the Pollux relies on close action missiles for offensive armament."
+    "Flavour": "Although based on the Castor class monitor's superstructure, thie Pollux is officially classified as an escort frigate, due to its mission profile. This class was designed exclusively for close-protection missions around bulky, high value targets, where its low speed would still be sufficient to keep up. Typically they protect battleships, though occasionally heavy cruisers or assault ships, if they can afford to let off some speed.\nThe Pollux excels at this mission through extensive point-defence arrays – enough to make it extremely difficult for any strike craft or close action attacks to get through. These differ from standard, sub-cutaneous PHR types in that they are physically visible, illustrating their increased potency. Due to the large power consumption of the arrays, the Pollux relies on close action missiles for offensive armament."
 }

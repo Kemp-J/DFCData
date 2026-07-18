@@ -1,12 +1,12 @@
 {
-    "fleet": "UCM",
-    "class": "Tokyo",
-    "type": "Battleship",
-    "rule_name": "Counts As",
-    "rule_text": "This ship counts as a Tokyo Battleship.",
-    "known_ships": [],
-    "flavour": "",
-    "counts_as_class": "Tokyo",
-    "counts_as_type": "Battleship",
-    "availability": "RESIN"
+    "Fleet": "UCM",
+    "Class": "Tokyo",
+    "Type": "Battleship",
+    "RuleName": "Counts As",
+    "RuleText": "This ship counts as a Tokyo Battleship.",
+    "KnownShips": [],
+    "Flavour": "",
+    "CountsAsClass": "Tokyo",
+    "CountsAsType": "Battleship",
+    "Availability": "RESIN"
 }

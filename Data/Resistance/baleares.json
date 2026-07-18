@@ -1,10 +1,10 @@
 {
-    "class": "Baleares",
-    "type": "Pocket Carrier",
-    "points": 55,
-    "tonnage": "L",
-    "base_size": 30,
-    "profile": {
+    "Class": "Baleares",
+    "Type": "Pocket Carrier",
+    "Points": 55,
+    "Tonnage": "L",
+    "BaseSize": 30,
+    "Profile": {
         "Thrust": 16,
         "Scan": 4,
         "Sig": 4,
@@ -17,8 +17,8 @@
             "Vectored"
         ]
     },
-    "weapons": [],
-    "load": [
+    "Weapons": [],
+    "Load": [
         {
             "Load": "Fighters",
             "Launch": 2,
@@ -34,7 +34,7 @@
             ]
         }
     ],
-    "known_ships": [
+    "KnownShips": [
         "Far Erie",
         "Windbringer",
         "Racing Steed (Independents)",
@@ -42,5 +42,5 @@
         "Insurrection's End",
         "Sender of Will (Kalium)"
     ],
-    "flavour": "Add a massive engine bank to a set of launch bays and you have the Baleares, a carrier whose strike craft are self-powered. Even today, the Baleares is one of the fastest carriers in mankind's fleets and embodies the concept of the pre-war pocket carrier.\nTypically, a carrier will operate beyond line of sight or shielded within the fleet to strike at the enemy's centre. Since almost nothing can keep pace with the Baleares, it fights quite differently and offers unusual advantages. Baleares captains use their speed to break out from the main fleet, surge forward and launch their daring waves at small, rearguard support vessels. These targets usually offer little point defence, making them vulnerable to strike craft though they are usually beyond their range - not so with the Baleares."
+    "Flavour": "Add a massive engine bank to a set of launch bays and you have the Baleares, a carrier whose strike craft are self-powered. Even today, the Baleares is one of the fastest carriers in mankind's fleets and embodies the concept of the pre-war pocket carrier.\nTypically, a carrier will operate beyond line of sight or shielded within the fleet to strike at the enemy's centre. Since almost nothing can keep pace with the Baleares, it fights quite differently and offers unusual advantages. Baleares captains use their speed to break out from the main fleet, surge forward and launch their daring waves at small, rearguard support vessels. These targets usually offer little point defence, making them vulnerable to strike craft though they are usually beyond their range - not so with the Baleares."
 }

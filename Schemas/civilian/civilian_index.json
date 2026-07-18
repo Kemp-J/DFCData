@@ -5,23 +5,23 @@
     "description": "The _civilian.json index file for civilian ships.",
     "type": "object",
     "required": [
-        "source_version",
-        "ship_rules",
-        "ships"
+        "SourceVersion",
+        "ShipRules",
+        "Ships"
     ],
     "additionalProperties": false,
     "properties": {
-        "source_version": {
+        "SourceVersion": {
             "description": "Release date of the source PDF (YYMMDD).",
             "type": "string",
             "pattern": "^\\d{6}$"
         },
-        "ship_rules": {
+        "ShipRules": {
             "description": "Special rules defined in the civilian ships PDF.",
             "type": "array",
             "items": { "$ref": "#/$defs/Rule" }
         },
-        "ships": {
+        "Ships": {
             "description": "Filenames of civilian ship data files.",
             "type": "array",
             "items": { "type": "string" }

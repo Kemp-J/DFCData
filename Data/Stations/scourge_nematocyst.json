@@ -1,10 +1,10 @@
 {
-    "fleet": "Scourge",
-    "name": "Nematocyst",
-    "size": "Small",
-    "points": 65,
-    "base_size": 30,
-    "profile": {
+    "Fleet": "Scourge",
+    "Name": "Nematocyst",
+    "Size": "Small",
+    "Points": 65,
+    "BaseSize": 30,
+    "Profile": {
         "Scan": 12,
         "Sig": 4,
         "Hull": 8,
@@ -14,7 +14,7 @@
         "G": "1",
         "Special": []
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Volcano Lance",
             "Arc": "F/S/R",
@@ -29,5 +29,5 @@
             ]
         }
     ],
-    "load": []
+    "Load": []
 }

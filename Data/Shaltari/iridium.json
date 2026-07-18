@@ -1,10 +1,10 @@
 {
-    "class": "Iridium",
-    "type": "Destroyer",
-    "points": 60,
-    "tonnage": "L",
-    "base_size": 30,
-    "profile": {
+    "Class": "Iridium",
+    "Type": "Destroyer",
+    "Points": 60,
+    "Tonnage": "L",
+    "BaseSize": 30,
+    "Profile": {
         "Thrust": 12,
         "Scan": 12,
         "Sig": 6,
@@ -17,7 +17,7 @@
             "Shield-5+"
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Disruption Beamers",
             "Arc": "F",
@@ -41,7 +41,7 @@
             ]
         }
     ],
-    "load": [],
-    "known_ships": [],
-    "flavour": ""
+    "Load": [],
+    "KnownShips": [],
+    "Flavour": ""
 }

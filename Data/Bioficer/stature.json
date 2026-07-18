@@ -1,10 +1,10 @@
 {
-    "class": "Stature",
-    "type": "Battlecruiser",
-    "points": 140,
-    "tonnage": "H",
-    "base_size": 50,
-    "profile": {
+    "Class": "Stature",
+    "Type": "Battlecruiser",
+    "Points": 140,
+    "Tonnage": "H",
+    "BaseSize": 50,
+    "Profile": {
         "Thrust": 8,
         "Scan": 10,
         "Sig": 4,
@@ -17,7 +17,7 @@
             "Vanguard-6\""
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Decon Annihilator",
             "Arc": "FN",
@@ -30,7 +30,7 @@
             ]
         }
     ],
-    "load": [],
-    "known_ships": [],
-    "flavour": ""
+    "Load": [],
+    "KnownShips": [],
+    "Flavour": ""
 }

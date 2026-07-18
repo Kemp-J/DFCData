@@ -1,6 +1,6 @@
 {
-    "source_version": "260626",
-    "abilities": [
+    "SourceVersion": "260626",
+    "Abilities": [
         {
             "Cost": "1AP",
             "Name": "Countermeasures Hack",
@@ -32,7 +32,7 @@
             "Effect": "At the start of the Battalion Combat step of the Asset Phase, choose a Feature containing friendly Battalions. Until the end of the Battalion Combat step, those Battalions remove 2 enemy Battalions instead of 1 and may also be used to remove enemy Battalions from anywhere on that Dropsite in the 3rd step of the combat sequence."
         }
     ],
-    "fleet_admirals": [
+    "FleetAdmirals": [
         {
             "Name": "PHR Vizier",
             "Level": 1,
@@ -65,7 +65,7 @@
             ]
         }
     ],
-    "launch_assets": [
+    "LaunchAssets": [
         {
             "Load": "Torpedo",
             "Thrust": 6,
@@ -101,22 +101,22 @@
             "Rerolls": 2
         }
     ],
-    "systems": [],
-    "deployable_features": [
+    "Systems": [],
+    "DeployableFeatures": [
         "heavy_calibre_orbital_gun.json",
         "shield_platform.json",
         "scanner_tower.json"
     ],
-    "famous_admirals": [
+    "FamousAdmirals": [
         "javelin.json",
         "helena_of_asgard.json",
         "claudia_rhee.json",
         "gaius_chau.json"
     ],
-    "heroes": [
+    "Heroes": [
         "avram_bei.json"
     ],
-    "ships": [
+    "Ships": [
         "echo.json",
         "harpocrates.json",
         "europa.json",

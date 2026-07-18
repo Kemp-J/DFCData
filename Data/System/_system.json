@@ -1,8 +1,8 @@
 {
-    "source_version": "2.3.1",
-    "game_sizes": "game_sizes.json",
-    "admirals": "admirals.json",
-    "secondary_objectives": "secondary_objectives.json",
-    "ship_rules": "ship_rules.json",
-    "weapon_rules": "weapon_rules.json"
+    "SourceVersion": "2.3.1",
+    "GameSizes": "game_sizes.json",
+    "Admirals": "admirals.json",
+    "SecondaryObjectives": "secondary_objectives.json",
+    "ShipRules": "ship_rules.json",
+    "WeaponRules": "weapon_rules.json"
 }

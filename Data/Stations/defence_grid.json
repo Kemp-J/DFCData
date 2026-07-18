@@ -1,8 +1,8 @@
 {
-    "name": "Defence Grid",
-    "type": "Military Space Station",
-    "cost": 80,
-    "weapons": [
+    "Name": "Defence Grid",
+    "Type": "Military Space Station",
+    "Cost": 80,
+    "Weapons": [
         {
             "Name": "35-KL Quad Mass Driver",
             "Arc": "F/S/R",
@@ -56,5 +56,5 @@
             ]
         }
     ],
-    "rules": []
+    "Rules": []
 }

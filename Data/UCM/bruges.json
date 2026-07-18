@@ -1,10 +1,10 @@
 {
-    "class": "Bruges",
-    "type": "Cruiser",
-    "points": 84,
-    "tonnage": "M",
-    "base_size": 40,
-    "profile": {
+    "Class": "Bruges",
+    "Type": "Cruiser",
+    "Points": 84,
+    "Tonnage": "M",
+    "BaseSize": 40,
+    "Profile": {
         "Thrust": 8,
         "Scan": 6,
         "Sig": 6,
@@ -15,7 +15,7 @@
         "G": "1-2",
         "Special": []
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Cobra Heavy Laser",
             "Arc": "FN",
@@ -41,7 +41,7 @@
             ]
         }
     ],
-    "load": [],
-    "known_ships": [],
-    "flavour": ""
+    "Load": [],
+    "KnownShips": [],
+    "Flavour": ""
 }

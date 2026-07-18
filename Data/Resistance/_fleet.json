@@ -1,6 +1,6 @@
 {
-    "source_version": "260327",
-    "abilities": [
+    "SourceVersion": "260327",
+    "Abilities": [
         {
             "Cost": "2AP",
             "Name": "Expert Repair Crews",
@@ -32,7 +32,7 @@
             "Effect": "At the end of the Activation Phase, before activating Dropsites, pick one Dropsite controlled by an enemy player within 6\" of a friendly Group. That Dropsite takes D3+1 Core Hits. After rolling, you may spend an additional 1AP to re-roll the D3 and treat this ability as an attack for the purposes of removing a feature."
         }
     ],
-    "fleet_admirals": [
+    "FleetAdmirals": [
         {
             "Name": "Resistance Engineer",
             "Level": 1,
@@ -65,7 +65,7 @@
             ]
         }
     ],
-    "launch_assets": [
+    "LaunchAssets": [
         {
             "Load": "Torpedo",
             "Thrust": 6,
@@ -112,22 +112,22 @@
             "Rerolls": 3
         }
     ],
-    "systems": [
+    "Systems": [
         "frigate_systems.json",
         "cruiser_systems.json",
         "dreadnought_systems.json"
     ],
-    "deployable_features": [],
-    "famous_admirals": [
+    "DeployableFeatures": [],
+    "FamousAdmirals": [
         "typhoon_vasquez.json",
         "hagen.json",
         "nguen.json",
         "magellan.json"
     ],
-    "heroes": [
+    "Heroes": [
         "guy_fawkes.json"
     ],
-    "ships": [
+    "Ships": [
         "munifex.json",
         "seneca.json",
         "strike_carrier.json",

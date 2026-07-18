@@ -1,12 +1,12 @@
 {
-    "fleet": "PHR",
-    "class": "Leonidas",
-    "type": "Battlecruiser",
-    "rule_name": "Counts As",
-    "rule_text": "This ship counts as an Agamemnon Battlecruiser.",
-    "known_ships": [],
-    "flavour": "",
-    "counts_as_class": "Agamemnon",
-    "counts_as_type": "Battlecruiser",
-    "availability": "EXCLUSIVE"
+    "Fleet": "PHR",
+    "Class": "Leonidas",
+    "Type": "Battlecruiser",
+    "RuleName": "Counts As",
+    "RuleText": "This ship counts as an Agamemnon Battlecruiser.",
+    "KnownShips": [],
+    "Flavour": "",
+    "CountsAsClass": "Agamemnon",
+    "CountsAsType": "Battlecruiser",
+    "Availability": "EXCLUSIVE"
 }

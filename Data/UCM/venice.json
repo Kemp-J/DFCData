@@ -1,10 +1,10 @@
 {
-    "class": "Venice",
-    "type": "Command Battlecruiser",
-    "points": 185,
-    "tonnage": "H",
-    "base_size": 50,
-    "profile": {
+    "Class": "Venice",
+    "Type": "Command Battlecruiser",
+    "Points": 185,
+    "Tonnage": "H",
+    "BaseSize": 50,
+    "Profile": {
         "Thrust": 8,
         "Scan": 8,
         "Sig": 6,
@@ -19,7 +19,7 @@
             "Vanguard-4\""
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "UF-4200 Mass Driver Turrets",
             "Arc": "F/S",
@@ -32,14 +32,14 @@
             ]
         }
     ],
-    "load": [],
-    "rules": [
+    "Load": [],
+    "Rules": [
         {
             "Name": "UCMF Battlenet",
             "Text": "An admiral assigned to this ship gains the following Command Abilities:\nTelemetry Link (2AP): When you activate another friendly Group in Orbit, that Group increases its total movement (after orders) by 4\" this round.\nOrder to Fire (2AP): When you activate another friendly Group in Orbit, pick one of the following options:\n• While that Group is on the General Quarters, Course Change, or Damage Control orders, each Ship may attack with an additional weapon.\n• While that Group is on the General Quarters or Weapons Free orders, you may attack with a single allowed Weapon System before turning and moving any Ships in that Group. That Weapon System cannot be used for the rest of the Group's activation."
         }
     ],
-    "admiral_abilities": [
+    "AdmiralAbilities": [
         {
             "Cost": "2AP",
             "Name": "Telemetry Link",
@@ -51,6 +51,6 @@
             "Effect": "When you activate another friendly Group in Orbit, pick one of the following options:\n• While that Group is on the General Quarters, Course Change, or Damage Control orders, each Ship may attack with an additional weapon.\n• While that Group is on the General Quarters or Weapons Free orders, you may attack with a single allowed Weapon System before turning and moving any Ships in that Group. That Weapon System cannot be used for the rest of the Group's activation."
         }
     ],
-    "known_ships": [],
-    "flavour": ""
+    "KnownShips": [],
+    "Flavour": ""
 }

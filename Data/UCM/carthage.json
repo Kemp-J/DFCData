@@ -1,10 +1,10 @@
 {
-    "class": "Carthage",
-    "type": "Super Battleship",
-    "points": 320,
-    "tonnage": "H",
-    "base_size": 50,
-    "profile": {
+    "Class": "Carthage",
+    "Type": "Super Battleship",
+    "Points": 320,
+    "Tonnage": "H",
+    "BaseSize": 50,
+    "Profile": {
         "Thrust": 6,
         "Scan": 10,
         "Sig": 10,
@@ -15,7 +15,7 @@
         "G": "1",
         "Special": []
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "UF-12000 Twin Mass Driver",
             "Arc": "FN",
@@ -68,7 +68,7 @@
             ]
         }
     ],
-    "load": [
+    "Load": [
         {
             "Load": "Fighters & Bombers",
             "Launch": 4,
@@ -91,17 +91,17 @@
             ]
         }
     ],
-    "rules": [
+    "Rules": [
         {
             "Name": "Laser Refit",
             "Text": "This Ship may take a Laser Refit for +5 points, replacing both of its UF-4200 Mass Driver Turrets with a single Cobra Heavy Laser Pair."
         }
     ],
-    "known_ships": [
+    "KnownShips": [
         "Hannibal",
         "War Elephant",
         "Phoenician",
         "Scipio Africanus"
     ],
-    "flavour": "Much like its sister class, the Babylon, the Carthage is configured for the annihilation of enemy ships. The Carthage focuses almost entirely on kinetic damage though, built around a pair of colossal UF-12000 mass drivers in a fixed frontal mounting. It maintains its sister's fleet carrier capacity for enhanced strategic might. Should energy weapons be required, its UF-4200 turrets may be upgraded to a pair of Cobra heavy lasers—an option it shares with other UCM battleships."
+    "Flavour": "Much like its sister class, the Babylon, the Carthage is configured for the annihilation of enemy ships. The Carthage focuses almost entirely on kinetic damage though, built around a pair of colossal UF-12000 mass drivers in a fixed frontal mounting. It maintains its sister's fleet carrier capacity for enhanced strategic might. Should energy weapons be required, its UF-4200 turrets may be upgraded to a pair of Cobra heavy lasers—an option it shares with other UCM battleships."
 }

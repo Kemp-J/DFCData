@@ -1,10 +1,10 @@
 {
-    "class": "Meleager",
-    "type": "Blockade Runner",
-    "points": 55,
-    "tonnage": "L",
-    "base_size": 30,
-    "profile": {
+    "Class": "Meleager",
+    "Type": "Blockade Runner",
+    "Points": 55,
+    "Tonnage": "L",
+    "BaseSize": 30,
+    "Profile": {
         "Thrust": 12,
         "Scan": 8,
         "Sig": 2,
@@ -17,7 +17,7 @@
             "Rare"
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Kingfisher Drones",
             "Arc": "F/S/R",
@@ -42,7 +42,7 @@
             ]
         }
     ],
-    "load": [],
-    "known_ships": [],
-    "flavour": ""
+    "Load": [],
+    "KnownShips": [],
+    "Flavour": ""
 }

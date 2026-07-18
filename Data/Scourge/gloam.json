@@ -1,10 +1,10 @@
 {
-    "class": "Gloam",
-    "type": "Battlecruiser",
-    "points": 160,
-    "tonnage": "H",
-    "base_size": 50,
-    "profile": {
+    "Class": "Gloam",
+    "Type": "Battlecruiser",
+    "Points": 160,
+    "Tonnage": "H",
+    "BaseSize": 50,
+    "Profile": {
         "Thrust": 10,
         "Scan": 6,
         "Sig": 8,
@@ -19,7 +19,7 @@
             "Vanguard-6\""
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Oculus Beam Array",
             "Arc": "F",
@@ -45,7 +45,7 @@
             ]
         }
     ],
-    "load": [],
-    "known_ships": [],
-    "flavour": ""
+    "Load": [],
+    "KnownShips": [],
+    "Flavour": ""
 }

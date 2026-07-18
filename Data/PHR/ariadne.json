@@ -1,10 +1,10 @@
 {
-    "class": "Ariadne",
-    "type": "Destroyer",
-    "points": 60,
-    "tonnage": "L",
-    "base_size": 30,
-    "profile": {
+    "Class": "Ariadne",
+    "Type": "Destroyer",
+    "Points": 60,
+    "Tonnage": "L",
+    "BaseSize": 30,
+    "Profile": {
         "Thrust": 8,
         "Scan": 8,
         "Sig": 4,
@@ -15,7 +15,7 @@
         "G": "1-2",
         "Special": []
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Twin Heavy Calibres",
             "Arc": "F",
@@ -29,17 +29,17 @@
             ]
         }
     ],
-    "load": [
+    "Load": [
         {
             "Load": "Bulk Landers",
             "Launch": 2,
             "Special": []
         }
     ],
-    "known_ships": [
+    "KnownShips": [
         "Strikehome",
         "Myrmidon",
         "Known Purpose"
     ],
-    "flavour": "The Ariadne is the sister class to the Electra and is laid out in a multi-role configuration more in keeping with typical PHR fleet doctrine. Primarily, it is an early stage planetary assault ship designed to compliment strike carriers. Unlike these ships however, the Ariadne is large enough to carry bulk landers, allowing the advance deployment of large infantry groups and defence batteries. It is more numerous and flexible than its lumbering cousins the Ganymede and the Orpheus, making it useful for a variety of smaller drop operations.\nSince it is likely to be outnumbered, the Ariadne also includes a formidable armament in a pair of heavy calibre mass drivers. These weapons allow the class to defend itself against the heaviest of opposition and puts it in stark contrast to the basic \"meat crate\" type troopships favoured by most other races. This well armed, compact vessel exemplifies the character of PHR vessels, despite its lack of customary broadside armament."
+    "Flavour": "The Ariadne is the sister class to the Electra and is laid out in a multi-role configuration more in keeping with typical PHR fleet doctrine. Primarily, it is an early stage planetary assault ship designed to compliment strike carriers. Unlike these ships however, the Ariadne is large enough to carry bulk landers, allowing the advance deployment of large infantry groups and defence batteries. It is more numerous and flexible than its lumbering cousins the Ganymede and the Orpheus, making it useful for a variety of smaller drop operations.\nSince it is likely to be outnumbered, the Ariadne also includes a formidable armament in a pair of heavy calibre mass drivers. These weapons allow the class to defend itself against the heaviest of opposition and puts it in stark contrast to the basic \"meat crate\" type troopships favoured by most other races. This well armed, compact vessel exemplifies the character of PHR vessels, despite its lack of customary broadside armament."
 }

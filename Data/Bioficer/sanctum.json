@@ -1,10 +1,10 @@
 {
-    "class": "Sanctum",
-    "type": "Battlecruiser",
-    "points": 185,
-    "tonnage": "H",
-    "base_size": 50,
-    "profile": {
+    "Class": "Sanctum",
+    "Type": "Battlecruiser",
+    "Points": 185,
+    "Tonnage": "H",
+    "BaseSize": 50,
+    "Profile": {
         "Thrust": 8,
         "Scan": 10,
         "Sig": 4,
@@ -17,7 +17,7 @@
             "Vanguard-6\""
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Decon Blast",
             "Arc": "F/S/R",
@@ -28,13 +28,13 @@
             "Special": []
         }
     ],
-    "load": [
+    "Load": [
         {
             "Load": "Fighters & Bombers",
             "Launch": 5,
             "Special": []
         }
     ],
-    "known_ships": [],
-    "flavour": ""
+    "KnownShips": [],
+    "Flavour": ""
 }

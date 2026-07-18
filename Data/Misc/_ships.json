@@ -1,6 +1,6 @@
 {
-    "source_version": "250822",
-    "ships": [
+    "SourceVersion": "250822",
+    "Ships": [
         "pungari_thresher.json",
         "hyperyacht_aurorum.json",
         "palatine.json"

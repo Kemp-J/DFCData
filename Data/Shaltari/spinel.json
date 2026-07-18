@@ -1,10 +1,10 @@
 {
-    "class": "Spinel",
-    "type": "Pocket Battleship",
-    "points": 225,
-    "tonnage": "H",
-    "base_size": 50,
-    "profile": {
+    "Class": "Spinel",
+    "Type": "Pocket Battleship",
+    "Points": 225,
+    "Tonnage": "H",
+    "BaseSize": 50,
+    "Profile": {
         "Thrust": 8,
         "Scan": 12,
         "Sig": 6,
@@ -17,7 +17,7 @@
             "Shield-4+"
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Particle Lance Pair",
             "Arc": "FN",
@@ -41,18 +41,18 @@
             ]
         }
     ],
-    "load": [],
-    "rules": [
+    "Load": [],
+    "Rules": [
         {
             "Name": "Feature Carrier",
             "Text": "At the start of the game, before players deploy, choose two Deployable Features from the Shaltari Deployable Features List (duplicates are allowed). This Ship starts the game carrying those Deployable Features."
         }
     ],
-    "known_ships": [
+    "KnownShips": [
         "Lance of Ra",
         "Eons to Dust",
         "Reducer",
         "Star Hunter"
     ],
-    "flavour": "The other side to the alien's increasing battlecruiser production was the introduction in numbers of pocket battleships in late 2678. Based on the proven battlecruiser superstructure, these already dreaded ships bring the full firepower of regular battlecruisers plus additional durability and capability in exchange for raw speed.\nThese ships differ substantially from battleships though, being lighter but also often offering the ability to carry and launch self-deploying surface instillations. Although supercruisers present a more economical option to bring these to the battlefront, pocket battleships also offer the full firepower befitting their vast size. The Spinel, one of the more 'common' variants, packs the previously unknown combination of a twin Hyperwave Cannon and a pair of Particle Lances. Both systems provide the Starchief with superlative, front-facing killing power."
+    "Flavour": "The other side to the alien's increasing battlecruiser production was the introduction in numbers of pocket battleships in late 2678. Based on the proven battlecruiser superstructure, these already dreaded ships bring the full firepower of regular battlecruisers plus additional durability and capability in exchange for raw speed.\nThese ships differ substantially from battleships though, being lighter but also often offering the ability to carry and launch self-deploying surface instillations. Although supercruisers present a more economical option to bring these to the battlefront, pocket battleships also offer the full firepower befitting their vast size. The Spinel, one of the more 'common' variants, packs the previously unknown combination of a twin Hyperwave Cannon and a pair of Particle Lances. Both systems provide the Starchief with superlative, front-facing killing power."
 }

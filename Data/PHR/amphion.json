@@ -1,10 +1,10 @@
 {
-    "class": "Amphion",
-    "type": "Battleship",
-    "points": 230,
-    "tonnage": "H",
-    "base_size": 50,
-    "profile": {
+    "Class": "Amphion",
+    "Type": "Battleship",
+    "Points": 230,
+    "Tonnage": "H",
+    "BaseSize": 50,
+    "Profile": {
         "Thrust": 6,
         "Scan": 10,
         "Sig": 10,
@@ -15,7 +15,7 @@
         "G": "1",
         "Special": []
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Energy Glaives",
             "Arc": "B",
@@ -55,11 +55,11 @@
             ]
         }
     ],
-    "load": [],
-    "known_ships": [
+    "Load": [],
+    "KnownShips": [
         "Wrath of Zeus",
         "Thunderbolt",
         "Elemental"
     ],
-    "flavour": "The Amphion was the first recorded vessel to utilise the Republic's latest battleship superstructure. This evolution in post-human naval architecture features miniaturised, hyper-efficient core systems and thus enlarged internal spaces. An expanded power matrix allows it to accommodate Energy Glaive broadsides previously only seen aboard dreadnoughts as well as a ventral meganova laser."
+    "Flavour": "The Amphion was the first recorded vessel to utilise the Republic's latest battleship superstructure. This evolution in post-human naval architecture features miniaturised, hyper-efficient core systems and thus enlarged internal spaces. An expanded power matrix allows it to accommodate Energy Glaive broadsides previously only seen aboard dreadnoughts as well as a ventral meganova laser."
 }

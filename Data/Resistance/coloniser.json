@@ -1,10 +1,10 @@
 {
-    "class": "Coloniser",
-    "type": "Interstellar Dreadnought",
-    "points": 265,
-    "tonnage": "C",
-    "base_size": 60,
-    "profile": {
+    "Class": "Coloniser",
+    "Type": "Interstellar Dreadnought",
+    "Points": 265,
+    "Tonnage": "C",
+    "BaseSize": 60,
+    "Profile": {
         "Thrust": 5,
         "Scan": 10,
         "Sig": 16,
@@ -17,7 +17,7 @@
             "Command Ship-2"
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "NC-16 Missiles",
             "Arc": "F/S/R",
@@ -30,14 +30,14 @@
             ]
         }
     ],
-    "load": [],
-    "rules": [
+    "Load": [],
+    "Rules": [
         {
             "Name": "Hardpoints",
             "Text": "This Ship must take a total of eight options from the Dreadnought Systems list. Up to four options may be taken from the Broadside Hardpoint category. Up to four options may be taken from the Turrets category. Up to four options may be taken from the Launch Hardpoint category. Up to two options may be taken from the Structures category."
         }
     ],
-    "systems": {
+    "Systems": {
         "Name": "Dreadnought Systems",
         "Min": 8,
         "Max": 8,
@@ -56,11 +56,11 @@
             }
         }
     },
-    "known_ships": [
+    "KnownShips": [
         "Esperance",
         "Trinidad (Independents)",
         "Conquistador",
         "Kabal's Heart (Kalium)"
     ],
-    "flavour": "A noteworthy Coloniser was the Supernova - colloquially known as the \"HMS S**tstorm\".\nDuring the battle of Vega-4 this derelict colonyship was lashed with as many Heavy Vent Cannons as the hull could support and crewed by a skeleton crew of heroes who knew they were not coming back. The Supernova then drifted into the mass of the enemy fleet and unleashed superheated plasma until there was almost nothing left of either fleet."
+    "Flavour": "A noteworthy Coloniser was the Supernova - colloquially known as the \"HMS S**tstorm\".\nDuring the battle of Vega-4 this derelict colonyship was lashed with as many Heavy Vent Cannons as the hull could support and crewed by a skeleton crew of heroes who knew they were not coming back. The Supernova then drifted into the mass of the enemy fleet and unleashed superheated plasma until there was almost nothing left of either fleet."
 }

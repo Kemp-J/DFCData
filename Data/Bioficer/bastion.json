@@ -1,10 +1,10 @@
 {
-    "class": "Bastion",
-    "type": "Battleship",
-    "points": 225,
-    "tonnage": "H",
-    "base_size": 50,
-    "profile": {
+    "Class": "Bastion",
+    "Type": "Battleship",
+    "Points": 225,
+    "Tonnage": "H",
+    "BaseSize": 50,
+    "Profile": {
         "Thrust": 8,
         "Scan": 12,
         "Sig": 6,
@@ -17,7 +17,7 @@
             "Porter L-1"
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Gravitic Hyperlance",
             "Arc": "FN",
@@ -43,7 +43,7 @@
             ]
         }
     ],
-    "load": [
+    "Load": [
         {
             "Load": "Torpedo",
             "Launch": 2,
@@ -53,12 +53,12 @@
             "Cost": 20
         }
     ],
-    "rules": [
+    "Rules": [
         {
             "Name": "Torpedo Upgrade",
             "Text": "This Ship may take a Torpedo Upgrade for +20 points, gaining the following Launch Asset:"
         }
     ],
-    "known_ships": [],
-    "flavour": "The Bastion class battleship is built around the massive Gravitic Hyperlance. This weapon projects a thin tunnel of massively undulating gravity, pulling and shaking a cylinder of hull to pieces while arresting the target for further abuse, should it survive at all. A Thermitor battery augments this ship's already awesome destructive power."
+    "KnownShips": [],
+    "Flavour": "The Bastion class battleship is built around the massive Gravitic Hyperlance. This weapon projects a thin tunnel of massively undulating gravity, pulling and shaking a cylinder of hull to pieces while arresting the target for further abuse, should it survive at all. A Thermitor battery augments this ship's already awesome destructive power."
 }

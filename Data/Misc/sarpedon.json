@@ -1,12 +1,12 @@
 {
-    "fleet": "PHR",
-    "class": "Sarpedon",
-    "type": "Battleship",
-    "rule_name": "Counts As",
-    "rule_text": "This ship counts as a Sarpedon Battleship.",
-    "known_ships": [],
-    "flavour": "",
-    "counts_as_class": "Sarpedon",
-    "counts_as_type": "Battleship",
-    "availability": "RESIN"
+    "Fleet": "PHR",
+    "Class": "Sarpedon",
+    "Type": "Battleship",
+    "RuleName": "Counts As",
+    "RuleText": "This ship counts as a Sarpedon Battleship.",
+    "KnownShips": [],
+    "Flavour": "",
+    "CountsAsClass": "Sarpedon",
+    "CountsAsType": "Battleship",
+    "Availability": "RESIN"
 }

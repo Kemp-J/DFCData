@@ -1,10 +1,10 @@
 {
-    "class": "Pandora",
-    "type": "Frigate",
-    "points": 42,
-    "tonnage": "L",
-    "base_size": 30,
-    "profile": {
+    "Class": "Pandora",
+    "Type": "Frigate",
+    "Points": 42,
+    "Tonnage": "L",
+    "BaseSize": 30,
+    "Profile": {
         "Thrust": 10,
         "Scan": 8,
         "Sig": 3,
@@ -15,7 +15,7 @@
         "G": "2-4",
         "Special": []
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Supernova Laser",
             "Arc": "FN",
@@ -30,12 +30,12 @@
             ]
         }
     ],
-    "load": [],
-    "known_ships": [
+    "Load": [],
+    "KnownShips": [
         "Cyclopean Gaze",
         "Brightflame",
         "Lance of Athena",
         "Illuminator"
     ],
-    "flavour": "The Pandora class frigate is a highly advanced vessel and one of the smallest yet encountered to be equipped with a sustained burn type anti-ship laser. Such weapons require considerable power to reach yield, highlighting the efficiency and potency of PHR fusion generators. At this time it would certainly be impossible for the UCM to match this achievement in miniaturisation with anything like the same destructive energies this marvel is capable of bringing to bear. Fortunately for its enemies, the difficulty of creating such a vessel is evident in its relative scarcity when compared to other PHR ships.\nIn battle, the Pandora fulfils a very different role and mode of attack to the Europa. Its single long ranged weapon is integrated into its hull and restricted to a narrow fire arc at the prow, resulting in a more focused form of attack that tends to single out a specific high value target. Like most such weapons, the Pandora's Supernova laser generates significant heat on the target, marking it for the guns of other waiting PHR ships, lending the Pandora a secondary support role."
+    "Flavour": "The Pandora class frigate is a highly advanced vessel and one of the smallest yet encountered to be equipped with a sustained burn type anti-ship laser. Such weapons require considerable power to reach yield, highlighting the efficiency and potency of PHR fusion generators. At this time it would certainly be impossible for the UCM to match this achievement in miniaturisation with anything like the same destructive energies this marvel is capable of bringing to bear. Fortunately for its enemies, the difficulty of creating such a vessel is evident in its relative scarcity when compared to other PHR ships.\nIn battle, the Pandora fulfils a very different role and mode of attack to the Europa. Its single long ranged weapon is integrated into its hull and restricted to a narrow fire arc at the prow, resulting in a more focused form of attack that tends to single out a specific high value target. Like most such weapons, the Pandora's Supernova laser generates significant heat on the target, marking it for the guns of other waiting PHR ships, lending the Pandora a secondary support role."
 }

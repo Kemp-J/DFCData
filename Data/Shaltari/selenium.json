@@ -1,10 +1,10 @@
 {
-    "class": "Selenium",
-    "type": "Heavy Voidgate",
-    "points": 55,
-    "tonnage": "L",
-    "base_size": 30,
-    "profile": {
+    "Class": "Selenium",
+    "Type": "Heavy Voidgate",
+    "Points": 55,
+    "Tonnage": "L",
+    "BaseSize": 30,
+    "Profile": {
         "Thrust": 6,
         "Scan": 12,
         "Sig": 6,
@@ -19,7 +19,7 @@
             "Shield-4+"
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Defence Array",
             "Arc": "F/S/R",
@@ -44,11 +44,11 @@
             ]
         }
     ],
-    "load": [],
-    "known_ships": [
+    "Load": [],
+    "KnownShips": [
         "Warchariot",
         "Deadly Conjurer",
         "Amulet"
     ],
-    "flavour": "Most Shaltari ground forces reach the surface via Voidgates - ubiquitous, unglamorous ships. Voidgates tend to be lightly armoured and unarmed, making them easy targets. However, as common as these vessels are, sometimes the Shaltari need to guarantee landings planetside, so rely on heavier ships. The Selenium class is one such vessel. It has the transference capacity of a Voidgate, and guns designed to fire out of atmosphere at starships. This allows the Selenium to defend the ground troops deployed through it.\nThese enhanced capabilities and much improved survivability over Voidgates makes the class particularly useful in the thick of heavy fighting, especially given the importance Shaltari place on their own lives. As a result, more of this class have been seen during the Battle for Earth than anywhere else."
+    "Flavour": "Most Shaltari ground forces reach the surface via Voidgates - ubiquitous, unglamorous ships. Voidgates tend to be lightly armoured and unarmed, making them easy targets. However, as common as these vessels are, sometimes the Shaltari need to guarantee landings planetside, so rely on heavier ships. The Selenium class is one such vessel. It has the transference capacity of a Voidgate, and guns designed to fire out of atmosphere at starships. This allows the Selenium to defend the ground troops deployed through it.\nThese enhanced capabilities and much improved survivability over Voidgates makes the class particularly useful in the thick of heavy fighting, especially given the importance Shaltari place on their own lives. As a result, more of this class have been seen during the Battle for Earth than anywhere else."
 }

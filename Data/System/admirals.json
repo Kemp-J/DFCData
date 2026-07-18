@@ -1,5 +1,5 @@
 {
-    "admirals": [
+    "Admirals": [
         {
             "Level": 2,
             "Cost": 20,
@@ -21,7 +21,7 @@
             ]
         }
     ],
-    "abilities": [
+    "Abilities": [
         {
             "Cost": "*AP",
             "Name": "AP Re-roll",

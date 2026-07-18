@@ -1,10 +1,10 @@
 {
-    "class": "Daemon",
-    "type": "Battleship",
-    "points": 215,
-    "tonnage": "H",
-    "base_size": 50,
-    "profile": {
+    "Class": "Daemon",
+    "Type": "Battleship",
+    "Points": 215,
+    "Tonnage": "H",
+    "BaseSize": 50,
+    "Profile": {
         "Thrust": 8,
         "Scan": 8,
         "Sig": 10,
@@ -15,7 +15,7 @@
         "G": "1",
         "Special": []
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Oculus Beam Array",
             "Arc": "F/S",
@@ -53,18 +53,18 @@
             ]
         }
     ],
-    "load": [],
-    "rules": [
+    "Load": [],
+    "Rules": [
         {
             "Name": "Keel Refit",
             "Text": "This Ship may take a Cloaking Keel for +15 points, gaining Stealth and Cloak-2, or an Engine Upgrade for +25 points increasing Thrust by 3\"."
         }
     ],
-    "upgrades": [
+    "Upgrades": [
         {
-            "min": 0,
-            "max": 1,
-            "options": [
+            "Min": 0,
+            "Max": 1,
+            "Options": [
                 {
                     "Name": "Cloaking Keel",
                     "Cost": 15,
@@ -95,6 +95,6 @@
             ]
         }
     ],
-    "known_ships": [],
-    "flavour": ""
+    "KnownShips": [],
+    "Flavour": ""
 }

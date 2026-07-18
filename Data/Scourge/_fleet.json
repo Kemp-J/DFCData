@@ -1,6 +1,6 @@
 {
-    "source_version": "260626",
-    "abilities": [
+    "SourceVersion": "260626",
+    "Abilities": [
         {
             "Cost": "1AP",
             "Name": "For the Species",
@@ -32,7 +32,7 @@
             "Effect": "At the start of the Asset Phase, pick a friendly Group. That Group gains Marines-2D3 until the end of the round."
         }
     ],
-    "fleet_admirals": [
+    "FleetAdmirals": [
         {
             "Name": "Scourge Fleet Thrall",
             "Level": 1,
@@ -65,7 +65,7 @@
             ]
         }
     ],
-    "launch_assets": [
+    "LaunchAssets": [
         {
             "Load": "Torpedo",
             "Thrust": 8,
@@ -107,22 +107,22 @@
             "Rerolls": 2
         }
     ],
-    "systems": [],
-    "deployable_features": [
+    "Systems": [],
+    "DeployableFeatures": [
         "skybane_halo.json",
         "shrouding_platform.json",
         "infestation_bastion.json"
     ],
-    "famous_admirals": [
+    "FamousAdmirals": [
         "enslaver.json",
         "flayer.json",
         "baba_yaga.json",
         "overlord_of_flies.json"
     ],
-    "heroes": [
+    "Heroes": [
         "the_hated.json"
     ],
-    "ships": [
+    "Ships": [
         "nickar.json",
         "hiruko.json",
         "ebisu.json",

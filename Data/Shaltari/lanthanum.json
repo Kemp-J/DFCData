@@ -1,10 +1,10 @@
 {
-    "class": "Lanthanum",
-    "type": "Super Battleship",
-    "points": 265,
-    "tonnage": "H",
-    "base_size": 50,
-    "profile": {
+    "Class": "Lanthanum",
+    "Type": "Super Battleship",
+    "Points": 265,
+    "Tonnage": "H",
+    "BaseSize": 50,
+    "Profile": {
         "Thrust": 8,
         "Scan": 12,
         "Sig": 8,
@@ -17,7 +17,7 @@
             "Shield-4+"
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Particle Lance Triad",
             "Arc": "FN",
@@ -54,11 +54,11 @@
             ]
         }
     ],
-    "load": [],
-    "known_ships": [
+    "Load": [],
+    "KnownShips": [
         "Spear of Ra",
         "Sunbringer",
         "Kinslayer"
     ],
-    "flavour": "The Lanthanum is a predatory flagship killer. Featuring twice the spinal mounted mega-weaponry found on the already formidable Diamond, this super battleship burns through any foe with Thermal Lance and Particle Cannons while its broadside Electrosurge Projectors wreak havok with surrounding opponent's core systems."
+    "Flavour": "The Lanthanum is a predatory flagship killer. Featuring twice the spinal mounted mega-weaponry found on the already formidable Diamond, this super battleship burns through any foe with Thermal Lance and Particle Cannons while its broadside Electrosurge Projectors wreak havok with surrounding opponent's core systems."
 }

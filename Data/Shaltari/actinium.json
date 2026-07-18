@@ -1,10 +1,10 @@
 {
-    "class": "Actinium",
-    "type": "Battleship",
-    "points": 245,
-    "tonnage": "H",
-    "base_size": 50,
-    "profile": {
+    "Class": "Actinium",
+    "Type": "Battleship",
+    "Points": 245,
+    "Tonnage": "H",
+    "BaseSize": 50,
+    "Profile": {
         "Thrust": 8,
         "Scan": 12,
         "Sig": 8,
@@ -17,7 +17,7 @@
             "Shield-4+"
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Disintegrator Battery",
             "Arc": "F/S",
@@ -55,11 +55,11 @@
             ]
         }
     ],
-    "load": [],
-    "known_ships": [
+    "Load": [],
+    "KnownShips": [
         "Diplomat",
         "Aaru-born",
         "Our Distain"
     ],
-    "flavour": "The Actinium is a supremely challenging and disruptive opponent. It's broadside Elecrosurge Projectors are designed to lash a ship's core systems with pulsed directed energy surges, while its Gravitic Beamer crushes and shoves thousands of tons of enemy starship with localised hypergravity."
+    "Flavour": "The Actinium is a supremely challenging and disruptive opponent. It's broadside Elecrosurge Projectors are designed to lash a ship's core systems with pulsed directed energy surges, while its Gravitic Beamer crushes and shoves thousands of tons of enemy starship with localised hypergravity."
 }

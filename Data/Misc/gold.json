@@ -1,12 +1,12 @@
 {
-    "fleet": "Shaltari",
-    "class": "Gold",
-    "type": "Battleship",
-    "rule_name": "Counts As",
-    "rule_text": "This ship counts as a Gold Battleship.",
-    "known_ships": [],
-    "flavour": "",
-    "counts_as_class": "Gold",
-    "counts_as_type": "Supercarrier",
-    "availability": "RESIN"
+    "Fleet": "Shaltari",
+    "Class": "Gold",
+    "Type": "Battleship",
+    "RuleName": "Counts As",
+    "RuleText": "This ship counts as a Gold Battleship.",
+    "KnownShips": [],
+    "Flavour": "",
+    "CountsAsClass": "Gold",
+    "CountsAsType": "Supercarrier",
+    "Availability": "RESIN"
 }

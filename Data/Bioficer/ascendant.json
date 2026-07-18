@@ -1,14 +1,14 @@
 {
-    "admiral": "Ascendant",
-    "admiral_level": 4,
-    "class": "Zenith",
-    "type": "Dreadnought",
-    "admiral_points": 85,
-    "ship_points": 520,
-    "points": 605,
-    "tonnage": "C",
-    "base_size": 60,
-    "profile": {
+    "Admiral": "Ascendant",
+    "AdmiralLevel": 4,
+    "Class": "Zenith",
+    "Type": "Dreadnought",
+    "AdmiralPoints": 85,
+    "ShipPoints": 520,
+    "Points": 605,
+    "Tonnage": "C",
+    "BaseSize": 60,
+    "Profile": {
         "Thrust": 6,
         "Scan": 14,
         "Sig": 10,
@@ -22,7 +22,7 @@
             "Reinforced Armour"
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Giga Lightvice",
             "Arc": "F",
@@ -80,7 +80,7 @@
             ]
         }
     ],
-    "load": [
+    "Load": [
         {
             "Load": "Fighters & Bombers",
             "Launch": 5,
@@ -92,19 +92,19 @@
             "Special": []
         }
     ],
-    "rules": [
+    "Rules": [
         {
             "Name": "High Velocity Boarding Pods",
             "Text": "This Ship's Boarding Pods may be used against targets up to 6\" away."
         }
     ],
-    "fleet_admiral_abilities": 2,
-    "admiral_abilities": [
+    "FleetAdmiralAbilities": 2,
+    "AdmiralAbilities": [
         {
             "Cost": "2AP",
             "Name": "Overwatch",
             "Effect": "When you activate this Ship on General Quarters, you may choose to forgo attacking with this Ship. If you do, this Ship goes on Overwatch until the end of the round or until it declares the use of Overwatch. At the end of any enemy Group's activation, if that Group moved through this Ship's Front arc and was in weapons range while doing so, you may declare the use of Overwatch against that Group. When you use Overwatch, this Ship immediately makes an Attack as if on General Quarters against the enemy Group, even if it is out of arc and weapon range."
         }
     ],
-    "flavour": ""
+    "Flavour": ""
 }

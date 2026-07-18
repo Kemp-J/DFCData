@@ -1,10 +1,10 @@
 {
-    "class": "Ebisu",
-    "type": "Tackling Cutter",
-    "points": 23,
-    "tonnage": "L",
-    "base_size": 30,
-    "profile": {
+    "Class": "Ebisu",
+    "Type": "Tackling Cutter",
+    "Points": 23,
+    "Tonnage": "L",
+    "BaseSize": 30,
+    "Profile": {
         "Thrust": 14,
         "Scan": 6,
         "Sig": 2,
@@ -19,7 +19,7 @@
             "Vanguard-7\""
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Engine Needle",
             "Arc": "FN",
@@ -32,13 +32,13 @@
             ]
         }
     ],
-    "load": [
+    "Load": [
         {
             "Load": "Boarding Pods",
             "Launch": 1,
             "Special": []
         }
     ],
-    "known_ships": [],
-    "flavour": ""
+    "KnownShips": [],
+    "Flavour": ""
 }

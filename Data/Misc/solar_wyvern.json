@@ -1,12 +1,12 @@
 {
-    "fleet": "Scourge",
-    "class": "Solar Wyvern",
-    "type": "Cruiser",
-    "rule_name": "Counts As",
-    "rule_text": "This ship counts as a Wyvern Cruiser.",
-    "known_ships": [],
-    "flavour": "",
-    "counts_as_class": "Wyvern",
-    "counts_as_type": "Cruiser",
-    "availability": "RESIN"
+    "Fleet": "Scourge",
+    "Class": "Solar Wyvern",
+    "Type": "Cruiser",
+    "RuleName": "Counts As",
+    "RuleText": "This ship counts as a Wyvern Cruiser.",
+    "KnownShips": [],
+    "Flavour": "",
+    "CountsAsClass": "Wyvern",
+    "CountsAsType": "Cruiser",
+    "Availability": "RESIN"
 }

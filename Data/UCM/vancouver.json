@@ -1,10 +1,10 @@
 {
-    "class": "Vancouver",
-    "type": "Escort Carrier",
-    "points": 55,
-    "tonnage": "L",
-    "base_size": 30,
-    "profile": {
+    "Class": "Vancouver",
+    "Type": "Escort Carrier",
+    "Points": 55,
+    "Tonnage": "L",
+    "BaseSize": 30,
+    "Profile": {
         "Thrust": 10,
         "Scan": 6,
         "Sig": 4,
@@ -17,7 +17,7 @@
             "Escort"
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Barracuda Missile Bays",
             "Arc": "F/S/R",
@@ -30,17 +30,17 @@
             ]
         }
     ],
-    "load": [
+    "Load": [
         {
             "Load": "Fighters & Bombers",
             "Launch": 1,
             "Special": []
         }
     ],
-    "known_ships": [
+    "KnownShips": [
         "Hornet",
         "Commandment",
         "Atoll"
     ],
-    "flavour": "The Vancouver class emerged from the UCMF Naval Design Bureau in the late 2640s in response to the obvious need for more cost effective fighter and bomber support than the well armed Seattle class offered. The Bureau opted for a vessel of destroyer tonnage - that is, a ship larger than a frigate but smaller than a cruiser for ease of mass manufacture. As a relatively new class, its numbers are currently low but increasing as the ever growing demands and spoils of the Reconquest spur the yards into unprecedented productivity.\nAs a fighting ship, the Vancouver is very poorly armed in comparison with the Seattle, but offers a greater launch capacity in comparison to its cost. As such, it is best utilised in rearguard and central fleet operations, where conventional warships can protect it from enemy action. Thanks to its bomber compliment, the Vancouver is particularly dangerous to smaller vessels with poor point defence, while its fighters can lend crucial protection to other vessels."
+    "Flavour": "The Vancouver class emerged from the UCMF Naval Design Bureau in the late 2640s in response to the obvious need for more cost effective fighter and bomber support than the well armed Seattle class offered. The Bureau opted for a vessel of destroyer tonnage - that is, a ship larger than a frigate but smaller than a cruiser for ease of mass manufacture. As a relatively new class, its numbers are currently low but increasing as the ever growing demands and spoils of the Reconquest spur the yards into unprecedented productivity.\nAs a fighting ship, the Vancouver is very poorly armed in comparison with the Seattle, but offers a greater launch capacity in comparison to its cost. As such, it is best utilised in rearguard and central fleet operations, where conventional warships can protect it from enemy action. Thanks to its bomber compliment, the Vancouver is particularly dangerous to smaller vessels with poor point defence, while its fighters can lend crucial protection to other vessels."
 }

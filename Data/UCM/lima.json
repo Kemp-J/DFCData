@@ -1,10 +1,10 @@
 {
-    "class": "Lima",
-    "type": "Detector Frigate",
-    "points": 40,
-    "tonnage": "L",
-    "base_size": 30,
-    "profile": {
+    "Class": "Lima",
+    "Type": "Detector Frigate",
+    "Points": 40,
+    "Tonnage": "L",
+    "BaseSize": 30,
+    "Profile": {
         "Thrust": 10,
         "Scan": 6,
         "Sig": 3,
@@ -18,7 +18,7 @@
             "Rare"
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "UF-2200 Mass Driver Turret",
             "Arc": "F/S",
@@ -29,12 +29,12 @@
             "Special": []
         }
     ],
-    "load": [],
-    "known_ships": [
+    "Load": [],
+    "KnownShips": [
         "Pharos",
         "Guiding Light",
         "Nostradamus",
         "Virgil"
     ],
-    "flavour": "The Lima class frigate is equipped with an extremely potent electronic warfare suite and detector array. Its highly focused mission parameters revolve around active scanning the engagement zone for enemy presence and assisting in accurate target acquisition for the main fleet. The presence of Lima's in a UCM formation can increase the effective range of the entire fleet, providing the crucial opportunity of hitting first.\nUnfortunately, these systems proved costly and slow to produce during the Lima's construction, greatly limiting the numbers available at the launch of the Reconquest. As of 2672, only 97 are in the register, making it a precious asset given its usefulness. Admirals are under orders to preserve these ships as much as possible and are usually given limited access to the class. Fortunately, it operates best from the rear of any fleet action, giving it a good chance of survival in most engagements."
+    "Flavour": "The Lima class frigate is equipped with an extremely potent electronic warfare suite and detector array. Its highly focused mission parameters revolve around active scanning the engagement zone for enemy presence and assisting in accurate target acquisition for the main fleet. The presence of Lima's in a UCM formation can increase the effective range of the entire fleet, providing the crucial opportunity of hitting first.\nUnfortunately, these systems proved costly and slow to produce during the Lima's construction, greatly limiting the numbers available at the launch of the Reconquest. As of 2672, only 97 are in the register, making it a precious asset given its usefulness. Admirals are under orders to preserve these ships as much as possible and are usually given limited access to the class. Fortunately, it operates best from the rear of any fleet action, giving it a good chance of survival in most engagements."
 }

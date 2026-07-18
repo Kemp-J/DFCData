@@ -1,10 +1,10 @@
 {
-    "class": "Bucharest",
-    "type": "Cruiser",
-    "points": 90,
-    "tonnage": "M",
-    "base_size": 40,
-    "profile": {
+    "Class": "Bucharest",
+    "Type": "Cruiser",
+    "Points": 90,
+    "Tonnage": "M",
+    "BaseSize": 40,
+    "Profile": {
         "Thrust": 8,
         "Scan": 6,
         "Sig": 6,
@@ -17,7 +17,7 @@
             "Rare"
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Taipan Laser Turrets",
             "Arc": "F/S",
@@ -41,7 +41,7 @@
             ]
         }
     ],
-    "load": [
+    "Load": [
         {
             "Load": "Medium Torpedo",
             "Launch": 1,
@@ -50,6 +50,6 @@
             ]
         }
     ],
-    "known_ships": [],
-    "flavour": ""
+    "KnownShips": [],
+    "Flavour": ""
 }

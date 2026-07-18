@@ -1,10 +1,10 @@
 {
-    "class": "Vienna",
-    "type": "Escort Frigate",
-    "points": 66,
-    "tonnage": "L",
-    "base_size": 30,
-    "profile": {
+    "Class": "Vienna",
+    "Type": "Escort Frigate",
+    "Points": 66,
+    "Tonnage": "L",
+    "BaseSize": 30,
+    "Profile": {
         "Thrust": 6,
         "Scan": 6,
         "Sig": 4,
@@ -18,7 +18,7 @@
             "Escort"
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Mamba Laser",
             "Arc": "FN",
@@ -33,11 +33,11 @@
             ]
         }
     ],
-    "load": [],
-    "known_ships": [
+    "Load": [],
+    "KnownShips": [
         "Musketeer",
         "Arquebus",
         "Count Nicholas"
     ],
-    "flavour": "The Vienna shares some advantages and disadvantages of its sister class: low speed, high armour, and high firepower. However, it must be used in a slightly more conventional manner, since it suffers the same loss of performance when firing between orbital layers as ordinary vessels. It makes up for this by mounting an anti-ship laser - the smallest UCM ship to be able to do so - due to its otherwise low power requirements.\nIt also fits into a quite different role: that of battleship escort. Used in this way, its laser serves the useful secondary purpose of heating the target, assisting the much larger ship's gunnery. Given this application, the Vienna also mounts additional point-defence clusters for limited aegis capability, although not up to the level of the Jakarta, which was designed for this role alone. Since its sublight speed matches that of a slow battleship, it can keep up."
+    "Flavour": "The Vienna shares some advantages and disadvantages of its sister class: low speed, high armour, and high firepower. However, it must be used in a slightly more conventional manner, since it suffers the same loss of performance when firing between orbital layers as ordinary vessels. It makes up for this by mounting an anti-ship laser - the smallest UCM ship to be able to do so - due to its otherwise low power requirements.\nIt also fits into a quite different role: that of battleship escort. Used in this way, its laser serves the useful secondary purpose of heating the target, assisting the much larger ship's gunnery. Given this application, the Vienna also mounts additional point-defence clusters for limited aegis capability, although not up to the level of the Jakarta, which was designed for this role alone. Since its sublight speed matches that of a slow battleship, it can keep up."
 }

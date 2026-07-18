@@ -1,10 +1,10 @@
 {
-    "class": "Strontium",
-    "type": "Monitor",
-    "points": 58,
-    "tonnage": "L",
-    "base_size": 30,
-    "profile": {
+    "Class": "Strontium",
+    "Type": "Monitor",
+    "Points": 58,
+    "Tonnage": "L",
+    "BaseSize": 30,
+    "Profile": {
         "Thrust": 6,
         "Scan": 12,
         "Sig": 6,
@@ -18,7 +18,7 @@
             "Shield-4+"
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Force Projectors",
             "Arc": "F/S",
@@ -32,7 +32,7 @@
             ]
         }
     ],
-    "load": [],
-    "known_ships": [],
-    "flavour": ""
+    "Load": [],
+    "KnownShips": [],
+    "Flavour": ""
 }

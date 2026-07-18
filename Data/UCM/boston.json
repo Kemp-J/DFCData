@@ -1,10 +1,10 @@
 {
-    "class": "Boston",
-    "type": "Light Cruiser",
-    "points": 75,
-    "tonnage": "M",
-    "base_size": 40,
-    "profile": {
+    "Class": "Boston",
+    "Type": "Light Cruiser",
+    "Points": 75,
+    "Tonnage": "M",
+    "BaseSize": 40,
+    "Profile": {
         "Thrust": 10,
         "Scan": 6,
         "Sig": 6,
@@ -15,7 +15,7 @@
         "G": "2-3",
         "Special": []
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Piranha Missile Turrets",
             "Arc": "F/S",
@@ -28,7 +28,7 @@
             ]
         }
     ],
-    "load": [
+    "Load": [
         {
             "Load": "Medium Torpedo",
             "Launch": 1,
@@ -37,6 +37,6 @@
             ]
         }
     ],
-    "known_ships": [],
-    "flavour": ""
+    "KnownShips": [],
+    "Flavour": ""
 }

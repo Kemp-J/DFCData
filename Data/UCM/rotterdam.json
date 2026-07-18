@@ -1,10 +1,10 @@
 {
-    "class": "Rotterdam",
-    "type": "Pocket Battleship",
-    "points": 195,
-    "tonnage": "H",
-    "base_size": 50,
-    "profile": {
+    "Class": "Rotterdam",
+    "Type": "Pocket Battleship",
+    "Points": 195,
+    "Tonnage": "H",
+    "BaseSize": 50,
+    "Profile": {
         "Thrust": 7,
         "Scan": 8,
         "Sig": 6,
@@ -17,7 +17,7 @@
             "Command Ship-2"
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Taipan Laser Turrets",
             "Arc": "F/S",
@@ -52,8 +52,8 @@
             ]
         }
     ],
-    "load": [],
-    "rules": [
+    "Load": [],
+    "Rules": [
         {
             "Name": "Feature Carrier",
             "Text": "At the start of the game, before players deploy, choose one Deployable Feature from the UCM Deployable Features List. This Ship starts the game carrying that Deployable Feature."
@@ -63,7 +63,7 @@
             "Text": "An Admiral assigned to this ship gains the following Command Abilities:\nDouble Time Bulk Line (2AP): When you activate another friendly Group in Orbit, until the end of its activation, that Group may launch its Bulk Landers as if the target Dropsite has no enemy Battalions.\nFeet First into Hell (2AP): When you activate another friendly Group in atmosphere, until the end of its activation, that Group can launch its Dropships or Drop Pods with a range of 6\". Drop Pods launched due to this rule ignore the Alt-Launch rule."
         }
     ],
-    "admiral_abilities": [
+    "AdmiralAbilities": [
         {
             "Cost": "2AP",
             "Name": "Double Time Bulk Line",
@@ -75,6 +75,6 @@
             "Effect": "When you activate another friendly Group in atmosphere, until the end of its activation, that Group can launch its Dropships or Drop Pods with a range of 6\". Drop Pods launched due to this rule ignore the Alt-Launch rule."
         }
     ],
-    "known_ships": [],
-    "flavour": ""
+    "KnownShips": [],
+    "Flavour": ""
 }

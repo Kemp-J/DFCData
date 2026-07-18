@@ -1,12 +1,12 @@
 {
-    "fleet": "PHR",
-    "class": "Heracles",
-    "type": "Battleship",
-    "rule_name": "Counts As",
-    "rule_text": "This ship counts as a Heracles Battleship.",
-    "known_ships": [],
-    "flavour": "",
-    "counts_as_class": "Heracles",
-    "counts_as_type": "Battleship",
-    "availability": "RESIN"
+    "Fleet": "PHR",
+    "Class": "Heracles",
+    "Type": "Battleship",
+    "RuleName": "Counts As",
+    "RuleText": "This ship counts as a Heracles Battleship.",
+    "KnownShips": [],
+    "Flavour": "",
+    "CountsAsClass": "Heracles",
+    "CountsAsType": "Battleship",
+    "Availability": "RESIN"
 }

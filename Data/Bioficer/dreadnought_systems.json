@@ -1,11 +1,11 @@
 {
-    "name": "Dreadnought Systems",
-    "groups": [
+    "Name": "Dreadnought Systems",
+    "Groups": [
         "Secondary Hardpoint",
         "Tertiary Hardpoint",
         "Launch Hardpoint"
     ],
-    "systems": {
+    "Systems": {
         "Secondary Hardpoint": [
             {
                 "Pts": 15,

@@ -1,10 +1,10 @@
 {
-    "class": "Scion",
-    "type": "Battlecruiser",
-    "points": 150,
-    "tonnage": "H",
-    "base_size": 50,
-    "profile": {
+    "Class": "Scion",
+    "Type": "Battlecruiser",
+    "Points": 150,
+    "Tonnage": "H",
+    "BaseSize": 50,
+    "Profile": {
         "Thrust": 8,
         "Scan": 10,
         "Sig": 4,
@@ -17,7 +17,7 @@
             "Vanguard-6\""
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Hyper Lightvice",
             "Arc": "F/S",
@@ -33,7 +33,7 @@
             ]
         }
     ],
-    "load": [],
-    "known_ships": [],
-    "flavour": ""
+    "Load": [],
+    "KnownShips": [],
+    "Flavour": ""
 }

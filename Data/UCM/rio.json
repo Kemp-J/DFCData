@@ -1,10 +1,10 @@
 {
-    "class": "Rio",
-    "type": "Cruiser",
-    "points": 85,
-    "tonnage": "M",
-    "base_size": 40,
-    "profile": {
+    "Class": "Rio",
+    "Type": "Cruiser",
+    "Points": 85,
+    "Tonnage": "M",
+    "BaseSize": 40,
+    "Profile": {
         "Thrust": 8,
         "Scan": 6,
         "Sig": 6,
@@ -15,7 +15,7 @@
         "G": "1-2",
         "Special": []
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "UF-6400 Mass Driver Turrets",
             "Arc": "F/S",
@@ -39,12 +39,12 @@
             ]
         }
     ],
-    "load": [],
-    "known_ships": [
+    "Load": [],
+    "KnownShips": [
         "Gaius Duilius",
         "Constitution",
         "Soldier of Fortune",
         "Song of Hope"
     ],
-    "flavour": "The Rio class cruiser is the most common capital ship type in service with the UCMF in 2672, with 125 vessels currently in the register and several more under construction. It offers a good balance of speed and survivability, coupled with flexible firepower. Its many mass driver turrets are carefully placed to provide excellent traversable firepower, making it highly flexible in fluid, frontline operations where threats can come from multiple quarters.\nThis class has been the mainstay of the fleet's vanguard operations for many decades and has thus once been the command of many of the fleet's current Admirals. Some ships of this class are over fifty years old by this time and have accumulated accolades and personalities that most newer ships cannot match. Despite their venerable age, these older Rios have been performing admirably across the battlefields of the Reconquest, proving that their storied careers are far from over."
+    "Flavour": "The Rio class cruiser is the most common capital ship type in service with the UCMF in 2672, with 125 vessels currently in the register and several more under construction. It offers a good balance of speed and survivability, coupled with flexible firepower. Its many mass driver turrets are carefully placed to provide excellent traversable firepower, making it highly flexible in fluid, frontline operations where threats can come from multiple quarters.\nThis class has been the mainstay of the fleet's vanguard operations for many decades and has thus once been the command of many of the fleet's current Admirals. Some ships of this class are over fifty years old by this time and have accumulated accolades and personalities that most newer ships cannot match. Despite their venerable age, these older Rios have been performing admirably across the battlefields of the Reconquest, proving that their storied careers are far from over."
 }

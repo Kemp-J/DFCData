@@ -1,12 +1,12 @@
 {
-    "fleet": "Scourge",
-    "class": "Devil",
-    "type": "Battleship",
-    "rule_name": "Counts As",
-    "rule_text": "This ship counts as a Devil Battleship.",
-    "known_ships": [],
-    "flavour": "",
-    "counts_as_class": "Devil",
-    "counts_as_type": "Battleship",
-    "availability": "RESIN"
+    "Fleet": "Scourge",
+    "Class": "Devil",
+    "Type": "Battleship",
+    "RuleName": "Counts As",
+    "RuleText": "This ship counts as a Devil Battleship.",
+    "KnownShips": [],
+    "Flavour": "",
+    "CountsAsClass": "Devil",
+    "CountsAsType": "Battleship",
+    "Availability": "RESIN"
 }

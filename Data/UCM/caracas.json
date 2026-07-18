@@ -1,10 +1,10 @@
 {
-    "class": "Caracas",
-    "type": "Heavy Destroyer",
-    "points": 65,
-    "tonnage": "L",
-    "base_size": 30,
-    "profile": {
+    "Class": "Caracas",
+    "Type": "Heavy Destroyer",
+    "Points": 65,
+    "Tonnage": "L",
+    "BaseSize": 30,
+    "Profile": {
         "Thrust": 8,
         "Scan": 6,
         "Sig": 4,
@@ -15,7 +15,7 @@
         "G": "1-2",
         "Special": []
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Orca Missile Bays",
             "Arc": "F/S/R",
@@ -41,7 +41,7 @@
             ]
         }
     ],
-    "load": [],
-    "known_ships": [],
-    "flavour": ""
+    "Load": [],
+    "KnownShips": [],
+    "Flavour": ""
 }

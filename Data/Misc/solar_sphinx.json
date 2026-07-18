@@ -1,12 +1,12 @@
 {
-    "fleet": "Scourge",
-    "class": "Solar Sphinx",
-    "type": "Cruiser",
-    "rule_name": "Counts As",
-    "rule_text": "This ship counts as a Sphinx Cruiser.",
-    "known_ships": [],
-    "flavour": "",
-    "counts_as_class": "Sphinx",
-    "counts_as_type": "Cruiser",
-    "availability": "RESIN"
+    "Fleet": "Scourge",
+    "Class": "Solar Sphinx",
+    "Type": "Cruiser",
+    "RuleName": "Counts As",
+    "RuleText": "This ship counts as a Sphinx Cruiser.",
+    "KnownShips": [],
+    "Flavour": "",
+    "CountsAsClass": "Sphinx",
+    "CountsAsType": "Cruiser",
+    "Availability": "RESIN"
 }

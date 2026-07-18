@@ -1,10 +1,10 @@
 {
-    "class": "Cato",
-    "type": "Pocket Battleship",
-    "points": 185,
-    "tonnage": "H",
-    "base_size": 50,
-    "profile": {
+    "Class": "Cato",
+    "Type": "Pocket Battleship",
+    "Points": 185,
+    "Tonnage": "H",
+    "BaseSize": 50,
+    "Profile": {
         "Thrust": 8,
         "Scan": 8,
         "Sig": 6,
@@ -15,7 +15,7 @@
         "G": "1",
         "Special": []
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Medium Calibre Double Broadside",
             "Arc": "B",
@@ -51,7 +51,7 @@
             ]
         }
     ],
-    "load": [],
-    "known_ships": [],
-    "flavour": ""
+    "Load": [],
+    "KnownShips": [],
+    "Flavour": ""
 }

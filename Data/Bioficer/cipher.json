@@ -1,10 +1,10 @@
 {
-    "class": "Cipher",
-    "type": "Light Cruiser",
-    "points": 70,
-    "tonnage": "M",
-    "base_size": 40,
-    "profile": {
+    "Class": "Cipher",
+    "Type": "Light Cruiser",
+    "Points": 70,
+    "Tonnage": "M",
+    "BaseSize": 40,
+    "Profile": {
         "Thrust": 10,
         "Scan": 8,
         "Sig": 2,
@@ -17,7 +17,7 @@
             "Porter S-1"
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Thermator",
             "Arc": "F",
@@ -31,7 +31,7 @@
             ]
         }
     ],
-    "load": [],
-    "known_ships": [],
-    "flavour": ""
+    "Load": [],
+    "KnownShips": [],
+    "Flavour": ""
 }

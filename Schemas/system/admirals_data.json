@@ -4,10 +4,10 @@
     "title": "DFC Admirals Data",
     "description": "Generic Admirals and Admiral abilities for any fleet.",
     "type": "object",
-    "required": ["admirals", "abilities"],
+    "required": ["Admirals", "Abilities"],
     "additionalProperties": false,
     "properties": {
-        "admirals": {
+        "Admirals": {
             "description": "General Admirals available in any fleet.",
             "type": "array",
             "items": {
@@ -21,7 +21,7 @@
                 }
             }
         },
-        "abilities": {
+        "Abilities": {
             "description": "Generic Admiral abilities available to any fleet.",
             "type": "array",
             "items": { "$ref": "https://dfc/schemas/defs.json#/$defs/Ability" }

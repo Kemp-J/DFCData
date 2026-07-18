@@ -1,10 +1,10 @@
 {
-    "class": "Euclase",
-    "type": "Pocket Battleship",
-    "points": 220,
-    "tonnage": "H",
-    "base_size": 50,
-    "profile": {
+    "Class": "Euclase",
+    "Type": "Pocket Battleship",
+    "Points": 220,
+    "Tonnage": "H",
+    "BaseSize": 50,
+    "Profile": {
         "Thrust": 8,
         "Scan": 12,
         "Sig": 6,
@@ -17,7 +17,7 @@
             "Shield-4+"
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Thermal Lance Cannon Pair",
             "Arc": "FN",
@@ -32,24 +32,24 @@
             ]
         }
     ],
-    "load": [
+    "Load": [
         {
             "Load": "Fighters & Bombers",
             "Launch": 3,
             "Special": []
         }
     ],
-    "rules": [
+    "Rules": [
         {
             "Name": "Feature Carrier",
             "Text": "At the start of the game, before players deploy, choose two Deployable Features from the Shaltari Deployable Features List (duplicates are allowed). This Ship starts the game carrying those Deployable Features."
         }
     ],
-    "known_ships": [
+    "KnownShips": [
         "Bestride the Universe",
         "Fate's Hand",
         "Sublime Orbit",
         "Sky Kraken"
     ],
-    "flavour": "The new Euclase class pocket battleship is among the alien's most powerful capital ships below full battleship tonnage. Offensively, it mounts twinned Thermal Lance Cannons. These forward-facing weapons are devastating enough, but once the Euclase is in an optimal firing position, the full might of the ship's cores can be focused though them, increasing firepower at the expense of manoeuvres.\nGiven the drain on the power matrix, the Euclase's other offensive capabilities are low drain launch options. A substantial fight deck accommodates swarms of fighters and bombers, while the vessel's enhanced superstructure permits the carrying of self-deploying surface assets. Against the Euclase, enemies of the Shaltari are safe nowhere."
+    "Flavour": "The new Euclase class pocket battleship is among the alien's most powerful capital ships below full battleship tonnage. Offensively, it mounts twinned Thermal Lance Cannons. These forward-facing weapons are devastating enough, but once the Euclase is in an optimal firing position, the full might of the ship's cores can be focused though them, increasing firepower at the expense of manoeuvres.\nGiven the drain on the power matrix, the Euclase's other offensive capabilities are low drain launch options. A substantial fight deck accommodates swarms of fighters and bombers, while the vessel's enhanced superstructure permits the carrying of self-deploying surface assets. Against the Euclase, enemies of the Shaltari are safe nowhere."
 }

@@ -1,12 +1,12 @@
 {
-    "fleet": "PHR",
-    "class": "Rhadamanthus",
-    "type": "Battleship",
-    "rule_name": "Counts As",
-    "rule_text": "This ship counts as a Rhadamanthus Battleship.",
-    "known_ships": [],
-    "flavour": "",
-    "counts_as_class": "Rhadamanthus",
-    "counts_as_type": "Battleship",
-    "availability": "RESIN"
+    "Fleet": "PHR",
+    "Class": "Rhadamanthus",
+    "Type": "Battleship",
+    "RuleName": "Counts As",
+    "RuleText": "This ship counts as a Rhadamanthus Battleship.",
+    "KnownShips": [],
+    "Flavour": "",
+    "CountsAsClass": "Rhadamanthus",
+    "CountsAsType": "Battleship",
+    "Availability": "RESIN"
 }

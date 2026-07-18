@@ -1,10 +1,10 @@
 {
-    "class": "Cadmus",
-    "type": "Destroyer",
-    "points": 60,
-    "tonnage": "L",
-    "base_size": 30,
-    "profile": {
+    "Class": "Cadmus",
+    "Type": "Destroyer",
+    "Points": 60,
+    "Tonnage": "L",
+    "BaseSize": 30,
+    "Profile": {
         "Thrust": 8,
         "Scan": 8,
         "Sig": 4,
@@ -15,7 +15,7 @@
         "G": "2-3",
         "Special": []
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Twin Heavy Calibres",
             "Arc": "F",
@@ -40,7 +40,7 @@
             ]
         }
     ],
-    "load": [],
-    "known_ships": [],
-    "flavour": ""
+    "Load": [],
+    "KnownShips": [],
+    "Flavour": ""
 }

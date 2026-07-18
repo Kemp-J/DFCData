@@ -1,10 +1,10 @@
 {
-    "class": "Jet",
-    "type": "Heavy Cruiser",
-    "points": 115,
-    "tonnage": "M",
-    "base_size": 40,
-    "profile": {
+    "Class": "Jet",
+    "Type": "Heavy Cruiser",
+    "Points": 115,
+    "Tonnage": "M",
+    "BaseSize": 40,
+    "Profile": {
         "Thrust": 8,
         "Scan": 12,
         "Sig": 6,
@@ -17,7 +17,7 @@
             "Shield-4+"
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Ion Aura",
             "Arc": "F/S/R",
@@ -54,12 +54,12 @@
             ]
         }
     ],
-    "load": [],
-    "known_ships": [
+    "Load": [],
+    "KnownShips": [
         "Cobalt Shadow",
         "Inviolate Centuries",
         "Starpride",
         "Pure Knowing"
     ],
-    "flavour": "The Jet class heavy cruiser is one of the most flexible available to the tribal fleets. It can be applied effectively to a variety of missions and situations with its varied fire options making it equally effective at orbital bombardment, close action attack or ranged ship-ship action. The skill in utilising this class, as demonstrated by its best and most ancient of captains, is to put it in a position where more than one of these offensive means can be brought to bear simultaneously. Unusually, this seems to be a new class, with the first sighting only a few years before the Reconquest began, indicating that Shaltari technology is still evolving, albeit at a slower pace than other races.\nIt is armed primarily with two banks of ion storm generators. These eldritch weapons generate waves of coruscating energy at close ranges and can be turned on ships (bypassing all point defences in the process) or on surface targets, lashing whole districts to rubble in seconds. For longer range ship-ship combat, the Jet is equipped with a single bank of disintegrators, which are normally used when closing in on the enemy with the combined fury with its other weapons."
+    "Flavour": "The Jet class heavy cruiser is one of the most flexible available to the tribal fleets. It can be applied effectively to a variety of missions and situations with its varied fire options making it equally effective at orbital bombardment, close action attack or ranged ship-ship action. The skill in utilising this class, as demonstrated by its best and most ancient of captains, is to put it in a position where more than one of these offensive means can be brought to bear simultaneously. Unusually, this seems to be a new class, with the first sighting only a few years before the Reconquest began, indicating that Shaltari technology is still evolving, albeit at a slower pace than other races.\nIt is armed primarily with two banks of ion storm generators. These eldritch weapons generate waves of coruscating energy at close ranges and can be turned on ships (bypassing all point defences in the process) or on surface targets, lashing whole districts to rubble in seconds. For longer range ship-ship combat, the Jet is equipped with a single bank of disintegrators, which are normally used when closing in on the enemy with the combined fury with its other weapons."
 }

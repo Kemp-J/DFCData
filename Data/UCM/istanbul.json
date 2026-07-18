@@ -1,10 +1,10 @@
 {
-    "class": "Istanbul",
-    "type": "Monitor",
-    "points": 50,
-    "tonnage": "L",
-    "base_size": 30,
-    "profile": {
+    "Class": "Istanbul",
+    "Type": "Monitor",
+    "Points": 50,
+    "Tonnage": "L",
+    "BaseSize": 30,
+    "Profile": {
         "Thrust": 6,
         "Scan": 6,
         "Sig": 4,
@@ -17,7 +17,7 @@
             "Monitor"
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "UF-B-9000s",
             "Profiles": [
@@ -47,11 +47,11 @@
             ]
         }
     ],
-    "load": [],
-    "known_ships": [
+    "Load": [],
+    "KnownShips": [
         "Fist of Osman",
         "Suliman",
         "Loyal Janissary"
     ],
-    "flavour": "The Istanbul is a typical naval defence monitor. Frigate-sized, it features armour as thick as a battleship's and low speed to match. UCM Monitors achieve this through dispensing with Foldspace capability; they must be brought into system by tugs - large vessels under the auspices of the Fleet Logistical Corps. Once in system, its undersized, overstretched sublight thrusters slowly get the monitor into position.\nThis massive sacrifice of mobility also frees up considerable power for weapons, allowing the Istanbul to be over-gunned for its relatively small size. It features a massive UF-B-9000 mass-driver, in a unique, rotating mount; supporting its defensive role. This allows the Istanbul to easily engage targets in higher orbital layers or directed towards the surface for bombardment."
+    "Flavour": "The Istanbul is a typical naval defence monitor. Frigate-sized, it features armour as thick as a battleship's and low speed to match. UCM Monitors achieve this through dispensing with Foldspace capability; they must be brought into system by tugs - large vessels under the auspices of the Fleet Logistical Corps. Once in system, its undersized, overstretched sublight thrusters slowly get the monitor into position.\nThis massive sacrifice of mobility also frees up considerable power for weapons, allowing the Istanbul to be over-gunned for its relatively small size. It features a massive UF-B-9000 mass-driver, in a unique, rotating mount; supporting its defensive role. This allows the Istanbul to easily engage targets in higher orbital layers or directed towards the surface for bombardment."
 }

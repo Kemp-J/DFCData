@@ -1,10 +1,10 @@
 {
-    "class": "Binder",
-    "type": "Super Battleship",
-    "points": 270,
-    "tonnage": "H",
-    "base_size": 50,
-    "profile": {
+    "Class": "Binder",
+    "Type": "Super Battleship",
+    "Points": 270,
+    "Tonnage": "H",
+    "BaseSize": 50,
+    "Profile": {
         "Thrust": 6,
         "Scan": 12,
         "Sig": 6,
@@ -18,7 +18,7 @@
             "Porter L-1"
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Gravitic Hyperlance",
             "Arc": "FN",
@@ -57,7 +57,7 @@
             ]
         }
     ],
-    "load": [
+    "Load": [
         {
             "Load": "Boarding Pods",
             "Launch": 1,
@@ -72,12 +72,12 @@
             "Cost": 20
         }
     ],
-    "rules": [
+    "Rules": [
         {
             "Name": "Torpedo Upgrade",
             "Text": "This Ship may take a Torpedo Upgrade for +20 points, gaining the following Launch Asset:"
         }
     ],
-    "known_ships": [],
-    "flavour": "Consistent with the enemy's other super battleships, the Binder is effectively an up-gunned, slower derivative of the Bastion class. Its devastating, mixed armament is a primary threat to any vessel. Like other Bioficer super battleships, it features a greater offensive crew compliment to fill its boarding pods, making boarding actions against this leviathan a foolhardy endeavour."
+    "KnownShips": [],
+    "Flavour": "Consistent with the enemy's other super battleships, the Binder is effectively an up-gunned, slower derivative of the Bastion class. Its devastating, mixed armament is a primary threat to any vessel. Like other Bioficer super battleships, it features a greater offensive crew compliment to fill its boarding pods, making boarding actions against this leviathan a foolhardy endeavour."
 }

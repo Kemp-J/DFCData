@@ -1,10 +1,10 @@
 {
-    "class": "Thorium",
-    "type": "Super Battleship",
-    "points": 305,
-    "tonnage": "H",
-    "base_size": 50,
-    "profile": {
+    "Class": "Thorium",
+    "Type": "Super Battleship",
+    "Points": 305,
+    "Tonnage": "H",
+    "BaseSize": 50,
+    "Profile": {
         "Thrust": 8,
         "Scan": 12,
         "Sig": 8,
@@ -17,7 +17,7 @@
             "Shield-4+"
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Obliterator Cannon",
             "Arc": "F",
@@ -55,7 +55,7 @@
             ]
         }
     ],
-    "load": [
+    "Load": [
         {
             "Load": "Bulk Landers",
             "Launch": 2,
@@ -67,10 +67,10 @@
             "Special": []
         }
     ],
-    "known_ships": [
+    "KnownShips": [
         "Void Chariot",
         "Blade of Anubis",
         "Dark Scarab"
     ],
-    "flavour": "Perhaps the most flexible of the Shaltari's dreaded super battleships, the Thorium offers Starchiefs an array of lethal firepower. Its prow-mounted Obliterator Cannon does as its name suggests, while broadside Electorsuge Projectors wreak havoc with any foe's ability to fight. A substantial launch compliment augments this leviathan's powers while swarms of rare Shaltari bulk landers allows surface incursions without support from voidgates."
+    "Flavour": "Perhaps the most flexible of the Shaltari's dreaded super battleships, the Thorium offers Starchiefs an array of lethal firepower. Its prow-mounted Obliterator Cannon does as its name suggests, while broadside Electorsuge Projectors wreak havoc with any foe's ability to fight. A substantial launch compliment augments this leviathan's powers while swarms of rare Shaltari bulk landers allows surface incursions without support from voidgates."
 }

@@ -1,12 +1,12 @@
 {
-    "fleet": "UCM",
-    "class": "New York",
-    "type": "Battleship",
-    "rule_name": "Counts As",
-    "rule_text": "This ship counts as a New York Battleship.",
-    "known_ships": [],
-    "flavour": "",
-    "counts_as_class": "New York",
-    "counts_as_type": "Battleship",
-    "availability": "RESIN"
+    "Fleet": "UCM",
+    "Class": "New York",
+    "Type": "Battleship",
+    "RuleName": "Counts As",
+    "RuleText": "This ship counts as a New York Battleship.",
+    "KnownShips": [],
+    "Flavour": "",
+    "CountsAsClass": "New York",
+    "CountsAsType": "Battleship",
+    "Availability": "RESIN"
 }

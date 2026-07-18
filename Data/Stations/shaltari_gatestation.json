@@ -1,10 +1,10 @@
 {
-    "fleet": "Shaltari",
-    "name": "Gatestation",
-    "size": "Small",
-    "points": 75,
-    "base_size": 30,
-    "profile": {
+    "Fleet": "Shaltari",
+    "Name": "Gatestation",
+    "Size": "Small",
+    "Points": 75,
+    "BaseSize": 30,
+    "Profile": {
         "Scan": 4,
         "Sig": 6,
         "Hull": 10,
@@ -17,7 +17,7 @@
             "Shield-4+"
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Charged Aura",
             "Arc": "F/S/R",
@@ -30,14 +30,14 @@
             ]
         }
     ],
-    "load": [
+    "Load": [
         {
             "Load": "Dropships",
             "Launch": 2,
             "Special": []
         }
     ],
-    "rules": [
+    "Rules": [
         {
             "Name": "Gate Node",
             "Text": "This Gatestation's Dropships may only be used while you control it."

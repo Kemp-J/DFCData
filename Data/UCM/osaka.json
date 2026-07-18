@@ -1,10 +1,10 @@
 {
-    "class": "Osaka",
-    "type": "Light Cruiser",
-    "points": 70,
-    "tonnage": "M",
-    "base_size": 40,
-    "profile": {
+    "Class": "Osaka",
+    "Type": "Light Cruiser",
+    "Points": 70,
+    "Tonnage": "M",
+    "BaseSize": 40,
+    "Profile": {
         "Thrust": 10,
         "Scan": 6,
         "Sig": 6,
@@ -15,7 +15,7 @@
         "G": "2-3",
         "Special": []
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "UF-6400 Mass Driver Turrets",
             "Arc": "F/S",
@@ -28,12 +28,12 @@
             ]
         }
     ],
-    "load": [],
-    "known_ships": [
+    "Load": [],
+    "KnownShips": [
         "Paladin",
         "Dire Wolf",
         "Belfast II",
         "Wakizashi"
     ],
-    "flavour": "The Osaka class is the standard light cruiser of the UCMF, designed for aggressive strike operations and flanking raids. In combat involving advanced manoeuvres, the class can deliver a mass driver firepower equivalent of the heavier Rio class while offering superior speed and cost effectiveness. However, the Osaka cannot match it in more stable situations where the Rio's full firepower can be unleashed. As such, Admirals are instructed to exploit this class' strength while acknowledging its weaknesses, including its limited close action capabilities compared to full cruisers and its lighter hull.\nCaptains graduating from a frigate-level command often prefer light cruisers such as the Osaka as many of the same combat principles apply and the access to high combat speed remains. Indeed, Osakas are normally deployed in squadrons where they can support each other in battle, since by necessity they often operate away from the main fleet."
+    "Flavour": "The Osaka class is the standard light cruiser of the UCMF, designed for aggressive strike operations and flanking raids. In combat involving advanced manoeuvres, the class can deliver a mass driver firepower equivalent of the heavier Rio class while offering superior speed and cost effectiveness. However, the Osaka cannot match it in more stable situations where the Rio's full firepower can be unleashed. As such, Admirals are instructed to exploit this class' strength while acknowledging its weaknesses, including its limited close action capabilities compared to full cruisers and its lighter hull.\nCaptains graduating from a frigate-level command often prefer light cruisers such as the Osaka as many of the same combat principles apply and the access to high combat speed remains. Indeed, Osakas are normally deployed in squadrons where they can support each other in battle, since by necessity they often operate away from the main fleet."
 }

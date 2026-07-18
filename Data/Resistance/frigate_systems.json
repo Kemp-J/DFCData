@@ -1,10 +1,10 @@
 {
-    "name": "Frigate Systems",
-    "groups": [
+    "Name": "Frigate Systems",
+    "Groups": [
         "Weapons",
         "Structures"
     ],
-    "systems": {
+    "Systems": {
         "Weapons": [
             {
                 "Pts": 5,

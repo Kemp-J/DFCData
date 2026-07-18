@@ -4,12 +4,12 @@
     "title": "DFC Systems List",
     "description": "A named list of systems available for purchase by certain ship classes.",
     "type": "object",
-    "required": ["name", "groups", "systems"],
+    "required": ["Name", "Groups", "Systems"],
     "additionalProperties": false,
     "properties": {
-        "name":    { "type": "string" },
-        "groups":  { "type": "array", "items": { "type": "string" } },
-        "systems": {
+        "Name":    { "type": "string" },
+        "Groups":  { "type": "array", "items": { "type": "string" } },
+        "Systems": {
             "description": "Map of group name to system entries for that group.",
             "type": "object",
             "additionalProperties": {

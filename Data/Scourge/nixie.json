@@ -1,10 +1,10 @@
 {
-    "class": "Nixie",
-    "type": "Supercruiser",
-    "points": 145,
-    "tonnage": "M",
-    "base_size": 50,
-    "profile": {
+    "Class": "Nixie",
+    "Type": "Supercruiser",
+    "Points": 145,
+    "Tonnage": "M",
+    "BaseSize": 50,
+    "Profile": {
         "Thrust": 8,
         "Scan": 6,
         "Sig": 8,
@@ -18,7 +18,7 @@
             "Stealth"
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Oculus Beam Array",
             "Arc": "F",
@@ -31,13 +31,13 @@
             ]
         }
     ],
-    "load": [],
-    "rules": [
+    "Load": [],
+    "Rules": [
         {
             "Name": "Feature Carrier",
             "Text": "At the start of the game, before players deploy, choose one Deployable Feature from the Scourge Deployable Features List. This Ship starts the game carrying that Deployable Feature."
         }
     ],
-    "known_ships": [],
-    "flavour": ""
+    "KnownShips": [],
+    "Flavour": ""
 }

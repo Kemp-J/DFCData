@@ -1,10 +1,10 @@
 {
-    "class": "Mantle",
-    "type": "Monitor",
-    "points": 65,
-    "tonnage": "L",
-    "base_size": 30,
-    "profile": {
+    "Class": "Mantle",
+    "Type": "Monitor",
+    "Points": 65,
+    "Tonnage": "L",
+    "BaseSize": 30,
+    "Profile": {
         "Thrust": 6,
         "Scan": 12,
         "Sig": 3,
@@ -18,7 +18,7 @@
             "Rare"
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Gravitic Pulveriser",
             "Profiles": [
@@ -50,7 +50,7 @@
             ]
         }
     ],
-    "load": [],
-    "known_ships": [],
-    "flavour": ""
+    "Load": [],
+    "KnownShips": [],
+    "Flavour": ""
 }

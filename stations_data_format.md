@@ -8,33 +8,33 @@ The station data is exported to a folder named `Stations`.
 
 Within the `Stations` folder is a file `_stations.json` providing an entry point to all station data. It contains:
 
-- "source_version": The version of the stations PDF (taken from the PDF filename). A date formatted as YYMMDD.
-- "features": A list of `{Name, Text}` dictionaries (identical structure to ship rules) representing the Fleet Space Station Features.
-- "generic_stations": A list of filenames for generic Space Station data files.
-- "armaments": The filename of the Space Station Armaments data file.
-- "station_upgrades": A list of filenames for the generic Space Station Upgrade data files, e.g. Astrobotanical Lab and Defence Grid.
-- "fleet_stations": A list of filenames for fleet-specific station data files.
+- "SourceVersion": The version of the stations PDF (taken from the PDF filename). A date formatted as YYMMDD.
+- "Features": A list of `{Name, Text}` dictionaries (identical structure to ship rules) representing the Fleet Space Station Features.
+- "GenericStations": A list of filenames for generic Space Station data files.
+- "Armaments": The filename of the Space Station Armaments data file.
+- "StationUpgrades": A list of filenames for the generic Space Station Upgrade data files, e.g. Astrobotanical Lab and Defence Grid.
+- "FleetStations": A list of filenames for fleet-specific station data files.
 
 Example:
 
 ```json
 {
-    "source_version": "250818",
-    "features": [
+    "SourceVersion": "250818",
+    "Features": [
         {"Name": "Launch Control", "Text": "When all Launch Control features are removed from a Station, that station cannot launch Assets."},
         {"Name": "Weapons Control", "Text": "When all Weapons Control features are removed from a Station, that station cannot use its Weapon Systems."}
     ],
-    "generic_stations": [
+    "GenericStations": [
         "small_space_station.json",
         "medium_space_station.json",
         "large_space_station.json"
     ],
-    "armaments": "space_station_armaments.json",
-    "station_upgrades": [
+    "Armaments": "space_station_armaments.json",
+    "StationUpgrades": [
         "astrobotanical_lab.json",
         "defence_grid.json"
     ],
-    "fleet_stations": [
+    "FleetStations": [
         "ucm_defence_hangar.json",
         "ucm_munitions_platform.json"
     ]
@@ -47,24 +47,24 @@ Each generic station has its own data file in JSON format, named after the stati
 
 The file contains:
 
-- "name": The name of the station.
-- "type": The type of the station.
-- "points": The points cost.
-- "base_size": The base size in mm.
-- "profile": A dictionary containing "Scan" (integer), "Sig" (integer), "Hull" (integer), "ES" (string), "KS" (string), "BS" (string), "G" (string), and "Special" (list of strings).
-- "hardpoints": A dictionary with "armaments" (integer — number of options required from the Space Station Armaments list) and "features" (integer — number of additional Fleet Space Station Features required beyond the base two).
-- "max_upgrades": The maximum number of upgrades (e.g. Astrobotanical Lab or Defence Grid) the station may take.
-- "upgrade_options": A list of upgrade names the station may take. Each name corresponds to the "name" field in a station upgrade data file.
+- "Name": The name of the station.
+- "Type": The type of the station.
+- "Points": The points cost.
+- "BaseSize": The base size in mm.
+- "Profile": A dictionary containing "Scan" (integer), "Sig" (integer), "Hull" (integer), "ES" (string), "KS" (string), "BS" (string), "G" (string), and "Special" (list of strings).
+- "Hardpoints": A dictionary with "Armaments" (integer — number of options required from the Space Station Armaments list) and "Features" (integer — number of additional Fleet Space Station Features required beyond the base two).
+- "MaxUpgrades": The maximum number of upgrades (e.g. Astrobotanical Lab or Defence Grid) the station may take.
+- "UpgradeOptions": A list of upgrade names the station may take. Each name corresponds to the "Name" field in a station upgrade data file.
 
 Example:
 
 ```json
 {
-    "name": "Small Space Station",
-    "type": "Orbital Satellite",
-    "points": 30,
-    "base_size": 30,
-    "profile": {
+    "Name": "Small Space Station",
+    "Type": "Orbital Satellite",
+    "Points": 30,
+    "BaseSize": 30,
+    "Profile": {
         "Scan": 6,
         "Sig": 4,
         "Hull": 10,
@@ -74,12 +74,12 @@ Example:
         "G": "1",
         "Special": []
     },
-    "hardpoints": {
-        "armaments": 1,
-        "features": 0
+    "Hardpoints": {
+        "Armaments": 1,
+        "Features": 0
     },
-    "max_upgrades": 1,
-    "upgrade_options": ["Astrobotanical Lab", "Defence Grid"]
+    "MaxUpgrades": 1,
+    "UpgradeOptions": ["Astrobotanical Lab", "Defence Grid"]
 }
 ```
 
@@ -95,21 +95,21 @@ Each station upgrade (Astrobotanical Lab, Defence Grid) has its own data file in
 
 The file contains:
 
-- "name": The name of the upgrade (e.g. "Astrobotanical Lab"). Must match the name used in "upgrade_options" on generic station files.
-- "type": The type/flavour name shown in the PDF (e.g. "Exo-Greenhouse", "Military Space Station").
-- "cost": The additional points cost.
-- "weapons": A list of weapon entries in the same format as fleet station weapons (see 'Fleet Station Weapon' below). May be empty.
-- "rules": A list of `{Name, Text}` rule dictionaries. May be empty.
+- "Name": The name of the upgrade (e.g. "Astrobotanical Lab"). Must match the name used in "UpgradeOptions" on generic station files.
+- "Type": The type/flavour name shown in the PDF (e.g. "Exo-Greenhouse", "Military Space Station").
+- "Cost": The additional points cost.
+- "Weapons": A list of weapon entries in the same format as fleet station weapons (see 'Fleet Station Weapon' below). May be empty.
+- "Rules": A list of `{Name, Text}` rule dictionaries. May be empty.
 
 Example:
 
 ```json
 {
-    "name": "Astrobotanical Lab",
-    "type": "Exo-Greenhouse",
-    "cost": 30,
-    "weapons": [],
-    "rules": [
+    "Name": "Astrobotanical Lab",
+    "Type": "Exo-Greenhouse",
+    "Cost": 30,
+    "Weapons": [],
+    "Rules": [
         {"Name": "Signature Bloom", "Text": "Friendly Ships within this Space Station's unmodified Signature are Hidden within its Bloom. Enemy Ships targeting a Hidden Ship's Group ignore a Spike for each Hidden Ship in that Group.\nThis rule has no effect while this Space Station is controlled by an enemy player."}
     ]
 }
@@ -121,29 +121,29 @@ Each fleet-specific station has its own data file in JSON format, named after th
 
 The file contains:
 
-- "fleet": The fleet this station belongs to.
-- "name": The full station name (e.g. "UCM Defence Hangar").
-- "size": The size class of the station. One of "Small", "Medium", or "Large".
-- "points": Points cost.
-- "base_size": Base size in mm.
-- "profile": Same format as generic station profiles (Scan, Sig, Hull, ES, KS, BS, G, Special).
-- "weapons": A list of weapon entries. Each entry is either a single-profile weapon or multi-profile weapon, following the same structure as fleet ship weapons (see `fleet_data_format.md` — 'Ship data file'), except:
+- "Fleet": The fleet this station belongs to.
+- "Name": The full station name (e.g. "UCM Defence Hangar").
+- "Size": The size class of the station. One of "Small", "Medium", or "Large".
+- "Points": Points cost.
+- "BaseSize": Base size in mm.
+- "Profile": Same format as generic station profiles (Scan, Sig, Hull, ES, KS, BS, G, Special).
+- "Weapons": A list of weapon entries. Each entry is either a single-profile weapon or multi-profile weapon, following the same structure as fleet ship weapons (see `fleet_data_format.md` — 'Ship data file'), except:
   - The "Arc" field may be "*" in addition to the standard arc values. ("*" is used by the Shaltari Shuriken's Disintegrator Bank weapon due to it not using standard arcs.)
   - The optional "Rule" field on a weapon may be present.
-- "load": A list of load entries in the same format as fleet ship load entries.
-- "rules": An optional list of `{Name, Text}` rule dictionaries. Omitted when empty.
+- "Load": A list of load entries in the same format as fleet ship load entries.
+- "Rules": An optional list of `{Name, Text}` rule dictionaries. Omitted when empty.
 
 Example:
 
 ```json
 {
-    "name": "UCM Defence Hangar",
-    "fleet": "UCM",
-    "size": "Small",
-    "type": "Small Space Station",
-    "points": 50,
-    "base_size": 30,
-    "profile": {
+    "Name": "UCM Defence Hangar",
+    "Fleet": "UCM",
+    "Size": "Small",
+    "Type": "Small Space Station",
+    "Points": 50,
+    "BaseSize": 30,
+    "Profile": {
         "Scan": 6,
         "Sig": 4,
         "Hull": 8,
@@ -153,8 +153,8 @@ Example:
         "G": "1",
         "Special": []
     },
-    "weapons": [],
-    "load": [
+    "Weapons": [],
+    "Load": [
         {"Load": "Fighters & Bombers", "Launch": 2, "Special": []}
     ]
 }

@@ -1,10 +1,10 @@
 {
-    "fleet": "Scourge",
-    "name": "Ephyra",
-    "size": "Small",
-    "points": 65,
-    "base_size": 30,
-    "profile": {
+    "Fleet": "Scourge",
+    "Name": "Ephyra",
+    "Size": "Small",
+    "Points": 65,
+    "BaseSize": 30,
+    "Profile": {
         "Scan": 6,
         "Sig": 4,
         "Hull": 8,
@@ -14,7 +14,7 @@
         "G": "1",
         "Special": []
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Oculus Ward",
             "Arc": "F/S/R",
@@ -28,5 +28,5 @@
             ]
         }
     ],
-    "load": []
+    "Load": []
 }

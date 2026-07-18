@@ -1,10 +1,10 @@
 {
-    "class": "Emerald",
-    "type": "Mothership",
-    "points": 115,
-    "tonnage": "M",
-    "base_size": 40,
-    "profile": {
+    "Class": "Emerald",
+    "Type": "Mothership",
+    "Points": 115,
+    "Tonnage": "M",
+    "BaseSize": 40,
+    "Profile": {
         "Thrust": 10,
         "Scan": 12,
         "Sig": 6,
@@ -18,7 +18,7 @@
             "Shield-5+"
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Disruptor Pair",
             "Arc": "FN",
@@ -29,18 +29,18 @@
             "Special": []
         }
     ],
-    "load": [
+    "Load": [
         {
             "Load": "Dropships",
             "Launch": 4,
             "Special": []
         }
     ],
-    "known_ships": [
+    "KnownShips": [
         "Infinite Dreams",
         "Warhold",
         "Kingdom of Osiris",
         "Erie"
     ],
-    "flavour": "Motherships are a unique to the Shaltari and the Emerald is the most common class. In essence, they resemble the troopships of other races since they are cruiser sized and physically carry hordes of ground forces. This is where the similarity ends, as motherships use teleportation technology to route these forces to the surface via Voidgates and thus do not employ crude bulk landers. Voidgates are small ships that fulfil the role of strike carriers, operating in atmosphere some distance from the mothership. They do not carry troops physically but act as a fulcrum for teleportation. The Mothership is the primary source of power for this whole system but does not need to be positioned over the dropzone, keeping it further from harm.\nUnlike troopships, motherships also carry a dropship equivalent (know as Gates) – small craft that are the final step in the chain before troops enter the battlefield itself. These materialise from the voidgates, fly to the dropzone and then ground units materialise from them. This complex system ensures that troops are never at risk in transit, preserving precious lives from defence battery fire."
+    "Flavour": "Motherships are a unique to the Shaltari and the Emerald is the most common class. In essence, they resemble the troopships of other races since they are cruiser sized and physically carry hordes of ground forces. This is where the similarity ends, as motherships use teleportation technology to route these forces to the surface via Voidgates and thus do not employ crude bulk landers. Voidgates are small ships that fulfil the role of strike carriers, operating in atmosphere some distance from the mothership. They do not carry troops physically but act as a fulcrum for teleportation. The Mothership is the primary source of power for this whole system but does not need to be positioned over the dropzone, keeping it further from harm.\nUnlike troopships, motherships also carry a dropship equivalent (know as Gates) – small craft that are the final step in the chain before troops enter the battlefield itself. These materialise from the voidgates, fly to the dropzone and then ground units materialise from them. This complex system ensures that troops are never at risk in transit, preserving precious lives from defence battery fire."
 }

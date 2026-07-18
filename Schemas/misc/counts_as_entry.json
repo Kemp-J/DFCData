@@ -5,57 +5,57 @@
     "description": "Data file for a ship class that counts as an existing class from one of the fleet PDFs.",
     "type": "object",
     "required": [
-        "fleet",
-        "class",
-        "type",
-        "rule_name",
-        "rule_text",
-        "known_ships",
-        "flavour",
-        "counts_as_class",
-        "counts_as_type",
-        "availability"
+        "Fleet",
+        "Class",
+        "Type",
+        "RuleName",
+        "RuleText",
+        "KnownShips",
+        "Flavour",
+        "CountsAsClass",
+        "CountsAsType",
+        "Availability"
     ],
     "additionalProperties": false,
     "properties": {
-        "fleet": {
+        "Fleet": {
             "description": "Fleet the counts-as class belongs to.",
             "type": "string"
         },
-        "class": {
+        "Class": {
             "description": "Name of this ship class.",
             "type": "string"
         },
-        "type": {
+        "Type": {
             "description": "Ship type (e.g. 'Light Cruiser'). Typically matches counts_as_type in practice.",
             "type": "string"
         },
-        "rule_name": {
+        "RuleName": {
             "description": "Rule heading (e.g. 'Counts As', 'Kalium KNC-5', 'Remnant').",
             "type": "string"
         },
-        "rule_text": {
+        "RuleText": {
             "description": "Full 'counts as' sentence from the PDF.",
             "type": "string"
         },
-        "known_ships": {
+        "KnownShips": {
             "description": "Named individual ships of this class. Often empty.",
             "type": "array",
             "items": { "type": "string" }
         },
-        "flavour": {
+        "Flavour": {
             "description": "Flavour text. Often empty. Paragraph breaks encoded as \\n.",
             "type": "string"
         },
-        "counts_as_class": {
+        "CountsAsClass": {
             "description": "Class name this ship counts as, resolved from fleet data.",
             "type": "string"
         },
-        "counts_as_type": {
+        "CountsAsType": {
             "description": "Ship type of the counts-as class, taken from fleet data.",
             "type": "string"
         },
-        "availability": {
+        "Availability": {
             "description": "How the model is obtained.",
             "type": "string",
             "enum": ["RESIN", "EXCLUSIVE"]

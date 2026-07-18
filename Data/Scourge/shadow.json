@@ -1,10 +1,10 @@
 {
-    "class": "Shadow",
-    "type": "Battlecruiser",
-    "points": 230,
-    "tonnage": "H",
-    "base_size": 50,
-    "profile": {
+    "Class": "Shadow",
+    "Type": "Battlecruiser",
+    "Points": 230,
+    "Tonnage": "H",
+    "BaseSize": 50,
+    "Profile": {
         "Thrust": 10,
         "Scan": 6,
         "Sig": 8,
@@ -17,7 +17,7 @@
             "Vanguard-6\""
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Oculus Beam Array",
             "Arc": "F",
@@ -57,18 +57,18 @@
             ]
         }
     ],
-    "load": [
+    "Load": [
         {
             "Load": "Fighters & Bombers",
             "Launch": 4,
             "Special": []
         }
     ],
-    "known_ships": [
+    "KnownShips": [
         "Last Rites",
         "Thunderhead",
         "Lasher",
         "Irwin's Nemesis"
     ],
-    "flavour": "The Shadow is one of the Scourge's most dangerous close action killers, and that's saying something. Unlike its subtle cousin the Banshee, the Shadow has no cloaking technology due to the conspicuous energy signature of its main weapon: the Magnetron Lash. This horror discharges wild, sustained arcs of highly energetic particles which latch on to areas of high density. Heavy armour is especially prone to attracting and holding an arc. Once latched on, the temperature at the impact site nears that of a main sequence star. The hole it makes in the target is small, but antimatter bomblets are then passed down the beam into the target, which annihilate with the hull.\nWith no cloak and primarily close-action weapons, Shadows normally approach on silent running, revealing themselves to a large, heavy target at the last moment. Once its weapons are blazing, a swift kill usually follows - fortunate since the class cannot fight and manoeuvre without attracting vengeful return fire."
+    "Flavour": "The Shadow is one of the Scourge's most dangerous close action killers, and that's saying something. Unlike its subtle cousin the Banshee, the Shadow has no cloaking technology due to the conspicuous energy signature of its main weapon: the Magnetron Lash. This horror discharges wild, sustained arcs of highly energetic particles which latch on to areas of high density. Heavy armour is especially prone to attracting and holding an arc. Once latched on, the temperature at the impact site nears that of a main sequence star. The hole it makes in the target is small, but antimatter bomblets are then passed down the beam into the target, which annihilate with the hull.\nWith no cloak and primarily close-action weapons, Shadows normally approach on silent running, revealing themselves to a large, heavy target at the last moment. Once its weapons are blazing, a swift kill usually follows - fortunate since the class cannot fight and manoeuvre without attracting vengeful return fire."
 }

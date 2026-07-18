@@ -1,12 +1,12 @@
 {
-    "fleet": "Resistance",
-    "class": "Olympus",
-    "type": "Battleship",
-    "rule_name": "Counts As",
-    "rule_text": "This ship counts as a Yi Sun-sin Grand Battleship.",
-    "known_ships": [],
-    "flavour": "",
-    "counts_as_class": "Yi Sun-sin",
-    "counts_as_type": "Grand Battleship",
-    "availability": "RESIN"
+    "Fleet": "Resistance",
+    "Class": "Olympus",
+    "Type": "Battleship",
+    "RuleName": "Counts As",
+    "RuleText": "This ship counts as a Yi Sun-sin Grand Battleship.",
+    "KnownShips": [],
+    "Flavour": "",
+    "CountsAsClass": "Yi Sun-sin",
+    "CountsAsType": "Grand Battleship",
+    "Availability": "RESIN"
 }

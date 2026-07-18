@@ -1,10 +1,10 @@
 {
-    "class": "Iron",
-    "type": "Supercarrier",
-    "points": 275,
-    "tonnage": "H",
-    "base_size": 50,
-    "profile": {
+    "Class": "Iron",
+    "Type": "Supercarrier",
+    "Points": 275,
+    "Tonnage": "H",
+    "BaseSize": 50,
+    "Profile": {
         "Thrust": 8,
         "Scan": 12,
         "Sig": 8,
@@ -17,7 +17,7 @@
             "Shield-4+"
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Harpoon Deluge",
             "Arc": "F/S/R",
@@ -30,7 +30,7 @@
             ]
         }
     ],
-    "load": [
+    "Load": [
         {
             "Load": "Torpedo",
             "Launch": 2,
@@ -49,13 +49,13 @@
             "Special": []
         }
     ],
-    "rules": [
+    "Rules": [
         {
             "Name": "Drive Augmentation",
             "Text": "This Ship may take a Drive Augmentation for +35 points, increasing its Thrust by 3\"."
         }
     ],
-    "upgrades": [
+    "Upgrades": [
         {
             "Name": "Drive Augmentation",
             "Cost": 35,
@@ -68,10 +68,10 @@
             ]
         }
     ],
-    "known_ships": [
+    "KnownShips": [
         "Inspiration",
         "Forgeheart",
         "Dreadcloud"
     ],
-    "flavour": "The Iron class supercarrier is a formidable vessel designed for lone surface incursions. While its conventional armament is minimal, its cavernous hold contains swarms of fighters, bombers, and rare Shaltari launch assets. Bulk landers give the aliens an atypical deployment method requiring no support vessels while advanced torpedoes obliterate any responders."
+    "Flavour": "The Iron class supercarrier is a formidable vessel designed for lone surface incursions. While its conventional armament is minimal, its cavernous hold contains swarms of fighters, bombers, and rare Shaltari launch assets. Bulk landers give the aliens an atypical deployment method requiring no support vessels while advanced torpedoes obliterate any responders."
 }

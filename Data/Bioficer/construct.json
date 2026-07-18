@@ -1,10 +1,10 @@
 {
-    "class": "Construct",
-    "type": "Cruiser",
-    "points": 96,
-    "tonnage": "M",
-    "base_size": 40,
-    "profile": {
+    "Class": "Construct",
+    "Type": "Cruiser",
+    "Points": 96,
+    "Tonnage": "M",
+    "BaseSize": 40,
+    "Profile": {
         "Thrust": 8,
         "Scan": 10,
         "Sig": 3,
@@ -17,7 +17,7 @@
             "Porter S-1"
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Scythes",
             "Arc": "FN",
@@ -43,7 +43,7 @@
             ]
         }
     ],
-    "load": [],
-    "known_ships": [],
-    "flavour": ""
+    "Load": [],
+    "KnownShips": [],
+    "Flavour": ""
 }

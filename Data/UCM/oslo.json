@@ -1,10 +1,10 @@
 {
-    "class": "Oslo",
-    "type": "Cutter",
-    "points": 57,
-    "tonnage": "L",
-    "base_size": 30,
-    "profile": {
+    "Class": "Oslo",
+    "Type": "Cutter",
+    "Points": 57,
+    "Tonnage": "L",
+    "BaseSize": 30,
+    "Profile": {
         "Thrust": 14,
         "Scan": 6,
         "Sig": 3,
@@ -17,7 +17,7 @@
             "Vectored"
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Adder Multi Laser",
             "Arc": "FN",
@@ -30,7 +30,7 @@
             ]
         }
     ],
-    "load": [],
-    "known_ships": [],
-    "flavour": ""
+    "Load": [],
+    "KnownShips": [],
+    "Flavour": ""
 }

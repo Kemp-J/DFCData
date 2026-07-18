@@ -1,6 +1,6 @@
 {
-    "source_version": "260701",
-    "ship_rules": [
+    "SourceVersion": "260701",
+    "ShipRules": [
         {
             "Name": "Civilian Transport",
             "Text": "This Ship can only choose the General Quarters order.\nThis Ship cannot be attacked unless it is controlled by a player. Players cannot attack a friendly Civilian Transport.\nThis Ship cannot be the target of Abilities."
@@ -18,7 +18,7 @@
             "Text": "At the start of each round, this Ship gains 3 Elite Fighter Tokens. Before rolling Kinetic or Energy saves against Close Action and Bomber (of any type) attacks for this ship, you may declare the use of any number of Elite Fighter Tokens.\nEach token used causes this Ship to automatically succeed your choice of 2 of those Energy or Kinetic saves without rolling those dice."
         }
     ],
-    "ships": [
+    "Ships": [
         "hyperyacht_somniferum.json",
         "ltype_barge.json",
         "lks_dredger.json",

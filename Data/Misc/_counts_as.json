@@ -1,6 +1,6 @@
 {
-    "source_version": "250822",
-    "ships": [
+    "SourceVersion": "250822",
+    "Ships": [
         "athens.json",
         "saratoga.json",
         "new_rio.json",

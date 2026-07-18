@@ -1,10 +1,10 @@
 {
-    "class": "Gold",
-    "type": "Supercarrier",
-    "points": 285,
-    "tonnage": "H",
-    "base_size": 50,
-    "profile": {
+    "Class": "Gold",
+    "Type": "Supercarrier",
+    "Points": 285,
+    "Tonnage": "H",
+    "BaseSize": 50,
+    "Profile": {
         "Thrust": 8,
         "Scan": 12,
         "Sig": 8,
@@ -17,7 +17,7 @@
             "Shield-4+"
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Ion Cannonade",
             "Arc": "F",
@@ -43,7 +43,7 @@
             ]
         }
     ],
-    "load": [
+    "Load": [
         {
             "Load": "Bulk Landers",
             "Launch": 2,
@@ -55,13 +55,13 @@
             "Special": []
         }
     ],
-    "rules": [
+    "Rules": [
         {
             "Name": "Drive Augmentation",
             "Text": "This Ship may take a Drive Augmentation for +35 points, increasing its Thrust by 3\"."
         }
     ],
-    "upgrades": [
+    "Upgrades": [
         {
             "Name": "Drive Augmentation",
             "Cost": 35,
@@ -74,11 +74,11 @@
             ]
         }
     ],
-    "known_ships": [
+    "KnownShips": [
         "Golden Chariot",
         "Orb of the Sun",
         "Ark Resplendent",
         "Ra's Gaze"
     ],
-    "flavour": "Like the Bronze and Silver class battleships, the Gold class supercarrier is a relatively new and scarce sighting. Since none of these classes were recorded before 2672, it is assumed they are newly laid down, but with the Shaltari, things are seldom as they seem.\nUnlike the familiar Platinum class, the Gold is a far more aggressive vessel, since it mounts the powerful, close-action microwave arrays of its sister classes. Also armed with the Ion Cannonade, the Gold is a terror to almost any vessel, and that's before its swarms of formidable Shaltari bombers strike. Certainly, the Gold is one the Shaltari's premier assets and a worthy chariot for the mightiest of attack-oriented Starchiefs."
+    "Flavour": "Like the Bronze and Silver class battleships, the Gold class supercarrier is a relatively new and scarce sighting. Since none of these classes were recorded before 2672, it is assumed they are newly laid down, but with the Shaltari, things are seldom as they seem.\nUnlike the familiar Platinum class, the Gold is a far more aggressive vessel, since it mounts the powerful, close-action microwave arrays of its sister classes. Also armed with the Ion Cannonade, the Gold is a terror to almost any vessel, and that's before its swarms of formidable Shaltari bombers strike. Certainly, the Gold is one the Shaltari's premier assets and a worthy chariot for the mightiest of attack-oriented Starchiefs."
 }

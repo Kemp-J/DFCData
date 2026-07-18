@@ -1,10 +1,10 @@
 {
-    "class": "Pegasus",
-    "type": "Nano-Hive Cutter",
-    "points": 58,
-    "tonnage": "L",
-    "base_size": 30,
-    "profile": {
+    "Class": "Pegasus",
+    "Type": "Nano-Hive Cutter",
+    "Points": 58,
+    "Tonnage": "L",
+    "BaseSize": 30,
+    "Profile": {
         "Thrust": 14,
         "Scan": 6,
         "Sig": 3,
@@ -17,7 +17,7 @@
             "Regenerate-4"
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Nano Drones",
             "Arc": "F/S",
@@ -30,12 +30,12 @@
             ]
         }
     ],
-    "load": [],
-    "known_ships": [
+    "Load": [],
+    "KnownShips": [
         "Pegasus",
         "Righteous Blade",
         "Huntress",
         "Mercury"
     ],
-    "flavour": "The Pegasus is unusual for a Republic vessel in that it offers extreme speed and can only strike at close range. It makes its kills though deploying swarms of armed nano-drones, quick and tiny enough to be difficult for point defences to counter. The unmanned drones have a very limited envelope though, making this behave like a conventional close action weapon rather than a carrier.\nOn paper this highly aggressive combatant suits the PHR's most hot-headed captains, but the vessel's support role requires anything but.\nMore than almost any other Republic vessel, the Pegasus is infamous for operating far from any friendly ships to prey on outliers and merchantmen, especially in the days before the Triumvirate. The vessel is apt for long deployments far from repair facilities since its drones can also regenerate the Pegasus' sleek hull.\nA careful, patient captain can use its great speed to make choice kills then lie in wait while their ship regains full potency."
+    "Flavour": "The Pegasus is unusual for a Republic vessel in that it offers extreme speed and can only strike at close range. It makes its kills though deploying swarms of armed nano-drones, quick and tiny enough to be difficult for point defences to counter. The unmanned drones have a very limited envelope though, making this behave like a conventional close action weapon rather than a carrier.\nOn paper this highly aggressive combatant suits the PHR's most hot-headed captains, but the vessel's support role requires anything but.\nMore than almost any other Republic vessel, the Pegasus is infamous for operating far from any friendly ships to prey on outliers and merchantmen, especially in the days before the Triumvirate. The vessel is apt for long deployments far from repair facilities since its drones can also regenerate the Pegasus' sleek hull.\nA careful, patient captain can use its great speed to make choice kills then lie in wait while their ship regains full potency."
 }

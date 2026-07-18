@@ -4,31 +4,31 @@
     "title": "DFC System Data Index",
     "description": "The _system.json index file for the system (core rules) data.",
     "type": "object",
-    "required": ["source_version", "game_sizes", "admirals", "secondary_objectives", "ship_rules", "weapon_rules"],
+    "required": ["SourceVersion", "GameSizes", "Admirals", "SecondaryObjectives", "ShipRules", "WeaponRules"],
     "additionalProperties": false,
     "properties": {
-        "source_version": {
+        "SourceVersion": {
             "description": "Version of the core rules PDF (X.Y.Z).",
             "type": "string",
             "pattern": "^\\d+\\.\\d+\\.\\d+$"
         },
-        "game_sizes": {
+        "GameSizes": {
             "description": "Filename of the game sizes data file.",
             "type": "string"
         },
-        "admirals": {
+        "Admirals": {
             "description": "Filename of the admirals data file.",
             "type": "string"
         },
-        "secondary_objectives": {
+        "SecondaryObjectives": {
             "description": "Filename of the secondary objectives data file.",
             "type": "string"
         },
-        "ship_rules": {
+        "ShipRules": {
             "description": "Filename of the ship special rules data file.",
             "type": "string"
         },
-        "weapon_rules": {
+        "WeaponRules": {
             "description": "Filename of the weapon special rules data file.",
             "type": "string"
         }

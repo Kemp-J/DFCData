@@ -1,6 +1,6 @@
 {
-    "source_version": "260529",
-    "abilities": [
+    "SourceVersion": "260529",
+    "Abilities": [
         {
             "Cost": "1AP",
             "Name": "Good Fight, We Should Do It More Often",
@@ -32,7 +32,7 @@
             "Effect": "During this round's Cleanup step of the End Phase, all players retain any unspent AP from this round into the next round. In the next round, only players that have used this Ability this round can generate AP from Admirals in the Planning Phase."
         }
     ],
-    "fleet_admirals": [
+    "FleetAdmirals": [
         {
             "Name": "Bioficer Ardent",
             "Level": 1,
@@ -65,7 +65,7 @@
             ]
         }
     ],
-    "launch_assets": [
+    "LaunchAssets": [
         {
             "Load": "Torpedo",
             "Thrust": 12,
@@ -102,24 +102,24 @@
             "Rerolls": 1
         }
     ],
-    "systems": [
+    "Systems": [
         "dreadnought_systems.json"
     ],
-    "deployable_features": [
+    "DeployableFeatures": [
         "genitor_tower.json",
         "gravitational_arc.json",
         "ghost_orb_tower.json"
     ],
-    "famous_admirals": [
+    "FamousAdmirals": [
         "atlas.json",
         "atom.json",
         "agency.json",
         "ascendant.json"
     ],
-    "heroes": [
+    "Heroes": [
         "anode.json"
     ],
-    "ships": [
+    "Ships": [
         "invasion_cell.json",
         "lander_cell.json",
         "torpedo_cell.json",

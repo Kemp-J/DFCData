@@ -1,10 +1,10 @@
 {
-    "class": "Raum",
-    "type": "Battleship",
-    "points": 250,
-    "tonnage": "H",
-    "base_size": 50,
-    "profile": {
+    "Class": "Raum",
+    "Type": "Battleship",
+    "Points": 250,
+    "Tonnage": "H",
+    "BaseSize": 50,
+    "Profile": {
         "Thrust": 8,
         "Scan": 8,
         "Sig": 10,
@@ -19,7 +19,7 @@
             "Stealth"
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Heavy Plasma Beam",
             "Arc": "F",
@@ -56,18 +56,18 @@
             ]
         }
     ],
-    "load": [
+    "Load": [
         {
             "Load": "Fighters & Bombers",
             "Launch": 5,
             "Special": []
         }
     ],
-    "known_ships": [
+    "KnownShips": [
         "Deathcrow",
         "The Raven",
         "Killian's Shadow",
         "Tokyo's Undoing"
     ],
-    "flavour": "The Raum was the first Scourge battleship sighted with new capabilities, utilising their latest superstructure design. Entirely different from the ancient leviathans the UCMF were accustomed to facing, these ships are apparently brand new—a major concern. The Raum mounts the newly encountered heavy plasma beam in addition to oculus arrays and substantial launch capacity, making it especially deadly at close quarters. Coupled with its stealthy capabilities, this new threat is already dreaded."
+    "Flavour": "The Raum was the first Scourge battleship sighted with new capabilities, utilising their latest superstructure design. Entirely different from the ancient leviathans the UCMF were accustomed to facing, these ships are apparently brand new—a major concern. The Raum mounts the newly encountered heavy plasma beam in addition to oculus arrays and substantial launch capacity, making it especially deadly at close quarters. Coupled with its stealthy capabilities, this new threat is already dreaded."
 }

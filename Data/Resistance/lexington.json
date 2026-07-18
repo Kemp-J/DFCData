@@ -1,10 +1,10 @@
 {
-    "class": "Lexington",
-    "type": "Old Battleship",
-    "points": 190,
-    "tonnage": "H",
-    "base_size": 50,
-    "profile": {
+    "Class": "Lexington",
+    "Type": "Old Battleship",
+    "Points": 190,
+    "Tonnage": "H",
+    "BaseSize": 50,
+    "Profile": {
         "Thrust": 7,
         "Scan": 6,
         "Sig": 8,
@@ -15,7 +15,7 @@
         "G": "1",
         "Special": []
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "NC-16 Missile Battery Turret Pair",
             "Arc": "F/S/R",
@@ -28,7 +28,7 @@
             ]
         }
     ],
-    "load": [
+    "Load": [
         {
             "Load": "Fighters & Bombers",
             "Launch": 4,
@@ -42,11 +42,11 @@
             ]
         }
     ],
-    "known_ships": [
+    "KnownShips": [
         "Yorktown",
         "Missouri (Independents)",
         "Black Prince",
         "Scharnhorst (Kalium)"
     ],
-    "flavour": "Like other Old Battleships, the Lexington could rightly belong in a museum, although it's still a formidable warship today. Many survived the Scourge invasion since they were mostly relegated to frontier picket duty, being outmoded even then. In the hard centuries that followed, the Lexington has proven its worth countless times, offering a reliable loadout of NC-16 missiles, a single ventral torpedo, and a fair-sized strike craft hangar. The negligible power drain of all of these gives the class excellent toughness, endurance, and utility for its age."
+    "Flavour": "Like other Old Battleships, the Lexington could rightly belong in a museum, although it's still a formidable warship today. Many survived the Scourge invasion since they were mostly relegated to frontier picket duty, being outmoded even then. In the hard centuries that followed, the Lexington has proven its worth countless times, offering a reliable loadout of NC-16 missiles, a single ventral torpedo, and a fair-sized strike craft hangar. The negligible power drain of all of these gives the class excellent toughness, endurance, and utility for its age."
 }

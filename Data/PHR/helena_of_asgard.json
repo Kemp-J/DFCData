@@ -1,14 +1,14 @@
 {
-    "admiral": "Helena of Asgard",
-    "admiral_level": 2,
-    "class": "Pompeius",
-    "type": "Battlecruiser",
-    "admiral_points": 60,
-    "ship_points": 140,
-    "points": 200,
-    "tonnage": "H",
-    "base_size": 50,
-    "profile": {
+    "Admiral": "Helena of Asgard",
+    "AdmiralLevel": 2,
+    "Class": "Pompeius",
+    "Type": "Battlecruiser",
+    "AdmiralPoints": 60,
+    "ShipPoints": 140,
+    "Points": 200,
+    "Tonnage": "H",
+    "BaseSize": 50,
+    "Profile": {
         "Thrust": 10,
         "Scan": 8,
         "Sig": 6,
@@ -21,7 +21,7 @@
             "Vanguard-4\""
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Heavy Quad Battery",
             "Profiles": [
@@ -54,20 +54,20 @@
             ]
         }
     ],
-    "load": [],
-    "rules": [
+    "Load": [],
+    "Rules": [
         {
             "Name": "Cull the Weak",
             "Text": "Heavy Quad Battery (Flak) may only be used to attack Ships of L Tonnage."
         }
     ],
-    "fleet_admiral_abilities": 1,
-    "admiral_abilities": [
+    "FleetAdmiralAbilities": 1,
+    "AdmiralAbilities": [
         {
             "Cost": "2AP",
             "Name": "Experimental Munitions",
             "Effect": "When you assign targets to weapons, select one of those weapons with the Calibre-X special rule. That weapon gains the benefits of its Calibre-X special rule regardless of the Tonnage of the target Group for that attack."
         }
     ],
-    "flavour": "Helena of Asgard is one of the most aggressive ranking officers active in the Asgard System. Part of the force tasked with destroying as many UCM Strike Carriers as possible. Retreating groups learned to steer clear of her flagship's Heavy Quad Battery lest the entire group be obliterated.\nWhile the UCM believe Helena is part of the external PHR forces, the truth is that Helena is an Asgard native. During the PHR's initial dealings with the resistance forces on Asgard Prime a young Helena started a rapport with PHR naval personnel, listening to tales of sights she would never see staying put on her home planet. Resolved to go with the returning PHR forces she sneaked aboard an outbound PHR transport. To her new allies, however, her infiltration attempt was painfully obvious.\nAlthough among plenty of other Asgardians that had decided to join their PHR allies, Helena showed great enthusiasm and promise in fleet-based operations. Proving herself again and again, Helena returned to Asgard Prime shortly before the ambush on the UCM fleet."
+    "Flavour": "Helena of Asgard is one of the most aggressive ranking officers active in the Asgard System. Part of the force tasked with destroying as many UCM Strike Carriers as possible. Retreating groups learned to steer clear of her flagship's Heavy Quad Battery lest the entire group be obliterated.\nWhile the UCM believe Helena is part of the external PHR forces, the truth is that Helena is an Asgard native. During the PHR's initial dealings with the resistance forces on Asgard Prime a young Helena started a rapport with PHR naval personnel, listening to tales of sights she would never see staying put on her home planet. Resolved to go with the returning PHR forces she sneaked aboard an outbound PHR transport. To her new allies, however, her infiltration attempt was painfully obvious.\nAlthough among plenty of other Asgardians that had decided to join their PHR allies, Helena showed great enthusiasm and promise in fleet-based operations. Proving herself again and again, Helena returned to Asgard Prime shortly before the ambush on the UCM fleet."
 }

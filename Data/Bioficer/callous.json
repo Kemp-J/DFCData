@@ -1,10 +1,10 @@
 {
-    "class": "Callous",
-    "type": "Cruiser",
-    "points": 80,
-    "tonnage": "M",
-    "base_size": 40,
-    "profile": {
+    "Class": "Callous",
+    "Type": "Cruiser",
+    "Points": 80,
+    "Tonnage": "M",
+    "BaseSize": 40,
+    "Profile": {
         "Thrust": 8,
         "Scan": 8,
         "Sig": 3,
@@ -17,7 +17,7 @@
             "Porter S-1"
         ]
     },
-    "weapons": [
+    "Weapons": [
         {
             "Name": "Ghost Orb",
             "Arc": "F/S",
@@ -40,7 +40,7 @@
             "Special": []
         }
     ],
-    "load": [],
-    "known_ships": [],
-    "flavour": ""
+    "Load": [],
+    "KnownShips": [],
+    "Flavour": ""
 }
