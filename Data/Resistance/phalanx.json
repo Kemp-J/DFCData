@@ -1,7 +1,7 @@
 {
     "Class": "Phalanx",
     "Type": "Battlecruiser",
-    "Points": 165,
+    "Points": 185,
     "Tonnage": "H",
     "BaseSize": 50,
     "Profile": {
@@ -32,14 +32,28 @@
             ]
         },
         {
-            "Name": "N-31 Hybrid Gun Long Battery",
+            "Name": "N-31 Hybrid Gun Half Battery",
             "Arc": "B",
-            "Att": 9,
+            "Att": 3,
             "Lock": "4+",
             "DMG": 1,
             "Type": "K",
             "Special": [
-                "Fusillade-3",
+                "Critical-1",
+                "Fusillade-1",
+                "Volley-2"
+            ]
+        },
+        {
+            "Name": "N-31 Hybrid Gun Full Battery",
+            "Arc": "B",
+            "Att": 6,
+            "Lock": "4+",
+            "DMG": 1,
+            "Type": "K",
+            "Special": [
+                "Critical-1",
+                "Fusillade-2",
                 "Volley-2"
             ]
         }

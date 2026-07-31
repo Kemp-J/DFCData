@@ -1,0 +1,20 @@
+{
+    "Profile": {
+        "PTS": null,
+        "Type": "ICBM Silo",
+        "ES": "5+",
+        "KS": "5+",
+        "Special": []
+    },
+    "Weapons": [],
+    "Load": [
+        {
+            "Load": "Bombardment Torpedo",
+            "Launch": 2,
+            "Special": [
+                "Limited-6"
+            ]
+        }
+    ],
+    "Rules": "Bombardment Torpedoes launched from this Feature can only attack Cities and cannot attack the Dropsite the launching Feature is deployed to.\nBombardment Torpedoes launched from this Feature become damage Type C when used against Cities at least 6\" away from enemy Ships.\nWhen an attacking Group or Asset/s attack would cause this feature to be removed, if it has any remaining Torpedoes, the attacking opponent may remove an additional Feature and any Battalions assigned to it from this Dropsite."
+}

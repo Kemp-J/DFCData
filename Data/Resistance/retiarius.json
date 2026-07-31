@@ -1,0 +1,69 @@
+{
+    "Class": "Retiarius",
+    "Type": "Grand Cruiser",
+    "Points": 134,
+    "Tonnage": "M",
+    "BaseSize": 40,
+    "Profile": {
+        "Thrust": 5,
+        "Scan": 6,
+        "Sig": 6,
+        "Hull": 14,
+        "ES": "3+",
+        "KS": "5+",
+        "BS": "5+",
+        "G": "1",
+        "Special": []
+    },
+    "Weapons": [
+        {
+            "Name": "VX Bomb",
+            "Arc": "F",
+            "Att": 3,
+            "Lock": "4+",
+            "DMG": 2,
+            "Type": "E",
+            "Special": [
+                "Bombardment",
+                "Limited-3"
+            ],
+            "Rule": "This weapon gains the Scald-2 special rule when targeting Cities. If this weapon does damage to a City, remove all Battalions (friendly and enemy) from that City and any Features (including deployed Features) in the same City."
+        },
+        {
+            "Name": "NL-9 Laser Turret",
+            "Arc": "F/S",
+            "Att": 2,
+            "Lock": "3+",
+            "DMG": 2,
+            "Type": "E",
+            "Special": [
+                "Flash-1",
+                "Focused",
+                "Fusillade-1",
+                "Reave-1"
+            ]
+        }
+    ],
+    "Load": [],
+    "Rules": [
+        {
+            "Name": "Drive Refit",
+            "Text": "This Ship may take a Drive Refit for +25 points, increasing its Thrust by 3\"."
+        }
+    ],
+    "Upgrades": [
+        {
+            "Name": "Drive Refit",
+            "Cost": 25,
+            "Effects": [
+                {
+                    "Target": "Thrust",
+                    "Type": "add",
+                    "Value": 3
+                }
+            ]
+        }
+    ],
+    "KnownShips": [],
+    "Flavour": ""
+}

@@ -1,0 +1,71 @@
+{
+    "Class": "Secutor",
+    "Type": "Grand Cruiser",
+    "Points": 142,
+    "Tonnage": "M",
+    "BaseSize": 40,
+    "Profile": {
+        "Thrust": 5,
+        "Scan": 6,
+        "Sig": 6,
+        "Hull": 14,
+        "ES": "3+",
+        "KS": "5+",
+        "BS": "5+",
+        "G": "1",
+        "Special": []
+    },
+    "Weapons": [
+        {
+            "Name": "NC-16 Missile Turret",
+            "Arc": "F/S/R",
+            "Att": 5,
+            "Lock": "3+",
+            "DMG": 1,
+            "Type": "K",
+            "Special": [
+                "Close Action"
+            ]
+        },
+        {
+            "Name": "NC-16 Missile Bank",
+            "Arc": "F/S/R",
+            "Att": 6,
+            "Lock": "3+",
+            "DMG": 1,
+            "Type": "K",
+            "Special": [
+                "Close Action",
+                "Volley-2"
+            ]
+        }
+    ],
+    "Load": [
+        {
+            "Load": "Fighters & Bombers",
+            "Launch": 2,
+            "Special": []
+        }
+    ],
+    "Rules": [
+        {
+            "Name": "Drive Refit",
+            "Text": "This Ship may take a Drive Refit for +25 points, increasing its Thrust by 3\"."
+        }
+    ],
+    "Upgrades": [
+        {
+            "Name": "Drive Refit",
+            "Cost": 25,
+            "Effects": [
+                {
+                    "Target": "Thrust",
+                    "Type": "add",
+                    "Value": 3
+                }
+            ]
+        }
+    ],
+    "KnownShips": [],
+    "Flavour": ""
+}

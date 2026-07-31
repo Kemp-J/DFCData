@@ -1,0 +1,42 @@
+{
+    "Class": "Jutland",
+    "Type": "Supercruiser",
+    "Points": 144,
+    "Tonnage": "M",
+    "BaseSize": 40,
+    "Profile": {
+        "Thrust": 8,
+        "Scan": 6,
+        "Sig": 6,
+        "Hull": 14,
+        "ES": "3+",
+        "KS": "5+",
+        "BS": "5+",
+        "G": "1",
+        "Special": []
+    },
+    "Weapons": [
+        {
+            "Name": "N-31 Hybrid Gun Full Battery",
+            "Arc": "B",
+            "Att": 6,
+            "Lock": "4+",
+            "DMG": 1,
+            "Type": "K",
+            "Special": [
+                "Critical-1",
+                "Fusillade-2",
+                "Volley-2"
+            ]
+        }
+    ],
+    "Load": [],
+    "Rules": [
+        {
+            "Name": "Feature Carrier",
+            "Text": "At the start of the game, before players deploy, choose one Deployable Feature from the Resistance Deployable Features List. This Ship starts the game carrying that Deployable Feature."
+        }
+    ],
+    "KnownShips": [],
+    "Flavour": ""
+}

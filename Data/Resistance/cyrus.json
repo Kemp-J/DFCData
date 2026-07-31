@@ -1,0 +1,55 @@
+{
+    "Class": "Cyrus",
+    "Type": "Battlecruiser",
+    "Points": 185,
+    "Tonnage": "H",
+    "BaseSize": 50,
+    "Profile": {
+        "Thrust": 7,
+        "Scan": 6,
+        "Sig": 6,
+        "Hull": 15,
+        "ES": "3+",
+        "KS": "4+",
+        "BS": "5+",
+        "G": "1",
+        "Special": [
+            "Rare",
+            "Vanguard-3\""
+        ]
+    },
+    "Weapons": [
+        {
+            "Name": "Heavy Vent Cannon Turret",
+            "Arc": "F/S",
+            "Att": 2,
+            "Lock": "3+",
+            "DMG": 2,
+            "Type": "E",
+            "Special": [
+                "Fusillade-1",
+                "Overcharge",
+                "Reave-1"
+            ]
+        }
+    ],
+    "Load": [
+        {
+            "Load": "Bulk Landers & Fire Ships",
+            "Launch": 2,
+            "Special": []
+        }
+    ],
+    "Rules": [
+        {
+            "Name": "Repair Bay",
+            "Text": "Friendly Ships within 6\" of this Ship that roll to repair Crippling Effects during the Repair step of the End Phase repair those effects on a roll of a 2+ instead of a 4+.\nFriendly Ships that end their activation within 6\" of this Ship on the same Orbital Layer recover 2 lost Hull Points."
+        },
+        {
+            "Name": "Box Of Scraps",
+            "Text": "At the end of this ship's activation, pick one friendly ship within 6\" in line of sight (including this one). Place a Box Of Scraps token next to that ship. The next time that ship would be destroyed, it isn't. Instead, before continuing to inflict damage, remove the Box of Scraps token and that ship remains in play with D3 Hull Points remaining, then continue inflicting damage as normal. Box Of Scraps tokens persist through rounds but a ship may only have 1 Box Of Scraps token."
+        }
+    ],
+    "KnownShips": [],
+    "Flavour": ""
+}

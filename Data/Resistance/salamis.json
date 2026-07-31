@@ -1,0 +1,58 @@
+{
+    "Class": "Salamis",
+    "Type": "Battle Carrier",
+    "Points": 200,
+    "Tonnage": "H",
+    "BaseSize": 50,
+    "Profile": {
+        "Thrust": 6,
+        "Scan": 6,
+        "Sig": 6,
+        "Hull": 15,
+        "ES": "3+",
+        "KS": "4+",
+        "BS": "5+",
+        "G": "1",
+        "Special": []
+    },
+    "Weapons": [
+        {
+            "Name": "NC-16 Missile Turret",
+            "Arc": "F/S/R",
+            "Att": 5,
+            "Lock": "3+",
+            "DMG": 1,
+            "Type": "K",
+            "Special": [
+                "Close Action"
+            ]
+        },
+        {
+            "Name": "Heavy Vent Cannons",
+            "Arc": "F",
+            "Att": 4,
+            "Lock": "3+",
+            "DMG": 2,
+            "Type": "E",
+            "Special": [
+                "Fusillade-1",
+                "Reave-1"
+            ]
+        }
+    ],
+    "Load": [
+        {
+            "Load": "Fighters & Bombers",
+            "Launch": 2,
+            "Special": []
+        }
+    ],
+    "Rules": [
+        {
+            "Name": "Feature Carrier",
+            "Text": "At the start of the game, before players deploy, choose two Deployable Features from the Resistance Deployable Features List (duplicates are allowed). This Ship starts the game carrying those Deployable Features."
+        }
+    ],
+    "KnownShips": [],
+    "Flavour": ""
+}

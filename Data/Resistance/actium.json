@@ -1,0 +1,67 @@
+{
+    "Class": "Actium",
+    "Type": "Battle Carrier",
+    "Points": 180,
+    "Tonnage": "H",
+    "BaseSize": 50,
+    "Profile": {
+        "Thrust": 6,
+        "Scan": 6,
+        "Sig": 6,
+        "Hull": 15,
+        "ES": "3+",
+        "KS": "4+",
+        "BS": "5+",
+        "G": "1",
+        "Special": []
+    },
+    "Weapons": [
+        {
+            "Name": "N-11 Artillery Cannon Turret",
+            "Arc": "F/S",
+            "Att": 3,
+            "Lock": "4+",
+            "DMG": 1,
+            "Type": "K",
+            "Special": [
+                "Low Power",
+                "Fusillade-1"
+            ]
+        },
+        {
+            "Name": "N-31 Hybrid Gun Half Battery",
+            "Arc": "B",
+            "Att": 3,
+            "Lock": "4+",
+            "DMG": 1,
+            "Type": "K",
+            "Special": [
+                "Critical-1",
+                "Fusillade-1",
+                "Volley-2"
+            ]
+        },
+        {
+            "Name": "N-31 Hybrid Gun Full Battery",
+            "Arc": "B",
+            "Att": 6,
+            "Lock": "4+",
+            "DMG": 1,
+            "Type": "K",
+            "Special": [
+                "Critical-1",
+                "Fusillade-2",
+                "Volley-2"
+            ]
+        }
+    ],
+    "Load": [],
+    "Rules": [
+        {
+            "Name": "Feature Carrier",
+            "Text": "At the start of the game, before players deploy, choose two Deployable Features from the Resistance Deployable Features List (duplicates are allowed). This Ship starts the game carrying those Deployable Features."
+        }
+    ],
+    "KnownShips": [],
+    "Flavour": ""
+}

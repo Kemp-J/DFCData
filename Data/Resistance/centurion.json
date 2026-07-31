@@ -29,19 +29,25 @@
             ]
         },
         {
-            "Name": "N-31 Hybrid Gun Battery",
+            "Name": "N-31 Hybrid Gun Full Battery",
             "Arc": "B",
-            "Att": 8,
+            "Att": 6,
             "Lock": "4+",
             "DMG": 1,
             "Type": "K",
             "Special": [
+                "Critical-1",
+                "Fusillade-2",
                 "Volley-2"
             ]
         }
     ],
     "Load": [],
     "Rules": [
+        {
+            "Name": "Drive Refit",
+            "Text": "This Ship may take a Drive Refit for +25 points, increasing its Thrust by 3\"."
+        },
         {
             "Name": "Remnant",
             "Text": "This ship may be used in UCM or PHR fleets in addition to Resistance fleets. In UCM and PHR fleets, they gain the Rare special rule."
@@ -65,6 +71,19 @@
                     "Target": "Special",
                     "Type": "append",
                     "Value": "Rare"
+                }
+            ]
+        }
+    ],
+    "Upgrades": [
+        {
+            "Name": "Drive Refit",
+            "Cost": 25,
+            "Effects": [
+                {
+                    "Target": "Thrust",
+                    "Type": "add",
+                    "Value": 3
                 }
             ]
         }

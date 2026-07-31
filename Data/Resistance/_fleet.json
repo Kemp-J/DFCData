@@ -1,5 +1,5 @@
 {
-    "SourceVersion": "260327",
+    "SourceVersion": "260731",
     "Abilities": [
         {
             "Cost": "2AP",
@@ -107,6 +107,17 @@
             "Special": []
         },
         {
+            "Load": "Bombardment Torpedo",
+            "Thrust": 6,
+            "Att": 3,
+            "Lock": "5+",
+            "DMG": 2,
+            "Type": "K",
+            "Special": [
+                "Bombardment"
+            ]
+        },
+        {
             "Load": "Fighters",
             "Thrust": 16,
             "Rerolls": 3
@@ -117,7 +128,11 @@
         "cruiser_systems.json",
         "dreadnought_systems.json"
     ],
-    "DeployableFeatures": [],
+    "DeployableFeatures": [
+        "icbm_silo.json",
+        "ark_lander.json",
+        "scanner_dome.json"
+    ],
     "FamousAdmirals": [
         "typhoon_vasquez.json",
         "hagen.json",
@@ -130,9 +145,6 @@
     "Ships": [
         "munifex.json",
         "seneca.json",
-        "strike_carrier.json",
-        "frigate.json",
-        "heavy_frigate.json",
         "newton.json",
         "galileo.json",
         "sagitarii.json",
@@ -140,15 +152,28 @@
         "armstrong.json",
         "aldrin.json",
         "collins.json",
+        "strike_carrier.json",
+        "frigate.json",
+        "heavy_frigate.json",
         "light_cruiser.json",
         "cruiser.json",
         "heavy_cruiser.json",
         "centurion.json",
         "gladiator.json",
+        "secutor.json",
+        "retiarius.json",
+        "trafalgar.json",
+        "jutland.json",
+        "midway.json",
         "senator.json",
         "triumvir.json",
         "phalanx.json",
         "tribune.json",
+        "xerxes.json",
+        "darius.json",
+        "cyrus.json",
+        "actium.json",
+        "salamis.json",
         "musashi.json",
         "lexington.json",
         "iowa.json",

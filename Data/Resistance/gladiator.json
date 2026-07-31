@@ -43,6 +43,25 @@
         }
     ],
     "Load": [],
+    "Rules": [
+        {
+            "Name": "Drive Refit",
+            "Text": "This Ship may take a Drive Refit for +25 points, increasing its Thrust by 3\"."
+        }
+    ],
+    "Upgrades": [
+        {
+            "Name": "Drive Refit",
+            "Cost": 25,
+            "Effects": [
+                {
+                    "Target": "Thrust",
+                    "Type": "add",
+                    "Value": 3
+                }
+            ]
+        }
+    ],
     "KnownShips": [
         "Atomheart",
         "Fusion Queen (Independents)",

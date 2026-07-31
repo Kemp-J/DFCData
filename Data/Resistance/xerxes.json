@@ -1,0 +1,57 @@
+{
+    "Class": "Xerxes",
+    "Type": "Battlecruiser",
+    "Points": 175,
+    "Tonnage": "H",
+    "BaseSize": 50,
+    "Profile": {
+        "Thrust": 7,
+        "Scan": 12,
+        "Sig": 6,
+        "Hull": 15,
+        "ES": "3+",
+        "KS": "4+",
+        "BS": "5+",
+        "G": "1",
+        "Special": [
+            "Vanguard-3\""
+        ]
+    },
+    "Weapons": [
+        {
+            "Name": "NL-9 Laser Turret Pair",
+            "Arc": "F/S",
+            "Att": 4,
+            "Lock": "3+",
+            "DMG": 2,
+            "Type": "E",
+            "Special": [
+                "Flash-2",
+                "Focused",
+                "Fusillade-2",
+                "Reave-1"
+            ]
+        },
+        {
+            "Name": "Heavy Vent Cannons",
+            "Arc": "F",
+            "Att": 4,
+            "Lock": "3+",
+            "DMG": 2,
+            "Type": "E",
+            "Special": [
+                "Fusillade-1",
+                "Reave-1"
+            ]
+        }
+    ],
+    "Load": [],
+    "Rules": [
+        {
+            "Name": "SWACS",
+            "Text": "Enemy Ships within 12\" of this ship may be targeted by friendly Ships firing Close Action weapons using the firing Ship's normal Weapon Range (Scan + Sig)."
+        }
+    ],
+    "KnownShips": [],
+    "Flavour": ""
+}

@@ -1,0 +1,12 @@
+{
+    "Profile": {
+        "PTS": null,
+        "Type": "Ark Lander",
+        "ES": "4+",
+        "KS": "4+",
+        "Special": []
+    },
+    "Weapons": [],
+    "Load": [],
+    "Rules": "When this feature is deployed to a Dropsite, 4 friendly Battalions are automatically deployed to that Dropsite.\nWhile Activating Dropsites (during 7.5 Activating Dropsites), if you have more Battalions on this feature than any opponent, you count as controlling the Dropsite this Feature is deployed to. If multiple players count as controlling the same Dropsite this way, this effect is ignored."
+}
