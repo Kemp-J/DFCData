@@ -1,5 +1,5 @@
 {
-    "SourceVersion": "260327",
+    "SourceVersion": "260731",
     "Abilities": [
         {
             "Cost": "1AP",
@@ -134,7 +134,9 @@
         "mergen_the_learned.json",
         "quetzalcoatl.json"
     ],
-    "Heroes": [],
+    "Heroes": [
+        "nefertem_of_the_dawn.json"
+    ],
     "Ships": [
         "voidgate.json",
         "glass.json",
