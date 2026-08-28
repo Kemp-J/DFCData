@@ -1,0 +1,59 @@
+{
+    "Hero": "Camilla Felix",
+    "Ship": "Nanomatrix",
+    "Type": "Heavy Cruiser",
+    "Points": 146,
+    "Tonnage": "M",
+    "BaseSize": 40,
+    "Profile": {
+        "Thrust": 9,
+        "Scan": 8,
+        "Sig": 6,
+        "Hull": 13,
+        "ES": "3+",
+        "KS": "4+",
+        "BS": "6+",
+        "G": "1",
+        "Special": [
+            "Hero",
+            "Regenerate-3",
+            "Unique"
+        ]
+    },
+    "Weapons": [
+        {
+            "Name": "Glaive Lance",
+            "Arc": "FN",
+            "Att": 3,
+            "Lock": "2+",
+            "DMG": 2,
+            "Type": "E",
+            "Special": [
+                "Overcharge"
+            ]
+        },
+        {
+            "Name": "Black Nano Drones",
+            "Arc": "F/S/R",
+            "Att": 8,
+            "Lock": "4+",
+            "DMG": 1,
+            "Type": "K",
+            "Special": [
+                "Close Action",
+                "Penetrator"
+            ]
+        }
+    ],
+    "Load": [],
+    "Rules": [
+        {
+            "Name": "Repair Nanomachines",
+            "Text": "Friendly Ships within 6\" of this Ship that roll to repair Crippling Effects during the Repair step of the End Phase improve the results of those rolls by 2. Other friendly Ships that end their activation within 6\" of this Ship on the same Orbital Layer recover 2 lost Hull Points."
+        }
+    ],
+    "KnownShips": [
+        "Nanomatrix"
+    ],
+    "Flavour": "Camilla Felix is the younger sister of renowned war leader and, to some, heretic, Aurellia Felix. Just as charismatic but more hot-headed, which limited her advancement in a Grand Fleet naval career, Camilla is known for her individualism, humanity, and skill in war. When Aurellia declared her intention to schism along with her forces, Camilla was among a flotilla of ardent followers of the White Sphere. Given her sister's actions, an arrest was apparently attempted, but Camilla's crew stood with her, repelled the boarders, and helped her masterfully shoot her way out of newly hostile space in the first widely documented PHR-on-PHR combat.\nShe brought with her the Nanomatrix, an apparently unique vessel of heavy cruiser tonnage. A more advanced design than regular classes, this ship features an additional primary engine, a sleeker hull, and a prow-mounted energy glaive supported by a state-of-the-art power core. The vessel's main feature however is a grossly oversized nanomachine hive, enabling both repair and offensive actions with storms of ultra-advanced nanomachines. The presumably huge cost of all this may have limited this class to one example—budget must trouble the Grand Fleet as it does the UCMF."
+}

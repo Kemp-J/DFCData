@@ -1,5 +1,5 @@
 {
-    "SourceVersion": "260626",
+    "SourceVersion": "260828",
     "Abilities": [
         {
             "Cost": "1AP",
@@ -114,7 +114,8 @@
         "gaius_chau.json"
     ],
     "Heroes": [
-        "avram_bei.json"
+        "avram_bei.json",
+        "camilla_felix.json"
     ],
     "Ships": [
         "echo.json",

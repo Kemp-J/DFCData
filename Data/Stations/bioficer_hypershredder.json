@@ -1,0 +1,41 @@
+{
+    "Fleet": "Bioficer",
+    "Name": "Hypershredder",
+    "Size": "Large",
+    "Points": 220,
+    "BaseSize": 50,
+    "Profile": {
+        "Scan": 12,
+        "Sig": 4,
+        "Hull": 22,
+        "ES": "4+",
+        "KS": "4+",
+        "BS": "6+",
+        "G": "1",
+        "Special": []
+    },
+    "Weapons": [
+        {
+            "Name": "Dimensional Hypershredder",
+            "Arc": "FN",
+            "Att": 12,
+            "Lock": "3+",
+            "DMG": 1,
+            "Type": "*",
+            "Special": [
+                "Bombardment",
+                "Critical-1",
+                "Focused",
+                "Reave-2"
+            ],
+            "Rule": "When you attack with this weapon, choose Energy or Kinetic. This weapon's Type becomes the chosen Type for this attack."
+        }
+    ],
+    "Load": [],
+    "Rules": [
+        {
+            "Name": "Slow Traversal",
+            "Text": "This Space Station uses arcs as if it was a Ship and may only be turned due to this rule. When this Space Station is activated, you may turn it up to 22 degrees in any direction (22 degrees is the size of the FN Arc), even if it is controlled or contested by an opponent."
+        }
+    ]
+}

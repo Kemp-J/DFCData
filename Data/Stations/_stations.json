@@ -1,5 +1,5 @@
 {
-    "SourceVersion": "250818",
+    "SourceVersion": "250828",
     "Features": [
         {
             "Name": "Launch Control",
@@ -34,6 +34,8 @@
         "shaltari_anchor.json",
         "shaltari_shuriken.json",
         "resistance_grand_station.json",
-        "resistance_astrobotanical_outpost.json"
+        "resistance_astrobotanical_outpost.json",
+        "bioficer_hypershredder.json",
+        "bioficer_hypersummoner.json"
     ]
 }

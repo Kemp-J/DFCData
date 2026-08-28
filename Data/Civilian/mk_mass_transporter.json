@@ -1,0 +1,55 @@
+{
+    "Class": "MK Mass Transporter",
+    "Type": "Civilian Hauler",
+    "Points": 41,
+    "Tonnage": "L",
+    "BaseSize": 30,
+    "Profile": {
+        "Thrust": 10,
+        "Scan": 4,
+        "Sig": 4,
+        "Hull": 5,
+        "ES": "5+",
+        "KS": "6+",
+        "BS": "N/A",
+        "G": "1-2",
+        "Special": [
+            "Boardable",
+            "Descent",
+            "Rare"
+        ]
+    },
+    "Weapons": [
+        {
+            "Name": "Deterrence Missiles",
+            "Arc": "F/S",
+            "Att": 4,
+            "Lock": "3+",
+            "DMG": 1,
+            "Type": "K",
+            "Special": [
+                "Close Action"
+            ]
+        }
+    ],
+    "Load": [],
+    "Rules": [
+        {
+            "Name": "Mercenary",
+            "Text": "This Ship may be used in any Fleet regardless of faction. When taken as part of your fleet, this Ship loses its Boardable rule."
+        },
+        {
+            "Name": "Bulk Lighter",
+            "Text": "While a Ship with this rule is on the table, you have access to the following Ability:\nBattalion Support (1AP): Once per activation, when you deploy Battalions from a Group on any Orbital Layer within 6\" of a friendly Ship with the Bulk Lighter rule, choose one of the launching Asset types. If the chosen Asset is either Dropships or Drop Pods, place an additional Battalion. If the chosen Asset is Bulk Landers, place an additional two Battalions. Other Launch Assets are unaffected by this Ability."
+        }
+    ],
+    "AdmiralAbilities": [
+        {
+            "Cost": "1AP",
+            "Name": "Battalion Support",
+            "Effect": "Once per activation, when you deploy Battalions from a Group on any Orbital Layer within 6\" of a friendly Ship with the Bulk Lighter rule, choose one of the launching Asset types. If the chosen Asset is either Dropships or Drop Pods, place an additional Battalion. If the chosen Asset is Bulk Landers, place an additional two Battalions. Other Launch Assets are unaffected by this Ability."
+        }
+    ],
+    "KnownShips": [],
+    "Flavour": "It's a tough, thankless job hauling cargo from ground to space, but the Maganum Kinematics Mass Transporter takes it all in its stride. This reliable workhorse can be frequently seen flitting between orbit and atmosphere collecting and dispensing valuable cargo. During the reconquest, the durable, yet lightly armoured spaceframe of this vessel was used as a second line support vessel assisting troopships in setting up forward operating bases. Full of prefabricated barricades, fire-support bunkers, and even command centres, this small hauler vastly improves the efficiency of troops deployed to combat zones. Keeping the war machine well equipped, well stocked, and with a relatively comfortable, if cramped base to strike out at Scourge targets from.\nEven though their primary contracts are with the UCM, Maganum Kinematics have sold many of these to other non government organisations. Various shipping magnates operate at least one of these reliable ships at each of their destinations. More surprisingly, even other factions have been making use of these vessels. The PHR stationed at Earth have requisitioned a pair of these ships, as well as Kalium counting no fewer than four of these vessels amongst its fleet, though only two have been seen operating in the vicinity of Earth."
+}

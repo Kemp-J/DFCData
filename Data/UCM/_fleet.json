@@ -1,5 +1,5 @@
 {
-    "SourceVersion": "260529",
+    "SourceVersion": "260828",
     "Abilities": [
         {
             "Cost": "2AP",
@@ -148,7 +148,8 @@
         "granite_halsey.json"
     ],
     "Heroes": [
-        "rhiannon_major.json"
+        "rhiannon_major.json",
+        "frances_mendoza.json"
     ],
     "Ships": [
         "santiago.json",

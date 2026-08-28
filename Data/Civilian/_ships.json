@@ -1,5 +1,5 @@
 {
-    "SourceVersion": "260801",
+    "SourceVersion": "260901",
     "ShipRules": [
         {
             "Name": "Civilian Transport",
@@ -22,6 +22,7 @@
         "hyperyacht_somniferum.json",
         "ltype_barge.json",
         "lks_dredger.json",
+        "mk_mass_transporter.json",
         "mab_67_fuel_transport.json",
         "nirvana.json",
         "precedent_one.json",
