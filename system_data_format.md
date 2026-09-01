@@ -10,6 +10,7 @@ Within the System folder is a file `_system.json` which provides an entry point 
 
 - "SourceVersion": The version of the core rules PDF (taken from the PDF filename).
 - "GameSizes": The filename of the data file containing game size specifications.
+- "GroupLimits": The filename of the data file containing group and points limits.
 - "Admirals": The filename of the data file containing generic Admirals and Admiral abilities.
 - "SecondaryObjectives": The filename of the data file containing secondary objectives.
 - "ShipRules": The filename of the data file containing ship special rules.
@@ -21,6 +22,7 @@ Example:
 {
     "SourceVersion": "2.3.1",
     "GameSizes": "game_sizes.json",
+    "GroupLimits": "group_limits.json",
     "Admirals": "admirals.json",
     "SecondaryObjectives": "secondary_objectives.json",
     "ShipRules": "ship_rules.json",
@@ -40,6 +42,38 @@ Example:
 [
     {"Name": "Clash", "MinPts": 1001, "MaxPts": 2000, "MaxGroups": 20}
 ]
+```
+
+## Group limits data file
+
+Fleet-construction limits that are not expressed as game size rows are contained in a data file in json format.
+
+The file contains a dictionary with two sections:
+
+- "Tonnage": Limits keyed by ship tonnage (Light, Heavy, Colossal — Medium has no such limit).
+- "Rule": Limits keyed by ship special rule name (currently Hero and Rare).
+
+Each entry in either section is a dictionary giving exactly one of the following limit forms, plus a "Scope":
+
+- "MaxPointsFrom": A list of tonnages. The limit is a points cap equal to the combined points of ships of those tonnages elsewhere in the fleet.
+- "MaxGroups": A fixed maximum number of Groups.
+- "MaxGroupsByGameSize": A dictionary mapping game size name (as used in the game sizes data file) to the maximum number of Groups permitted at that game size.
+
+"Scope" is either "Fleet" (the limit applies across the whole fleet) or "Class" (the limit applies separately to each ship class). The numbers alone cannot distinguish these — a `Rare` limit of `1` at Skirmish size permits one Group *per Rare ship class*, while a `Hero` limit of `2` permits two Groups *in total* across all Hero ships — so "Scope" must be read alongside the limit value.
+
+Example:
+
+```json
+{
+    "Tonnage": {
+        "Light": {"MaxPointsFrom": ["Medium", "Heavy"], "Scope": "Fleet"},
+        "Colossal": {"MaxGroupsByGameSize": {"Skirmish": 0, "Clash": 1, "Battle": 2, "Reconquest": 3}, "Scope": "Fleet"}
+    },
+    "Rule": {
+        "Hero": {"MaxGroups": 2, "Scope": "Fleet"},
+        "Rare": {"MaxGroupsByGameSize": {"Skirmish": 1, "Clash": 2, "Battle": 3, "Reconquest": 4}, "Scope": "Class"}
+    }
+}
 ```
 
 ## Admirals data file

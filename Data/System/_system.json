@@ -1,6 +1,7 @@
 {
     "SourceVersion": "2.3.1",
     "GameSizes": "game_sizes.json",
+    "GroupLimits": "group_limits.json",
     "Admirals": "admirals.json",
     "SecondaryObjectives": "secondary_objectives.json",
     "ShipRules": "ship_rules.json",

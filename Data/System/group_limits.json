@@ -1,0 +1,41 @@
+{
+    "Tonnage": {
+        "Light": {
+            "MaxPointsFrom": [
+                "Medium",
+                "Heavy"
+            ],
+            "Scope": "Fleet"
+        },
+        "Heavy": {
+            "MaxPointsFrom": [
+                "Medium"
+            ],
+            "Scope": "Fleet"
+        },
+        "Colossal": {
+            "MaxGroupsByGameSize": {
+                "Skirmish": 0,
+                "Clash": 1,
+                "Battle": 2,
+                "Reconquest": 3
+            },
+            "Scope": "Fleet"
+        }
+    },
+    "Rule": {
+        "Hero": {
+            "MaxGroups": 2,
+            "Scope": "Fleet"
+        },
+        "Rare": {
+            "MaxGroupsByGameSize": {
+                "Skirmish": 1,
+                "Clash": 2,
+                "Battle": 3,
+                "Reconquest": 4
+            },
+            "Scope": "Class"
+        }
+    }
+}

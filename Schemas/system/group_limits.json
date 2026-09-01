@@ -1,0 +1,60 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "https://dfc/schemas/system/group_limits.json",
+    "title": "DFC Group Limits",
+    "description": "Fleet-construction limits outside of those in the game size data.",
+    "type": "object",
+    "required": ["Tonnage", "Rule"],
+    "additionalProperties": false,
+    "properties": {
+        "Tonnage": {
+            "description": "Limits keyed by ship tonnage.",
+            "type": "object",
+            "minProperties": 1,
+            "additionalProperties": { "$ref": "#/$defs/limit_entry" }
+        },
+        "Rule": {
+            "description": "Limits keyed by ship special rule name.",
+            "type": "object",
+            "minProperties": 1,
+            "additionalProperties": { "$ref": "#/$defs/limit_entry" }
+        }
+    },
+    "$defs": {
+        "limit_entry": {
+            "description": "Exactly one limit form, plus the scope it applies over.",
+            "type": "object",
+            "required": ["Scope"],
+            "additionalProperties": false,
+            "properties": {
+                "MaxPointsFrom": {
+                    "description": "Points limit equal to the combined points of these tonnages.",
+                    "type": "array",
+                    "items": { "enum": ["Light", "Medium", "Heavy", "Colossal"] },
+                    "minItems": 1,
+                    "uniqueItems": true
+                },
+                "MaxGroups": {
+                    "description": "Fixed maximum number of Groups.",
+                    "type": "integer",
+                    "minimum": 0
+                },
+                "MaxGroupsByGameSize": {
+                    "description": "Maximum Groups, keyed by game size name.",
+                    "type": "object",
+                    "minProperties": 1,
+                    "additionalProperties": { "type": "integer", "minimum": 0 }
+                },
+                "Scope": {
+                    "description": "Fleet: across the whole fleet. Class: per ship class.",
+                    "enum": ["Fleet", "Class"]
+                }
+            },
+            "oneOf": [
+                { "required": ["MaxPointsFrom"] },
+                { "required": ["MaxGroups"] },
+                { "required": ["MaxGroupsByGameSize"] }
+            ]
+        }
+    }
+}
