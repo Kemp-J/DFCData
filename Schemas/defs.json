@@ -56,7 +56,7 @@
         "WeaponType": {
             "description": "Weapon damage type: Kinetic, Energy, or Corrosive.",
             "type": "string",
-            "enum": ["K", "E", "C"]
+            "enum": ["K", "E", "C", "*"]
         },
 
         "ArcValue": {
